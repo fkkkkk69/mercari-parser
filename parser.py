@@ -1,13 +1,17 @@
-import requests
-import telebot
-import time
+import asyncio
 import json
 import os
+import time
 
-TOKEN = "8758293670:AAGeeusbVT6t0Bo2XLSBhioKYnisrTNZ__g"
-CHAT_ID = 2034814464
+import telebot
+from mercapi import Mercapi
+
+# Секреты берутся из переменных окружения, не хранятся в коде
+TOKEN = os.environ["TG_BOT_TOKEN"]
+CHAT_ID = int(os.environ["TG_CHAT_ID"])
 
 bot = telebot.TeleBot(TOKEN)
+m = Mercapi()
 
 # Ключевые слова для поиска (японский + английский)
 KEYWORDS = [
@@ -49,70 +53,53 @@ KEYWORDS = [
     "c2h4",
 ]
 SEEN_FILE = "seen.json"
+DELAY_BETWEEN_KEYWORDS = 3  # сек, чтобы не словить рейт-лимит
+POLL_INTERVAL = 300  # сек
+
 
 def load_seen():
     if os.path.exists(SEEN_FILE):
         with open(SEEN_FILE, "r") as f:
-            return json.load(f)
-    return []
+            return set(json.load(f))
+    return set()
+
 
 def save_seen(seen):
     with open(SEEN_FILE, "w") as f:
-        json.dump(seen, f)
+        json.dump(list(seen), f)
 
-def search_mercari(keyword):
-    url = "https://api.mercari.jp/v2/entities:search"
-    payload = {
-        "pageSize": 20,
-        "pageToken": "",
-        "searchSessionId": "test",
-        "indexRouting": "INDEX_ROUTING_UNSPECIFIED",
-        "searchCondition": {
-            "keyword": keyword,
-            "excludeKeyword": "",
-            "sort": "SORT_CREATED_TIME",
-            "order": "ORDER_DESC",
-            "status": ["STATUS_ON_SALE"],
-            "categoryId": [],
-        },
-        "defaultDatasets": ["DATASET_TYPE_MERCARI"]
-    }
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "X-Platform": "web",
-        "Accept": "application/json",
-        "Content-Type": "application/json",
-        "DPoP": "test"
-    }
+
+async def search_mercari(keyword):
     try:
-        r = requests.post(url, json=payload, headers=headers, timeout=10)
-        if r.status_code == 200:
-            data = r.json()
-            return data.get("items", [])
+        results = await m.search(keyword)
+        return results.items
     except Exception as e:
-        print(f"Ошибка: {e}")
-    return []
+        print(f"Ошибка поиска '{keyword}': {e}")
+        return []
 
-def check_new():
+
+async def check_new():
     seen = load_seen()
     new_items = []
 
     for keyword in KEYWORDS:
-        items = search_mercari(keyword)
+        items = await search_mercari(keyword)
         for item in items:
-            item_id = item.get("id")
+            item_id = item.id
             if item_id and item_id not in seen:
-                seen.append(item_id)
+                seen.add(item_id)
                 new_items.append({
                     "id": item_id,
-                    "name": item.get("name", ""),
-                    "price": item.get("price", 0),
+                    "name": item.name,
+                    "price": item.price,
                     "keyword": keyword,
-                    "url": f"https://jp.mercari.com/item/{item_id}"
+                    "url": f"https://jp.mercari.com/item/{item_id}",
                 })
+        await asyncio.sleep(DELAY_BETWEEN_KEYWORDS)
 
     save_seen(seen)
     return new_items
+
 
 def notify(item):
     text = (
@@ -124,14 +111,25 @@ def notify(item):
     )
     bot.send_message(CHAT_ID, text, parse_mode="Markdown")
 
-print("Парсер запущен. Проверка каждые 5 минут...")
 
-while True:
+async def main():
     print("Проверяю...")
-    new = check_new()
+    new = await check_new()
     for item in new:
         notify(item)
         print(f"Новый: {item['name']} — ¥{item['price']}")
     if not new:
         print("Новых нет.")
-    time.sleep(300)
+
+
+if __name__ == "__main__":
+    run_once = os.environ.get("RUN_ONCE", "0") == "1"
+    if run_once:
+        # Режим для GitHub Actions / cron: одна проверка и выход
+        asyncio.run(main())
+    else:
+        # Режим постоянного демона (например, для Railway)
+        print("Парсер запущен. Проверка каждые 5 минут...")
+        while True:
+            asyncio.run(main())
+            time.sleep(POLL_INTERVAL)
