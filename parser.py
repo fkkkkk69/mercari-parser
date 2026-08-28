@@ -85,7 +85,7 @@ async def check_new():
     for keyword in KEYWORDS:
         items = await search_mercari(keyword)
         for item in items:
-            item_id = item.id
+            item_id = item.id_
             if item_id and item_id not in seen:
                 seen.add(item_id)
                 new_items.append({
