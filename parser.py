@@ -80,6 +80,7 @@ async def search_mercari(keyword):
 
 async def check_new():
     seen = load_seen()
+    first_run = len(seen) == 0
     new_items = []
 
     for keyword in KEYWORDS:
@@ -88,16 +89,19 @@ async def check_new():
             item_id = item.id_
             if item_id and item_id not in seen:
                 seen.add(item_id)
-                new_items.append({
-                    "id": item_id,
-                    "name": item.name,
-                    "price": item.price,
-                    "keyword": keyword,
-                    "url": f"https://jp.mercari.com/item/{item_id}",
-                })
+                if not first_run:
+                    new_items.append({
+                        "id": item_id,
+                        "name": item.name,
+                        "price": item.price,
+                        "keyword": keyword,
+                        "url": f"https://jp.mercari.com/item/{item_id}",
+                    })
         await asyncio.sleep(DELAY_BETWEEN_KEYWORDS)
 
     save_seen(seen)
+    if first_run:
+        print(f"Первый запуск: сохранено {len(seen)} товаров как уже виденные, уведомления не отправлены.")
     return new_items
 
 
@@ -118,6 +122,7 @@ async def main():
     for item in new:
         notify(item)
         print(f"Новый: {item['name']} — ¥{item['price']}")
+        await asyncio.sleep(1)  # защита от 429 Too Many Requests в Telegram
     if not new:
         print("Новых нет.")
 
