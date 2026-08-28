@@ -1,9 +1,13 @@
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
 jobs:
   run:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -11,3 +15,14 @@ jobs:
           python-version: '3.13'
       - run: pip install -r requirements.txt
       - run: python parser.py
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          RUN_ONCE: '1'
+      - name: Save seen.json back to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add seen.json
+          git diff --staged --quiet || git commit -m "Update seen items [skip ci]"
+          git push
