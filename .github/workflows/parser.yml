@@ -1,6 +1,10 @@
 on:
   workflow_dispatch: {}
 
+concurrency:
+  group: mercari-parser-run
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -24,4 +28,8 @@ jobs:
           git config user.email "actions@github.com"
           git add seen.json debug_log.txt
           git diff --staged --quiet || git commit -m "Update seen items [skip ci]"
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin master && git push && break
+            echo "Push failed, retry $i..."
+            sleep 5
+          done
