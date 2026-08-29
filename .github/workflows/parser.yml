@@ -27,3 +27,4 @@ jobs:
           git add seen.json
           git diff --staged --quiet || git commit -m "Update seen items [skip ci]"
           git push
+# trigger re-registration
