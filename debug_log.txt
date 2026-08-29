@@ -4100,3 +4100,128 @@ item: BLEU DE CHANEL PARFUM 100ml 香水 kw=chanel price=15000
 item: CHANEL N°5 ヘアミスト kw=chanel price=2700
     vs 1444559584 -> False
     vs 2034814464 -> False
+=== run at 2026-08-29 19:23:30 UTC ===
+new items: 39, subscribers: 2
+  sub 1444559584: brands=['raf simons'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: ヴィヴィアンウエストウッド　アシンメトリー半袖Ｔシャツ kw=ヴィヴィアンウエストウッド price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood ヴィヴィアン 長財布 赤 kw=ヴィヴィアンウエストウッド price=2399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL ニット帽 ビーニー ブラック kw=ディーゼル price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: グッチ GUCCI 二つ折り財布 GGキャンバス ホースビッ kw=グッチ price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: 難あり美品 ✨GUCCI グッチ 二つ折り財布 シマレザー  kw=グッチ price=14800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI インターロッキングG シルバーリング kw=グッチ price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: H9728g◾️グッチ　ナイロンポーチ　ペンケース サングラ kw=グッチ price=4400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品 プラダ 長財布 ラウンドファスナー サフィアーノ レザ kw=プラダ price=39980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ✨️箱・Gカード付き✨️　極美品　PRADA　長財布　ラウン kw=プラダ price=15980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI ダブルG シルバー ピアス 片耳用 kw=gucci price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: BALMAIN バルマン メンズ スリッポン ブラック パイ kw=balmain price=12800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: John Galliano ガリアーノ 1998AW ヴィン kw=john galliano price=120000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: AMIRI ポロシャツ ホワイト kw=amiri price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: STONE ISLAND バックロゴ Tシャツ ブラック kw=stone island price=8399
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: 着画あり!!ヨウジヤマモト16AW 歌舞伎町 刺繍 オーバー kw=yohji yamamoto price=60000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ヨウジヤマモト ノアール ギミック 変形 レイヤードデザイン kw=yohji yamamoto price=26000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 値下げ済み　美品 Y-3 起毛ニット ファジー素材 ブラック kw=y-3 price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ベルンハルトウィルヘルム　Bernhard Willhelm kw=bernhard willhelm price=42700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CARPE DIEM 折りたたみ傘 kw=carpe diem price=1480
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: デュエマ ルード・ザーナ＜音が鳴いてる＞ 1枚 シク　シーク kw=rhude price=777
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ESSENTIALS FEAR OF GOD スウェットパン kw=fear of god price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: C.P. COMPANY ショートパンツ44 kw=c.p. company price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ［ジャンク!］ARC'TERYX アークテリクスソフトシェル kw=arcteryx price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ELMO ドッグフード リッチインチキン　5.4kg kw=hoodrich price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【希少】 BURBERRY BLUE LABEL ジージャン kw=burberry price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 大幅値下げ中！シュミーズLACOSTEポロシャツグリーン kw=lacoste price=1999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LACOSTE クルーネック 半袖Tシャツ グレー kw=lacoste price=2499
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE グレー パーカー M kw=the north face price=5399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE パーカー ベージュ kw=the north face price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ノースフェイス 半袖Tシャツ アイボリー　メンズM kw=the north face price=1200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE マスターシリンダー（3回程度使 kw=the north face price=7800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Oakley サングラス スートロライト kw=oakley price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OAKLEY キャップ 帽子 kw=oakley price=7700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: YSL クチュール ミニ クラッチ 910 アイシャドウ kw=ysl price=2200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【正規品 試着のみ】Dior Clair D Lune ブレ kw=dior price=33000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIOR Clair D Lune ネックレス シルバー kw=dior price=69999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior サンククルール クチュール kw=dior price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC JACOBS★ショルダーバッグ　ブラック　レッド　 kw=marc jacobs price=11380
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Jclass ラインストーンセットアップ GENDERJES kw=juicy couture price=5910
+    vs 1444559584 -> False
+    vs 2034814464 -> False
