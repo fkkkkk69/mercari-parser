@@ -143,6 +143,9 @@ KEYWORDS = [
     "ed hardy",
     "kmiri",
     "lgb",
+    "20471120",
+    "chanel",
+    "if six was nine",
 ]
 SEEN_FILE = "seen.json"
 DELAY_BETWEEN_KEYWORDS = 3
