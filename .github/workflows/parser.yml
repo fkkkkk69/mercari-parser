@@ -17,7 +17,8 @@ jobs:
       - run: python parser.py
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          API_SECRET: ${{ secrets.API_SECRET }}
           RUN_ONCE: '1'
       - name: Save seen.json back to repo
         run: |
