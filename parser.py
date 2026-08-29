@@ -141,6 +141,8 @@ KEYWORDS = [
     "juicy couture",
     "von dutch",
     "ed hardy",
+    "kmiri",
+    "lgb",
 ]
 SEEN_FILE = "seen.json"
 DELAY_BETWEEN_KEYWORDS = 3
