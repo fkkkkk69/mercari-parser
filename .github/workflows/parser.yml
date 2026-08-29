@@ -22,6 +22,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add seen.json
+          git add seen.json debug_log.txt
           git diff --staged --quiet || git commit -m "Update seen items [skip ci]"
           git push

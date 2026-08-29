@@ -237,18 +237,32 @@ def notify(chat_id, item):
 async def main():
     print("Проверяю...")
     new = await check_new()
+    debug_lines = [f"=== run at {time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime())} ==="]
     if not new:
         print("Новых нет.")
+        debug_lines.append("no new items")
+        with open("debug_log.txt", "a") as f:
+            f.write("\n".join(debug_lines) + "\n")
         return
 
     subs = get_subscribers()
+    debug_lines.append(f"new items: {len(new)}, subscribers: {len(subs)}")
+    for s in subs:
+        debug_lines.append(f"  sub {s.get('chat_id')}: brands={s.get('brands')}, price={s.get('price_min')}-{s.get('price_max')}, active={s.get('active')}")
+
     print(f"Найдено новых: {len(new)}, подписчиков: {len(subs)}")
 
     for item in new:
+        debug_lines.append(f"item: {item['name'][:30]} kw={item['keyword']} price={item['price']}")
         for sub in subs:
-            if matches(item, sub):
+            m = matches(item, sub)
+            debug_lines.append(f"    vs {sub.get('chat_id')} -> {m}")
+            if m:
                 notify(sub["chat_id"], item)
                 await asyncio.sleep(1)
+
+    with open("debug_log.txt", "a") as f:
+        f.write("\n".join(debug_lines) + "\n")
 
 
 if __name__ == "__main__":
