@@ -1,6 +1,4 @@
 on:
-  schedule:
-    - cron: '*/15 * * * *'
   workflow_dispatch: {}
 
 jobs:
@@ -27,4 +25,3 @@ jobs:
           git add seen.json
           git diff --staged --quiet || git commit -m "Update seen items [skip ci]"
           git push
-# trigger re-registration
