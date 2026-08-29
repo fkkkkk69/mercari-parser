@@ -230,8 +230,9 @@ def notify(chat_id, item):
     )
     try:
         bot.send_message(int(chat_id), text, parse_mode="Markdown")
+        return "ok"
     except Exception as e:
-        print(f"Не удалось отправить {chat_id}: {e}")
+        return f"ERROR: {e}"
 
 
 async def main():
@@ -258,7 +259,8 @@ async def main():
             m = matches(item, sub)
             debug_lines.append(f"    vs {sub.get('chat_id')} -> {m}")
             if m:
-                notify(sub["chat_id"], item)
+                result = notify(sub["chat_id"], item)
+                debug_lines.append(f"    notify result: {result}")
                 await asyncio.sleep(1)
 
     with open("debug_log.txt", "a") as f:
