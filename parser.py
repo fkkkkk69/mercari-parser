@@ -228,11 +228,20 @@ def notify(chat_id, item):
         f"🔍 Запрос: {item['keyword']}\n"
         f"🔗 [Открыть]({item['url']})"
     )
-    try:
-        bot.send_message(int(chat_id), text, parse_mode="Markdown")
-        return "ok"
-    except Exception as e:
-        return f"ERROR: {e}"
+    for attempt in range(2):
+        try:
+            bot.send_message(int(chat_id), text, parse_mode="Markdown")
+            return "ok"
+        except telebot.apihelper.ApiTelegramException as e:
+            if e.error_code == 429:
+                retry_after = getattr(e, "result_json", {}).get("parameters", {}).get("retry_after", 20)
+                if attempt == 0 and retry_after <= 60:
+                    time.sleep(retry_after + 1)
+                    continue
+                return f"ERROR: rate limited, retry_after={retry_after}s, giving up this run"
+            return f"ERROR: {e}"
+        except Exception as e:
+            return f"ERROR: {e}"
 
 
 async def main():
