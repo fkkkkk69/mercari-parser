@@ -66610,3 +66610,100 @@ item: CHANEL N°5 ジェル パフューム 250ml kw=chanel price=8000
 item: 【新品未開封極美品】シャネルスパチュラ小 kw=chanel price=1100
     vs 1444559584 -> False
     vs 2034814464 -> False
+=== run at 2026-08-30 19:08:34 UTC ===
+new items: 30, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: rick owens drkshdw パーカー s kw=リックオウエンス price=27500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood オーブ ネックレス シル kw=ヴィヴィアンウエストウッド price=7000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL ボーンプリント プルオーバーパーカー フーディ kw=ディーゼル price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: プラダ 財布 コンパクトジップ 小型 サフィアーノ レザー  kw=プラダ price=31980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【現行品】プラダ サフィアーノ ロング ウォレット トライア kw=プラダ price=26000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ナンバーナイン NUMBER (N)INE 半袖 Tシャツ  kw=number nine price=6499
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> True
+    notify result: ok
+item: Vivienne Westwood ヴィヴィアンウエストウッ kw=vivienne westwood price=300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Jean Paul Gaultier Le Male 香水  kw=jean paul gaultier price=4400
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: amipari アミパリ　タンクトップ kw=amiri price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: New Balance Stone Island U1890 kw=stone island price=30100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 11 by Boris Bidjan Saberi ホワイト kw=boris bidjan saberi price=42000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: バレンシアガ　カメラバック kw=balenciaga price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS クロムハーツ ロンT ブラック  kw=chrome hearts price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ネックロゴ ポケットTシャツ kw=chrome hearts price=89900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GU コットンブレンドイージーパンツ ベージュ kw=yeezy price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DENIM TEARS風 ショートパンツ ライトブルー kw=denim tears price=7777
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE JORDAN スニーカー　25.0 トランナー L kw=nike price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER FRGMT デニム 40 藤原ヒロシ kw=moncler price=33200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BURBERRY ポロシャツ ブラック kw=burberry price=69999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 70355 Burberrys ハンカチ ノバチェック kw=burberry price=490
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【定番】THE NORTH FACE デナリジャケット 黒  kw=the north face price=7800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ノースフェイス半袖Tシャツ　メンズ M スクエアロゴ キャメ kw=the north face price=400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ノースフェイス　ロングスリーブフラッシュドライヌプシコットン kw=the north face price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: E5-66 イヴサンローラン ユーロ古着 フランス製 ストラ kw=saint laurent price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior Lady D-Joy バッグ ブラック kw=dior price=444000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior ロゴプレート チェーン ブレスレット シルバーカラ kw=dior price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIOR期間限定色ピンク色 kw=dior price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL CRISTALLE EAU DE TOILET kw=chanel price=400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL BLEU DE CHANEL パルファム 50 kw=chanel price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL ヴェルニ マジック ネイルカラー kw=chanel price=700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
