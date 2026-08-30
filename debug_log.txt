@@ -66890,3 +66890,61 @@ item: Converse Chuck Taylor Pro Sean kw=converse price=2850
 item: gimmick Flare Cargo Pants カーゴパ kw=lgb price=14000
     vs 1444559584 -> False
     vs 2034814464 -> False
+=== run at 2026-08-30 20:08:27 UTC ===
+new items: 17, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: UNDERCOVER WTAPS HAT UC2B9H01  kw=アンダーカバー price=6490
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: rick owens バウハウス kw=リックオウエンス price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Rick Owens トートバッグ kw=リックオウエンス price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Rick Owens 風 フォグボクサー 風 ボトムス レザ kw=リックオウエンス price=2980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA ポロシャツ kw=プラダ price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 極美品　定価98000円　GUCCI グッチ ナイロン ハン kw=gucci price=9900
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: 【中古】GUCCI レディース 腕時計 Gロゴ チャーム付き kw=gucci price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: PRADA プラダ ショルダーバッグ グレー　ロゴレザーショ kw=prada price=100000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ★【Wpc.公式】UVカット 接触冷感アームカバー オフホワ kw=off-white price=1999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON モノグラム ソミュール30 ショ kw=louis vuitton price=80000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ストレッチジョーゼット ワイド パンツ　23区 kw=yeezy price=9999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE ナイキ 半袖 Tシャツ ピンク Vネック kw=nike price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE ナイキ DRI-FIT ビッグスウッシュ パーカー kw=nike price=4480
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: モンクレール アニメタグ コミックタグ kw=moncler price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE デナリジャケット ポーラテック kw=the north face price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: サンローラン 財布 カサンドラ 革 YSL 金具 コンパクト kw=saint laurent price=44980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ALLSAINTS ホワイト ロングシャツワンピース kw=allsaints price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
