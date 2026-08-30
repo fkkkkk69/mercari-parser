@@ -66199,3 +66199,157 @@ item: CHANEL アイシャドウ パレット 4色 kw=chanel price=2000
 item: CHANEL シャネル No19 オードトワレ100ml kw=chanel price=1700
     vs 1444559584 -> False
     vs 2034814464 -> False
+=== run at 2026-08-30 18:08:37 UTC ===
+new items: 49, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: 01ss NUMBER (N)INE “Chocolate” kw=ナンバーナイン price=22000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: Rick Owens ダブルレイヤードT シャツ kw=リックオウエンス price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Rick Owens ブラック カーゴショーツ　48サイズ kw=リックオウエンス price=115000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood ネックレス kw=ヴィヴィアンウエストウッド price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood Tシャツ オーブ スカル kw=ヴィヴィアンウエストウッド price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【BLACK COMME des GARCONS】 メッシュ kw=コムデギャルソン price=10500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: (61)DIESEL Tシャツ ホワイト ロゴプリント kw=ディーゼル price=700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HYSTERIC GLAMOUR キャップ kw=hysteric glamour price=9500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI GGキャンバス アクセサリーポーチ ハンドバッグ kw=gucci price=23999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA トライアングルロゴ ピアス ゴールド kw=prada price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ シンボル リング　ブラックダイヤモンド　 kw=prada price=46000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【未使用 超希少】 ジョンガリアーノ コレクションモデル ジ kw=john galliano price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ⭐️新品⭐️AMIRI ロゴ Tシャツ ブラック kw=amiri price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: AMIRI ロゴ Tシャツ ブラック kw=amiri price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: me ISSEY MIYAKE ミーイッセイミヤケ トップス kw=issey miyake price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ヨウジヤマモト ショルダーバッグ 2WAY 本革 ブラック kw=yohji yamamoto price=32000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Y-3 バックパック リュック ブラック kw=y-3 price=14500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品 ドリスヴァンノッテン DRIES VAN NOTEN  kw=dries van noten price=42980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ANCELLM MELANGE SHORT CRASH SH kw=off-white price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA BBロゴ ベルト kw=balenciaga price=22555
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: balenciaga platform 41 kw=balenciaga price=190000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: クロームハーツ　CHROME HEARTS フレームドチャー kw=chrome hearts price=75000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ウォレット 財布 kw=chrome hearts price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 怪盗妖精カサブランカ 信じていたのに裏切られるなんて! 4枚 kw=casablanca price=399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior スラックス ブラック 44サイズ kw=dior homme price=55000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Corteiz コーテイズ ハーフパンツ スウェット イージ kw=corteiz price=14000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE キッズ スニーカー ベージュ ホワイト kw=nike price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE AIR ナイロンジャケット Sサイズ kw=nike price=7200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Burberry トレンチコート ベージュ kw=burberry price=44000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Burberry Tシャツ kw=burberry price=8888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【大人気デザイン】ザノースフェイス 半袖Tシャツ ホワイト  kw=the north face price=600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【極美品】THE NORTH FACE Tシャツ ホワイト  kw=the north face price=2200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【SALOMON】ステッカー kw=salomon price=300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【自宅試着のみ】サンローラン デニム 27インチ kw=saint laurent price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 未使用 サンローラン パリ SAINT LAURENT PA kw=saint laurent price=59980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: イヴサンローラン　ルージュ　ピュールクチュール　ヴェルニ　ヴ kw=ysl price=2599
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior 三つ折り財布 オブリーク コンパクトウォレット kw=dior price=45000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIOR ジャスミン デ ザンジュ ハンド＆ボディソープ kw=dior price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: オールセインツ レディース トップス Tシャツ ALLSAI kw=allsaints price=24480
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: オールセインツ デニムパンツ ボトムス シガレット ストレッ kw=allsaints price=2800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【82様専用】Ubiquiti UniFi Switch 8 kw=unif price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LIP SERVICE シャツドッキングプリーツワンピース  kw=lip service price=6333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 極美品 Dr.Martens 1461 3ホール 黒 イエロ kw=dr. martens price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ◎9月1日まで値下げ◎Dr. Martens バスキアコラボ kw=dr. martens price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CONVERSE コンバース オールスター ローカットスニー kw=converse price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL シャネル　香水　N°22 オーデコロン　N19 kw=chanel price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL ココマドモアゼル 20ml×3リフィル2本 未 kw=chanel price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 値下げしました！！CHANEL ラ クレーム マン テクスチ kw=chanel price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: if six was nine MINIMUMタンク超ロング kw=if six was nine price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
