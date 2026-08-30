@@ -65404,3 +65404,369 @@ item: 50ml CHANEL CHANCEオータンドゥル オードゥ kw=chanel price=5000
 item: CHANEL ユイル ア オングル ネイルオイル kw=chanel price=3000
     vs 1444559584 -> False
     vs 2034814464 -> False
+=== run at 2026-08-30 17:08:37 UTC ===
+new items: 119, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: NIKE×UNDERCOVER DBREAK BLACK 2 kw=アンダーカバー price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: NUMBER (N)INE ナンバーナイン サングラス ティ kw=ナンバーナイン price=10999
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: HYSTERIC GLAMOUR THE CRAMPS Tシ kw=ヒステリックグラマー price=3980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood nano ピアス kw=ヴィヴィアンウエストウッド price=7000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Sサイズ Stüssy eYe JUNYA WATANABE kw=ジュンヤワタナベ price=18999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Mサイズ Stüssy eYe JUNYA WATANABE kw=ジュンヤワタナベ price=19890
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BLACK COMME des GARÇONS Tシャツ 1 kw=コムデギャルソン price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PLAY COMME des GARCONS ドットハート  kw=コムデギャルソン price=4999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: helmut lang イエローフードパーカー NEW YO kw=ヘルムートラング price=9900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL Tシャツ ブラック Dロゴ kw=ディーゼル price=7000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【PRADA】ナイロン 二つ折り財布 ブラック kw=プラダ price=8350
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: m*a様 韓国限定 プラダを着た悪魔2 ロッテシネマ 限定  kw=プラダ price=3300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI収納バッグ付きエコバッグ kw=gucci price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: GUCCI ゴースト リング シルバー 17号 kw=gucci price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI インターロッキングG スタッドピアス/イヤリング kw=gucci price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA ショルダーバッグ ブラック kw=prada price=6399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA ロゴ チェーン ブレスレット シルバー M kw=prada price=10999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ⭐︎箱付き PRADA PARADOXE ヘアミスト 30m kw=prada price=6666
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA ハンド トリプルケア ハンドクリーム 50ml kw=prada price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HELMUT LANG デニムジャケット 46サイズ 本人期 kw=helmut lang price=45500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Lサイズ Stüssy eYe JUNYA WATANABE kw=junya watanabe price=19680
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ozk_様専用　JUNYA WATANABE MAN 白　シ kw=junya watanabe price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: AMIRI Tシャツ kw=amiri price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: アミリ メッシュキャップ ブラック kw=amiri price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: AMIRI DESTROY MA TRUCKER NUBIA kw=amiri price=56000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ISSEY MIYAKE カシミヤ100% ニットジャケット kw=issey miyake price=13350
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BAO BAO ISSEY MIYAKE トートバッグ ピン kw=issey miyake price=19999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ISSEY MIYAKE バングルウォッチ クリア O kw=issey miyake price=12800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: issay miyake grunge gimmick ba kw=issey miyake price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Y's ヨウジヤマモト レザーキャンバストートバッグ kw=yohji yamamoto price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Yohji Yamamoto POUR HOMMEパンツ◎S kw=yohji yamamoto price=27200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Y-3 NEIGHBORHOOD ワイスリーネイバーウッドコ kw=y-3 price=49999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Y-3 Tシャツ ブラック サイズS/P kw=y-3 price=4200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ポケットモンスター Y 3DSソフト kw=y-3 price=1199
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Y-3 タンクトップレイヤード前開きTシャツ ブラック XS kw=y-3 price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Kiko kostadinov FITZ TROUSER kw=kiko kostadinov price=80000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Kiko Kostadinov BINDRA CARGO T kw=kiko kostadinov price=28700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: POST ARCHIVE FACTION トートバッグ メン kw=post archive faction price=23400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: post archive faction PAF 8.0 R kw=post archive faction price=27000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: USコットンフリンジ深Vベスト　discoat kw=off-white price=1299
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Twenty three　フリル付きカットソー kw=off-white price=750
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ノースフェイス S/S Zoo Picker Tee Off kw=off-white price=5800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Ocean ground プリントTシャツ kw=off-white price=1199
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LEPSIM 長袖カットソー レース kw=off-white price=1300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNIQLO リブクルーネックT 半袖 オフホワイト M kw=off-white price=780
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE スウェット セットアップ パーカー パンツ クリー kw=off-white price=6800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【新品タグ付】UNIQLO ユニクロ フランネルシャツ 白  kw=off-white price=1080
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Hello Kitty LAID BACK LIFE Tシャ kw=off-white price=3200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GU ウォッシャブルポロセーター(半袖) オフホワイト kw=off-white price=990
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNIQLO リネンブレンドバンドカラーシャツ オフホワイト kw=off-white price=1890
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ドッキングトップス パーカー シャツ レイヤード風 スウェッ kw=off-white price=599
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: L ドロップショルダー Tシャツ B:MING by BEA kw=off-white price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Kalita キャンバス ミニ2wayトートバッグ オフホワ kw=off-white price=1100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 透かし編みニットレースカーディガン kw=off-white price=2600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: SHEENA DEL RAY リボン刺繍 半袖ブラウス kw=off-white price=1333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Champion ノースリーブパーカー CW-T104 L kw=off-white price=2600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【オーバルダイス】Uネック半袖Tシャツ(LL)カジュアル 平 kw=off-white price=1480
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: アディダス　レズミルズ　レスミルズ　タンクトップ　ノースリー kw=off-white price=1900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 自動開閉遮光折りたたみ傘 軽量タイプ TU-0005 kw=off-white price=1870
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: JEAN-MICHEL BASQUIAT Tシャツ 恐竜 kw=off-white price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 長袖シャツ オフホワイト Freeサイズ kw=off-white price=1650
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: オープンカラーシャツ 総柄 ボタニカル柄 白 黒 半袖 かり kw=off-white price=2800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: SNACKER ポロシャツ オフホワイトユニクロGU青木青山 kw=off-white price=399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BEAUTY&YOUTH UNITED ARROWS ブラウ kw=off-white price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: しまむら 星名桜子 ブラウス オフホワイト 長袖 kw=off-white price=1333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 古着　半袖Tシャツ 象プリント ホワイト kw=off-white price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MK&T ジュエリーボックス ギフトケース kw=off-white price=3400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ICEPARDAL UVカット 遮熱 パーカー kw=off-white price=1900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: united sports headline ワッフル長袖T kw=off-white price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: クロシェ編みキャミソール　Tシャツ 2点セット kw=off-white price=1399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ZARA 半袖 ポロニット M kw=off-white price=980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Rope Picnic ロペピクニック ブラウス サイズ38 kw=off-white price=680
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ユニクロ半袖ニット M kw=off-white price=850
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NORMANBROS Tシャツ 刺繍 スイマー Lサイズ kw=off-white price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARKEY'S ステッチ半袖Tシャツ kw=off-white price=1100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: h+ 堀江陶器 波佐見焼 フレームトレイ スクエア kw=off-white price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: POLO ポロベア ニット帽 ビーニー ポンポン付き kw=off-white price=5900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNIQLO UVカットクルーネックカーディガン/ウォッシャ kw=off-white price=1200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HUNCH レースパッチワークシャツ kw=off-white price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: jouetie コーデュロイショートパンツ　オフホワイト kw=off-white price=1180
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: パーカー オフホワイト XL kw=off-white price=500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOWRYSFARM レースメーロー　オフホワイト kw=off-white price=1690
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ヤクオウド―×ヘラルボニー コラボTシャツ オフホワイト M kw=off-white price=2300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: moment+ ワンショルドレープSS5分袖リブニットプルオ kw=off-white price=1999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NICE CLAUP ニットチュニック/リボン付きレースキャ kw=off-white price=3200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ROUNDEL LONDON Tシャツ Mサイズ　イタリア製 kw=off-white price=900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: グラニフ Tシャツ 原始家族フリントストーン クルーネック  kw=off-white price=1200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: gelato pique ルームパンツ kw=off-white price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MK ミシェルクラン ブラウス オフホワイト kw=off-white price=550
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: FRED PERRY フレッドペリー ティップライン Tシャ kw=off-white price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA リュック バックパック ブラック kw=balenciaga price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: バレンシアガ キャスケット レディース キャップ kw=balenciaga price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【限定値下げ】Mowalola x Lotto コラボ キャ kw=balenciaga price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS クロス ペンダントトップ kw=chrome hearts price=200000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GIVENCHY PARIS ロゴ 半袖 Tシャツ 後ろ反転 kw=givenchy price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GIVENCHY クローバー ネックレス kw=givenchy price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ジバンシー　ブレスレット　ホワイトストーン　喜平　クリスタル kw=givenchy price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HELLSTAR ヘブン・オン・アース Tシャツ kw=hellstar price=39800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 値下げ⭕️HELLSTAR ツアーグラフィック パーカー M kw=hellstar price=13900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: アークテリクス kw=arcteryx price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: アークテリクス　ステッカー　初期 kw=arcteryx price=4400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER ダブルロゴワッペン Tシャツ カーキ kw=moncler price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Burberry Blue Label タンクトップ ブラッ kw=burberry price=3490
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE リンガーTシャツ ブラック M kw=the north face price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE 半袖Tシャツ ピンク kw=the north face price=1699
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ノースフェイス　Tシャツ　Lサイズ kw=the north face price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE プルオーバーパーカー ブラック kw=the north face price=5555
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE クルーネックTシャツ ブラック kw=the north face price=3520
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OAKLEY フルジップパーカー ゴールド系 トレーニング  kw=oakley price=2999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: イブ・サンローランファンデーション【サンプル】 kw=ysl price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior Backstage Eye Palette 003 kw=dior price=1888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNIFLAME Kitchen Tank ユニフレームキッ kw=unif price=2550
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC JACOBS THE TOTEBAG ミディアム  kw=marc jacobs price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LIP SERVICE ツイードリボンオフショルトップス ア kw=lip service price=5111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Ed Hardy 長袖Tシャツ デビルプリント ブラック kw=ed hardy price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品未使用｜CHANEL ルージュ ココ イドゥラ グロス  kw=chanel price=4650
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL LA CRÈME MAIN TEXTURE R kw=chanel price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL ヴェルニ 425 デジラブル ネイル エナメル kw=chanel price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: シャネル　香水　N19 ２本セット kw=chanel price=599
+    vs 1444559584 -> False
+    vs 2034814464 -> False
