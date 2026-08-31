@@ -108581,3 +108581,99 @@ item: MARC BY MARC JACOBS レザーリュック ブラ kw=marc jacobs price=1420
 item: ノースリーブ　シャツ　ＴＴ kw=if six was nine price=23000
     vs 1444559584 -> False
     vs 2034814464 -> False
+=== run at 2026-08-31 19:08:40 UTC ===
+new items: 30, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: UNDERCOVER ブラック スキニーパンツ kw=アンダーカバー price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: number nine サーマル kw=ナンバーナイン price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: Number (n)ine ライオン Tシャツ archiv kw=ナンバーナイン price=14000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: HYSTERIC GLAMOUR Tシャツ 完売品 kw=ヒステリックグラマー price=17999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【超希少】10ss jil sander ラフ シモンズ期  kw=ラフシモンズ price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood ネックレス シルバー kw=ヴィヴィアンウエストウッド price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HELMUT LANG 17AW アーカイブ カシミヤ ボン kw=ヘルムートラング price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL ディーゼル前デニム後スエットダメージ加工 25 kw=ディーゼル price=2499
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL デニムジャケット Gジャン kw=ディーゼル price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI グッチ ドラえもんコラボ ミニ GGスプリーム  kw=グッチ price=68000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI リング 指輪 シルバー　17号 kw=gucci price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI ダブルG バックル レザーベルト ブラック kw=gucci price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 初期　ベルギー製　ダークビッケンバーグ ロールアップ　v 半 kw=dirk bikkembergs price=20800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA ブラック 半袖 Tシャツ XS 201 kw=balenciaga price=28500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA 3xl スニーカー 42サイズ kw=balenciaga price=35100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ラージクロス kw=chrome hearts price=289000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: クロムハーツ/リング kw=chrome hearts price=20099
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: クロムハーツ ネックレス kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【期間限定】STACK STAR スタースタックチャーム ネ kw=chrome hearts price=9900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER PALM ANGELS トラックパンツ kw=palm angels price=36000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CASABLANCA ワンピース kw=casablanca price=19440
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DENIM TEARS ハーフパンツ ブラック Mサイズ kw=denim tears price=28000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER Tシャツ ブラック kw=moncler price=23000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品 カナダグース CANADA GOOSE キャップ エブ kw=canada goose price=26790
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ノースフェイス　ロンT kw=the north face price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: オークリージュリエット風　偏光サングラス ブラックレンズ kw=oakley price=3999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Salomon XT-6 グレー kw=salomon price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UPPER FIELD ONE minnano cup an kw=american apparel price=7280
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: コンバースCONVERSEオリーブ グリーンレザー黒23.5 kw=converse price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL サブリマージュ レクストレ ドゥ クレーム 5 kw=chanel price=1999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
