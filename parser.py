@@ -225,10 +225,23 @@ async def check_new():
 
 
 def matches(item, sub):
-    brands = [b.lower() for b in sub.get("brands", [])]
-    if brands and not any(b in item["keyword"] or b in item["name"].lower() for b in brands):
-        return False
     price = item["price"]
+    name_lower = item["name"].lower()
+    keyword = item["keyword"]
+
+    brand_filters = sub.get("brand_filters") or {}
+    if brand_filters:
+        for brand, r in brand_filters.items():
+            b = brand.lower()
+            if (b in keyword or b in name_lower) and r.get("min", 0) <= price <= r.get("max", 9999999):
+                return True
+        # индивидуальные фильтры заданы, но общего brands нет — не пропускаем дальше
+        if not sub.get("brands"):
+            return False
+
+    brands = [b.lower() for b in sub.get("brands", [])]
+    if brands and not any(b in keyword or b in name_lower for b in brands):
+        return False
     if price < sub.get("price_min", 0) or price > sub.get("price_max", 9999999):
         return False
     return True
