@@ -229,21 +229,27 @@ def matches(item, sub):
     name_lower = item["name"].lower()
     keyword = item["keyword"]
 
-    brand_filters = sub.get("brand_filters") or {}
-    if brand_filters:
-        for brand, r in brand_filters.items():
-            b = brand.lower()
-            if (b in keyword or b in name_lower) and r.get("min", 0) <= price <= r.get("max", 9999999):
-                return True
-        # индивидуальные фильтры заданы, но общего brands нет — не пропускаем дальше
-        if not sub.get("brands"):
+    brands = [b.lower() for b in sub.get("brands", [])]
+    if not brands:
+        return False
+
+    matched_brand = None
+    for b in brands:
+        if b in keyword or b in name_lower:
+            matched_brand = b
+            break
+    if matched_brand is None:
+        return False
+
+    brand_prices = sub.get("brand_prices") or {}
+    price_range = brand_prices.get(matched_brand)
+    if price_range is None:
+        price_range = sub.get("global_price")
+
+    if price_range:
+        if price < price_range.get("min", 0) or price > price_range.get("max", 9999999):
             return False
 
-    brands = [b.lower() for b in sub.get("brands", [])]
-    if brands and not any(b in keyword or b in name_lower for b in brands):
-        return False
-    if price < sub.get("price_min", 0) or price > sub.get("price_max", 9999999):
-        return False
     return True
 
 
