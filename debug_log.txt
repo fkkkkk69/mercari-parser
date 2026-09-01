@@ -1,86 +1,4 @@
     vs 2034814464 -> False
-item: Vivienne Westwood オーブ ネックレス ブラ kw=ヴィヴィアンウエストウッド price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ジュンヤワタナベ JUNYA WATANABE JF-S04 kw=ジュンヤワタナベ price=40600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY COMME des GARCONS 長袖Tシャツ  kw=コムデギャルソン price=7200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【値下げ】DIESEL デニム kw=ディーゼル price=1999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI✨ハート Gロゴ シルバー ネックレス 箱付き kw=グッチ price=11880
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ✅【美品】 メンテ済み グッチ　長財布　ブラック　グッチシマ kw=グッチ price=27800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: COACH GUCCI CLATHAS 取り扱い説明書 kw=グッチ price=999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA 新品 サフィアーノ パスケース付 GOLD金具  kw=プラダ price=42000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA ナイロン×レザー、ファスナータイプ二つ折り財布 kw=プラダ price=12800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: UNDERCOVER JUN TAKAHASHI HELLO kw=undercover price=2800
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: Hysteric Glamour ネックレス 2点セット kw=hysteric glamour price=7700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR キャップ　最安‼️ kw=hysteric glamour price=9600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI シルバー リング　レディース　11号 kw=gucci price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ✨近年モデル・ギャランティ付✨プラダ ショルダーバッグ 三角 kw=prada price=34200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA インフュージョン ドゥ プラダ フィグ kw=prada price=7777
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA PARADIGME EAU DE PARFUM  kw=prada price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood ロゴデザイン シルバーリ kw=vivienne westwood price=3566
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: MAISON MARGIELA メゾンマルジェラ ネックスト kw=maison margiela price=14500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Maison Margiela 足袋スニーカー ブラック値下 kw=maison margiela price=18000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLEATS PLEASE イッセイミヤケ カットソー kw=issey miyake price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 最終価格 未使用■Y-3 yohji yamamoto■スニ kw=yohji yamamoto price=15800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 24AW Yohji Yamamoto アーミーギャバ カラ kw=yohji yamamoto price=59800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: dries van noten 23aw ボタニカル柄 カー kw=dries van noten price=66000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【タイムセール】ANDERSSON BELL UPSIDE- kw=andersson bell price=27000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: POWERHOUSE GYM x CARPE DIEM ラッ kw=carpe diem price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: OFF-WHITE アートプリント パーカー ブラック kw=off-white price=50000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: UNIQLO ドライEXUVカットフルジップパーカ 01 O kw=off-white price=1488
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: Chrome Hearts クロスバンド フープピアス 片耳 kw=chrome hearts price=83000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1996,5 +1914,87 @@ item: MARC BY MARC JACOBS　トートバック　キャン kw=marc jacobs price=
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: CHANELハート型 ネイルパーツ デコパーツ まとめ売り kw=chanel price=640
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-01 19:08:43 UTC ===
+new items: 26, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: Vivienne Westwood ネックレス 箱付き kw=ヴィヴィアンウエストウッド price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: JUNYA WATANABE MAN グラフィックTシャツ  kw=ジュンヤワタナベ price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: COMME des GARCONS PLAY ハートロゴ カ kw=コムデギャルソン price=13500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL 三つ折り財布 kw=ディーゼル price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 100【未使用級】PRADA 二つ折り財布 折り財布 kw=プラダ price=23180
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: (CattyMan) モダンルームスクラッチ 替え柱 キャテ kw=424 price=3628
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ リュック バックパック kw=prada price=300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Maison Margiela グラフィック Tシャツ kw=maison margiela price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Jean Paul GAULTIER HOMME 花柄 長袖 kw=jean paul gaultier price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: JIL SANDER カードケース ダークブラウン kw=jil sander price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【G-DRAGON着用】BALENCIAGA サングラス 完 kw=balenciaga price=38000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: YEEZY 700 V3 kw=yeezy price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品！adidas YEEZY Slideイージースライド2 kw=yeezy price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: jeanasis 5ポケットスウェットコクーンパンツ＊グレー kw=yeezy price=5222
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BE@RBRICK SPIDER-MAN 【カーネイジ】 kw=sp5der price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Corteiz Dual-Layer Litework Pa kw=corteiz price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 80s C.P.COMPANY イージーパンツ MASSIM kw=c.p. company price=17680
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE スウェットパンツ ホワイト kw=nike price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OAKLEY JAWBREAKER オークリー ジョーブレー kw=oakley price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ＜asics＞GT-2160 BREEZE スニーカー kw=asics price=15400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品☆片方のみ】DIOR ディオール　イヤリング　ゴールド kw=dior price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior ディオール ロゴ チェーン ネックレス ゴールド  kw=dior price=22100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC JACOBS ショルダーバッグ ブラック kw=marc jacobs price=7300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: リップサービス ポイントポケットケーブルハーフニット kw=lip service price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: jaebleu様専用☆CHANEL UV エサンシエル日焼け kw=chanel price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL DOUBLE TEINT POUDRE 51  kw=chanel price=999
     vs 1444559584 -> False
     vs 2034814464 -> False
