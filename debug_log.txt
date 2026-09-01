@@ -1,83 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: オークリーOAKLEY frogskins range美品 kw=oakley price=14500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Salomon スニーカー 28cm サロモン　kith A kw=salomon price=26000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 完売　Salomon XT-WHISPER VOID ブラッ kw=salomon price=19000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ASICS GEL-VENTURE 6 メンズ　スニーカー　 kw=asics price=9700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: アシックスシューズ26.5センチ kw=asics price=9300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ASICS アシックス SWIFTACE 27cm kw=asics price=10500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: YVES SAINT LAURENT エンベロープ ショルダ kw=saint laurent price=18000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: イヴ・サンローラン Y オーデトワレ 100ml kw=ysl price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: YSL リブレ ローニュ10ml kw=ysl price=4200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: MARC JACOBS ロゴ リング ゴールド×ネイビー　指 kw=marc jacobs price=400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE バイカラークラシカルマーメイドワンピ kw=lip service price=3799
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIPSERVICEセーラーカラーチェーンニット kw=lip service price=4555
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE チェック柄 クロップドジャケット M kw=lip service price=4480
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: converse ct70 28.5 コンバース チャックテ kw=converse price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CONVERSE オールスター ハイ ゴールド グリッター  kw=converse price=2180
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【激レア】Ed Hardy × X LARGE 刺繍パーカー kw=ed hardy price=14000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 90s 20471120 Art rock roll T s kw=20471120 price=19500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL 香水 試供品 kw=chanel price=550
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL CHANCE EAU TENDRE 香水 kw=chanel price=7200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL ALLURE HOMME オードトワレ kw=chanel price=11200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-=== run at 2026-09-01 15:53:42 UTC ===
-new items: 73, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
-item: HYSTERIC GLAMOUR タンクトップ ブラック kw=ヒステリックグラマー price=7900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Rick Owens x Converse Turbodrk kw=リックオウエンス price=60000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood ショルダーバッグ kw=ヴィヴィアンウエストウッド price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ヴィヴィアンウエストウッド ポーチ ディアマンテオーブ リッ kw=ヴィヴィアンウエストウッド price=17800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood MAN デニムパンツ kw=ヴィヴィアンウエストウッド price=9500
-    vs 1444559584 -> False
     vs 2034814464 -> False
 item: Vivienne Westwood オーブ ネックレス ブラ kw=ヴィヴィアンウエストウッド price=11000
     vs 1444559584 -> False
@@ -1996,5 +1916,85 @@ item: CHANELリップ kw=chanel price=6000
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: シャネルCHANELチャンスオー タンドゥル モイスチャー  kw=chanel price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-01 18:53:27 UTC ===
+new items: 25, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', '20471120', 'gucci', 'stone island', 'cp company', 'amiri', 'jean paul gaultier', 'john galliano'], price=1000-10000, active=True
+item: NUMBER (N)INE Tシャツ Vネック　ホワイト kw=ナンバーナイン price=2380
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: PLAY COMME des GARÇONS ハートロゴ T kw=コムデギャルソン price=10500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI ショルダーバッグ　ウエストポーチ kw=グッチ price=17100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Bernhard Willhelm 2006S/S アーカイ kw=bernhard willhelm price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GU ボリュームスリーブT カットソー Tシャツ kw=off-white price=888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA 3XL 44 イエロー kw=balenciaga price=45555
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ネックレス kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS リング kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ピアス kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ブレスレット kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS リング 2点セット kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS バッグ kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS 長袖シャツ ブラック kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS パーカー kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS キーケース kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ジップアップパーカー グレー kw=chrome hearts price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品】ジバンシー バックパック リュック ナイロン ロゴス kw=givenchy price=40000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON 保存袋 3枚セット kw=louis vuitton price=1099
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE Tech Fleece フルジップ フーディ グレ kw=nike price=7900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLERポロシャツ kw=moncler price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 90s Burberrys 半袖チェックシャツ ニット襟 ブ kw=burberry price=400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LACOSTE Tシャツ トリコロールカラー メンズ kw=lacoste price=2999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: D884 LACOSTE 鹿の子 ポロシャツ 半袖 M ファ kw=lacoste price=1499
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC BY MARC JACOBS　トートバック　キャン kw=marc jacobs price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANELハート型 ネイルパーツ デコパーツ まとめ売り kw=chanel price=640
     vs 1444559584 -> False
     vs 2034814464 -> False
