@@ -146,11 +146,25 @@ KEYWORDS = [
     "20471120",
     "chanel",
     "if six was nine",
+    "undercoverism",
 ]
 SEEN_FILE = "seen.json"
 DELAY_BETWEEN_KEYWORDS = 3
 POLL_INTERVAL = 300
 
+
+
+DEBUG_LOG_MAX_LINES = 2000
+
+def write_debug_log(lines):
+    with open("debug_log.txt", "a") as f:
+        f.write("\n".join(lines) + "\n")
+    # Keep the file from growing unbounded
+    with open("debug_log.txt", "r") as f:
+        all_lines = f.readlines()
+    if len(all_lines) > DEBUG_LOG_MAX_LINES:
+        with open("debug_log.txt", "w") as f:
+            f.writelines(all_lines[-DEBUG_LOG_MAX_LINES:])
 
 def load_seen():
     if os.path.exists(SEEN_FILE):
@@ -251,8 +265,7 @@ async def main():
     if not new:
         print("Новых нет.")
         debug_lines.append("no new items")
-        with open("debug_log.txt", "a") as f:
-            f.write("\n".join(debug_lines) + "\n")
+        write_debug_log(debug_lines)
         return
 
     subs = get_subscribers()
@@ -272,8 +285,7 @@ async def main():
                 debug_lines.append(f"    notify result: {result}")
                 await asyncio.sleep(1)
 
-    with open("debug_log.txt", "a") as f:
-        f.write("\n".join(debug_lines) + "\n")
+    write_debug_log(debug_lines)
 
 
 if __name__ == "__main__":
