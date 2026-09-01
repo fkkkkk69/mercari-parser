@@ -1,94 +1,3 @@
-    vs 2034814464 -> False
-item: Vivienne Westwood × melissa フラ kw=ヴィヴィアンウエストウッド price=1200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY COMME des GARCONS 長袖Tシャツ  kw=コムデギャルソン price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【COMME des GARÇONS SHIRT】無地Tシャ kw=コムデギャルソン price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 90s HELMUT LANG アーカイブ バックプリント  kw=ヘルムートラング price=22000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Balmain biker skinny denim pan kw=バルマン price=33000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL BELTHER ホワイトデニム W29 L32 kw=ディーゼル price=5400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI GGスプリーム キャット トートバッグ　猫 kw=グッチ price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【箱付き美品】 GUCCI インターロッキング ビーリング kw=グッチ price=21500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI グッチベルト スエードGG ロゴ kw=グッチ price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: GUCCI パドロック GGスプリーム チェーンウォレット  kw=グッチ price=23500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 《ブランド5点セット》まとめ売り kw=グッチ price=24800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI グッチ キーリング キーホルダー レザー ロゴ型 kw=グッチ price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: GUCCI グッチ マイクログッチシマ パテントレザー エナ kw=グッチ price=14700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: プラダ PRADA 伊達メガネ VPR04-F 54□16  kw=プラダ price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: JEREMY SCOTT × NEWERA 59FIFTYキ kw=jeremy scott price=7999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI チェック柄 GGロゴ 長袖シャツ kw=gucci price=67000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI グッチ キーリング キーホルダー レザー ロゴ型 kw=gucci price=7700
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: PRADA プラダ ショルダーバッグ ブラック g kw=prada price=7900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA プラダ ノベルティ ミニハンドバッグ ブラック  kw=prada price=7200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA ネクタイ ドット柄　シャイニーピンク kw=prada price=6980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 断捨離オークション‼️TORNADO MART 半袖シャツ  kw=tornado mart price=1980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: TORNADO MART コットン ライダースジャケット ブ kw=tornado mart price=12500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: オークションに変更、値下げ‼️TORNADO MART 長袖 kw=tornado mart price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 断捨離オークション‼️TORNADO MART チェックロー kw=tornado mart price=1000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood ストーン オーブ ピアス kw=vivienne westwood price=9980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: マルジェラ　足袋　スリッポン　スニーカー kw=maison margiela price=17800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Maison Margiela グラムスラム三つ折り財布 G kw=maison margiela price=22500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Maison Margiela 三つ折り財布 ブラック　4ス kw=maison margiela price=23000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Maison Margiela マルジェラ idブレス kw=maison margiela price=77000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: 初期 Maison Martin Margiela スキッパ kw=maison margiela price=24800
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1907,94 @@ item: 新品未開封CHANEL シャネル 香水Ｎｏ．19 28ml kw=chanel price=
     vs 1444559584 -> False
     vs 2034814464 -> True
     notify result: ok
+=== run at 2026-09-01 19:38:43 UTC ===
+new items: 29, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercover', 'undercoverism', 'number nine'], price=None-None, active=True
+item: RAF SIMONS Tシャツ ROBERT MAPPLET kw=ラフシモンズ price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI プレート ネックレス ゴールド グッチ y2k  kw=gucci price=5800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 紙袋 ショッパー プラダ PRADA MILANO kw=prada price=300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品】TORNADO MART 光沢 シルバー テーラード kw=tornado mart price=9980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ANDERSON BELL denim printed ca kw=andersson bell price=44000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: JIL SANDER NAVY ノースリーブワンピース ブラ kw=jil sander price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: オフホワイト　黒　メンズパンツ　OFF-WHITE kw=off-white price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA バレンシアガ ペーパーミニウォレット  kw=balenciaga price=32000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 不思議のメダイ 聖母マリア マリア様 メダイ リバーシブル  kw=chrome hearts price=1538
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PlayStation 2用ソフト『インタールードINTER kw=rhude price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GIVENCHY 逆さロゴ ポロシャツ ブラック XL kw=givenchy price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON モノグラム 二つ折り財布 kw=louis vuitton price=4580
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【限定値下げ中】LOUIS VUITTON ロゴ Tシャツ  kw=louis vuitton price=33333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: adidas YEEZY Slide "Onyx" 27.5 kw=yeezy price=29000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BE@RBRICK×RED SPIDER [SP BOX］ kw=sp5der price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: FOUNDATION MIX VOL.6 RED SPIDE kw=sp5der price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER ダウンジャケット ブラック ファー付き kw=moncler price=45000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BURBERRY チェック コットン バケットハット　サイズ kw=burberry price=38000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品】Lacoste エッセンシャルフードスウェット　cla kw=lacoste price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE Tシャツ ブラック メンズ L kw=the north face price=2999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE ジップパーカー イエロー M kw=the north face price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品未使用 THE NORTH FACE Purple La kw=the north face price=12500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【新品】サロモン　トレイルブレイザー10 グレー kw=salomon price=11500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: イヴサンローラン　ノベルティ　 ロゴ刺繍　トートバッグ　黒 kw=saint laurent price=2980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【メール便発送】 イヴサンローラン YVES SAINT L kw=ysl price=2690
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior ディオール ノベルティ ブレスレット 星 スター  kw=dior price=1555
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品 Christian Dior ディオール ロゴ ゴール kw=dior price=7300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: American Apparel ブラック スキニーデニム  kw=american apparel price=2200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LIP SERVICE ロゴニット kw=lip service price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
