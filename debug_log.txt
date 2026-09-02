@@ -1,68 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: THE NORTH FACE ポロシャツ ブラック US M kw=the north face price=2490
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: THE NORTH FACE マウンテンパーカー ブラック  kw=the north face price=6500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ヌプシジャケット　THE NORTH FACE ダウンジャケ kw=the north face price=19000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【oakley】cyber t-shirt /archive kw=oakley price=2100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: SAINT LAURENT スキニーデニム D02 M/SK kw=saint laurent price=17000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: エディ期 SAINT LAURENT PARIS サンローラ kw=saint laurent price=14100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Yves Saint Laurent PARIS 香水 75 kw=ysl price=5600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Christian Dior ハート パール ネックレス kw=dior price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: space tribe パンツ レイブ ギミックパンツ kw=tripp nyc price=24000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL ユイル ア オングル ネイルオイル kw=chanel price=980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL LA CRÈME MAIN ハンドクリーム kw=chanel price=2999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL オンブル プルミエール ラック 406 kw=chanel price=1000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-=== run at 2026-09-02 16:08:47 UTC ===
-new items: 125, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercover', 'undercoverism', 'number nine'], price=None-None, active=True
-item: NIKE x UNDERCOVER OVERBREAK DD kw=アンダーカバー price=18500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: UNDERCOVER アンダーカバー Tシャツ 5 kw=アンダーカバー price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Undercover AW07 Blue Apple Fan kw=アンダーカバー price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR ラビットプリント Tシャツ kw=ヒステリックグラマー price=6666
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR キャラプリント Tシャツ  kw=ヒステリックグラマー price=6666
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR チビT kw=ヒステリックグラマー price=12555
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: パーツオブフォー parts of four リックオウエン kw=リックオウエンス price=69800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: RAF SIMONS ネックレス kw=ラフシモンズ price=9900
-    vs 1444559584 -> False
     vs 2034814464 -> False
 item: Vivienne Westwood マフラー レッド kw=ヴィヴィアンウエストウッド price=2600
     vs 1444559584 -> False
@@ -1996,5 +1931,70 @@ item: YSL♦限定✿クチュール ミニ クラッチ 126 スパークリ kw=
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: if six was nine ロンT archive タグ kw=if six was nine price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-02 18:38:31 UTC ===
+new items: 20, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercover', 'undercoverism', 'number nine'], price=None-None, active=True
+item: GU UNDERCOVER ジップポケットシャツ 5分袖 X kw=アンダーカバー price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ベアプリント Tシャツ X kw=ヒステリックグラマー price=8888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood 三つ折り財布 ピンク オ kw=ヴィヴィアンウエストウッド price=22300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI グッチ 二つ折り財布 GG柄 ダークブラウン kw=グッチ price=2700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI ボールチェーン ブレスレット kw=グッチ price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品】オールドグッチ オールレザー ターンロック ショルダ kw=グッチ price=24000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【新品未使用】GUCCI GG総柄ショートパンツ　シルク　7 kw=gucci price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ヴィヴィアンウエストウッド　シグネットリング　指輪　オーブ刻 kw=vivienne westwood price=19000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 値下げ交渉⭕️ Vivienne Westwood ネックレ kw=vivienne westwood price=5980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Maison Margiela Gentle Monster kw=maison margiela price=37000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Yohji Yamamoto New Era キャップ 帽子 kw=yohji yamamoto price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: vetements 17ss パーカー kw=vetements price=95000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: モンクレールTシャツ kw=moncler price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【極美品・正規品】MONCLER モンクレール ナイロンジャ kw=moncler price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ラコステ　ポロシャツ　５サイズ kw=lacoste price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: イヴ・サンローラン　YSL ザ インクス ヴィニルクリーム　 kw=ysl price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIOR スターモチーフ キーホルダー kw=dior price=3400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CONVERSE ALL STAR ハイカット スニーカー kw=converse price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LGB グラフィックT archive kw=lgb price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL ガブリエルシャネルエッセンス　リッチクリーム kw=chanel price=1000
     vs 1444559584 -> False
     vs 2034814464 -> False
