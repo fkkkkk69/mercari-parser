@@ -1,79 +1,3 @@
-=== run at 2026-09-05 15:53:03 UTC ===
-new items: 112, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'y-3', 'number nine', 'undercover'], price=None-None, active=True
-item: undercover GU スニーカー kw=アンダーカバー price=2100
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ビーニー kw=ヒステリックグラマー price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 希少Lサイズ　ヒステリックグラマー × プレイボーイ REM kw=ヒステリックグラマー price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR ウォレットチェーン ピック kw=ヒステリックグラマー price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: rickowens DARKSHDW グレー トートバッグ kw=リックオウエンス price=2900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHROME HEARTS× Rick Owens Geob kw=リックオウエンス price=50000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Rick Owens リックオウエンス BOXER SHOR kw=リックオウエンス price=69999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood 2連ロゴリング　west kw=ヴィヴィアンウエストウッド price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood タオルハンカチ kw=ヴィヴィアンウエストウッド price=700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ad2006 junya watanabe マーメードスカー kw=ジュンヤワタナベ price=26000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY PLAY コムデギャルソン Tシャツ ホワイト L kw=コムデギャルソン price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY COMME des GARÇONS Tシャツ ホワ kw=コムデギャルソン price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: MOSCHINO Silver 925 刻印 リング 9号  kw=モスキーノ price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI GGスプリーム コインケース kw=グッチ price=500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI ギフトボックス 保存袋 kw=グッチ price=1200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI GGナイロン セカンドバッグ ポーチ レッド kw=グッチ price=5800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA プラダ カードケース ピンク kw=プラダ price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA サングラス ブラック　メンズ＆レディース kw=プラダ price=14500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 希少・コラボ　ヒステリックグラマー × プレイボーイ フォト kw=hysteric glamour price=8800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ★希少★ヒステリックグラマー　両面プリント ラグランスリーブ kw=hysteric glamour price=9800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI グッチ トートバッグ GGキャンバス ホースビッ kw=gucci price=48900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI ブラック　二つ折り財布 kw=gucci price=8800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCIの鼈甲柄サングラス kw=gucci price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 廃盤）PRADA キャンディ フロラーレ オーデトワレ 30 kw=prada price=4999
-    vs 1444559584 -> False
     vs 2034814464 -> False
 item: PRADA プラダ パラドックス オーデパルファム 50ml kw=prada price=7699
     vs 1444559584 -> False
@@ -1996,5 +1920,81 @@ item: LIP SERVICE マーメイドキャミワンピース ネイビー kw=lip se
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: 【早い者勝ち】converseサンフラワーCT70ローカット kw=converse price=16200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-05 18:38:00 UTC ===
+new items: 24, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'y-3', 'number nine', 'undercover'], price=None-None, active=True
+item: HYSTERIC GLAMOUR ウォレットチェーン kw=ヒステリックグラマー price=9200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: バルマン レディース トップス Tシャツ BALMAIN B kw=バルマン price=117800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: グッチ リボン ゴールド GUCCI kw=グッチ price=300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: バルマン レディース ボトムス カジュアルパンツ BALMA kw=balmain price=131800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ブルー】ヴィヴィアン VivienneWestwood オー kw=vivienne westwood price=6980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: マルジェラ　ニット　ウール/アルパカ/シルク混合　サイズM kw=maison margiela price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: アミパリス Ami バケットハット　レディース　帽子 kw=amiri price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: STONE ISLAND ストーンアイランド セーター ニッ kw=stone island price=29600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Y-3 ワイスリー ナイロンジャケット ブルゾン ブラック  kw=y-3 price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: uma様専用ページです kw=uma wang price=3900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Off-White オフホワイト GALAXY ギャラクシー kw=off-white price=19999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA Triple S スニーカー 45 kw=balenciaga price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: クロムハーツ FLRL CRS フローラルクロス リング シ kw=chrome hearts price=200000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS クロムハーツ ロンt kw=chrome hearts price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: レア盤✳︎Bertie Higgins カサブランカ レコー kw=casablanca price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON モノグラム エクリプス コインケ kw=louis vuitton price=23500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Corteiz Tシャツ CentralCee drip kw=corteiz price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ナイキ ウィメンズ エアフォース1 ロー ユナイテッド イン kw=nike price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 確実正規品！MONCLER モンクレールダウンジャケット kw=moncler price=32000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: TRAPSTAR ショルダーバッグ ブラック kw=trapstar price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BURBERRY ボディバッグ チェック柄 kw=burberry price=39800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Urban Outfitters フェイクレザー ミニワンピ kw=urban outfitters price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dr. Martens JADON III ブーツ ブラック kw=dr. martens price=14000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【100ml】CHANEL シャネル チャンス タンドゥル  kw=chanel price=20000
     vs 1444559584 -> False
     vs 2034814464 -> False
