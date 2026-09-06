@@ -1,92 +1,3 @@
-item: MARC JACOBS マークジェイコブス☆ トートバッグ  kw=marc jacobs price=22000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE サイドシアーマーメイドキャミワンピ  kw=lip service price=5400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ファーオフショルニットワンピース kw=lip service price=9500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【新品】 Dr. Martens 1461 59ブラック U kw=dr. martens price=5100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: コンバース トレックウェーブ　【ピンク 24cm】 kw=converse price=5600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: AURALEE × CONVERSE ALL STAR HI kw=converse price=9500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【良品】Juicy Couture ベロア セットアップ ネ kw=juicy couture price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: エドハーディ　ロンT　Lサイズ　ロングTシャツ　新品　未使用 kw=ed hardy price=1999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL チャンス オー タンドゥル オードゥ パルファ kw=chanel price=14800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL シャネル ココ マドモアゼル オードゥ トワレ kw=chanel price=2900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 新品！GU ×UNDERCOVER Monsters Tシャ kw=undercoverism price=4800
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-=== run at 2026-09-06 15:38:08 UTC ===
-new items: 93, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'y-3', 'number nine', 'undercover'], price=None-None, active=True
-item: Number (N)ine Full moon Tee kw=ナンバーナイン price=6000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-item: NUMBER (N)INE パーカー スカルプリント kw=ナンバーナイン price=23500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-item: ■HYSTERIC GLAMOUR Joe Strummer kw=ヒステリックグラマー price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 80's ヒステリックグラマー ハニーTシャツ　ビンテージ kw=ヒステリックグラマー price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 80's ヒステリックグラマー ムービースターTシャツ　ビン kw=ヒステリックグラマー price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR Tシャツ kw=ヒステリックグラマー price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ヒステリックグラマー ヒスミニ ロンt スウェット地 七分丈 kw=ヒステリックグラマー price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ヒステリックス ローリングストーンズ ミックジャガー ノース kw=ヒステリックグラマー price=4200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 39 Rick Owens MEGA BUMPER SNEA kw=リックオウエンス price=179000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Rick Owens tyronecutデニムパンツ　サイズ kw=リックオウエンス price=120000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: RICK OWENS DRKSHDW プッシャーパンツ kw=リックオウエンス price=75000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood オーブ ネックレス kw=ヴィヴィアンウエストウッド price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY COMME des GARCONS ハートロゴ T kw=コムデギャルソン price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: MOSCHINO フラワーモチーフ ブローチ ゴールド パー kw=モスキーノ price=7980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: バルマン BALMAIN ジャケット kw=バルマン price=33600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【希少品】GUCCI ピンク GG柄 トートバッグ kw=グッチ price=15800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: prdENs 新品未使用本物 PRADA プラダ ノベルティ kw=プラダ price=2280
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: ◇極美品◇プラダ　バイカラー　コインパース　サフィアーノレザ kw=プラダ price=21180
@@ -1996,5 +1907,94 @@ item: andwang Uniform Pleated Mini O kw=unif price=23800
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: Dr.Martens Jadon 8hallブーツ 26cm kw=dr. martens price=13500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-06 18:52:49 UTC ===
+new items: 28, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'y-3', 'number nine', 'undercover'], price=None-None, active=True
+item: UNDERCOVER ベア Tシャツ ホワイト 3 kw=アンダーカバー price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: UNDERCOVER ベア Tシャツ ブラック 2 kw=アンダーカバー price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNDERCOVER THRONE OF BLOOD パーカ kw=undercover price=24000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: TORNADO MART Denim Jeans kw=tornado mart price=27000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: JPG　Jean Paul Gaultierジャンポール・ゴ kw=jean paul gaultier price=28880
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ●ジャンポール ゴルチエ●モノグラム ポーチ ナイロン ジャ kw=jean paul gaultier price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: AMIRI アミリ デニムパンツ kw=amiri price=73333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: コンパス グッズ まねきねこ カラオケ コースター 缶バッジ kw=amiri price=899
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: STONE ISLAND Stretch Cotton Tw kw=stone island price=21000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: JILSANDER モヘヤ アンゴラ ニット イタリア製 kw=jil sander price=26400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: トップス 3着セット まとめ売り kw=off-white price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品】バレンシアガ エブリデイ ボディバッグ 斜め掛け レ kw=balenciaga price=60000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: バレンシアガ オーバーサイズタートルネック ニット ジャガー kw=balenciaga price=68600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: クロムハーツ 3トリンケッツ kw=chrome hearts price=150000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: クロムハーツ ベビーファットチャーム クロスペンダント kw=chrome hearts price=68000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: フラミンゴ柄 半袖シャツ オレンジ ストライプ kw=casablanca price=4800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Tシャツ ホワイト メンズ　archive givenchy kw=givenchy price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER ダウンジャケット kw=moncler price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE ヌプシ ダウン M 迷彩 ND kw=the north face price=17800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OAKLEY ACTUATOR サングラス kw=oakley price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: YSL イヴ・サンローラン ラディアント タッチ ブラープラ kw=ysl price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNiFY 雨宮大晟　トレカ kw=unif price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNiFY 雨宮大晟　ブロマイド kw=unif price=1111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNiFY 福井巴也 ブロマイド kw=unif price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNiFY 富園力也　ブロマイド kw=unif price=1888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNiFY 石橋弘毅　トレカ kw=unif price=888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNiFY 中川将平 ブロマイド kw=unif price=888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LIPSERVICE オフショルハーフシャツレイヤードワンピ kw=lip service price=11999
     vs 1444559584 -> False
     vs 2034814464 -> False
