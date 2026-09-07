@@ -1,77 +1,3 @@
-item: Dior クリスチャンディオール　ロゴ　トロッター ネックレ kw=dior price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ALLSAINTS ニット セーター ブラック kw=allsaints price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE キャミソール ブラック レース kw=lip service price=600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE サイドリボンオフショルトップス アイ kw=lip service price=5999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Dr. Martens 8ホール ブーツ ブラック kw=dr. martens price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 未使用CONVERSE オールスター サンセットオレンジ 2 kw=converse price=4500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Von Dutch ボンダッチ バケットハット ブラック kw=von dutch price=6500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: L.G.B ブラッククロス　フード付き　クロスパーカー kw=lgb price=32000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 20471120 丸襟カッターシャツ 長袖シャツ kw=20471120 price=23000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL ブルードゥシャネル レゼクスクルジフ パルファ kw=chanel price=1250
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 2点シャネル チャンス オー タンドゥル オードゥ パルファ kw=chanel price=6999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-=== run at 2026-09-07 15:53:31 UTC ===
-new items: 113, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
-item: 04AW ナンバーナイン NUMBER (N)INE ベルト kw=ナンバーナイン price=39800
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-item: ナンバーナインx泰八郎謹製ハート涙鼈甲眼鏡numbernin kw=ナンバーナイン price=39800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR Tシャツ SUPER SW kw=ヒステリックグラマー price=7480
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR パーカー kw=ヒステリックグラマー price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR Tシャツ ブラック kw=ヒステリックグラマー price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR Hysteric Jean kw=ヒステリックグラマー price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Rick Owens RU01F2012-NS BOXER  kw=リックオウエンス price=55000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: nomassprod 迷彩パンツ kw=リックオウエンス price=32000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: STUDIO VOICE スタジオ・ボイス 2002.7 r kw=ラフシモンズ price=7600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood 長財布 ブラック ブライ kw=ヴィヴィアンウエストウッド price=9400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: [未使用] Tシャツ ブラック S-XL /001 kw=コムデギャルソン price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY COMME des GARCONS ポロシャツ ネ kw=コムデギャルソン price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: 2000s HELMUT LANG archive tシャツ kw=ヘルムートラング price=12800
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1996,5 +1922,79 @@ item: CHANEL シャネル サヴォン 75g×2 ギフトボックス kw=chanel pr
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: ifsixwasnine ESCARGOT if six イ kw=if six was nine price=394800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-07 18:38:17 UTC ===
+new items: 23, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: UNDERCOVER × NEW ERA 9TWENTY U kw=アンダーカバー price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: 希少 ヒステリックグラマー 初期タグ タイダイ ロンT ガー kw=ヒステリックグラマー price=5280
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood オーブ ネックレス ピン kw=ヴィヴィアンウエストウッド price=9999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood オーブ ネックレス シル kw=ヴィヴィアンウエストウッド price=9580
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PLAY COMME des GARCONS Tシャツ Sサ kw=コムデギャルソン price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: COMME des GARCONS / コムデギャルソン ポ kw=コムデギャルソン price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: TORNADO MART ドレスシューズ YJ TFS-55 kw=tornado mart price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【説明文必読】ヨウジヤマモト プールオム コットン バルーン kw=yohji yamamoto price=21800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: WYM LIDNM REFINED RIB STRETCH  kw=off-white price=11800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【SERACE】ルーズシルエットシャツ 完売品 ホワイト kw=off-white price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Asapmode Stacked Oil Coating P kw=balenciaga price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Balenciaga ファーサンダル ブラック kw=balenciaga price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS スターリング シルバー925 kw=chrome hearts price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS ラグラン ロングスリーブ Tシャ kw=chrome hearts price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品 Dior homme ナポレオンジャケット サイズ44 kw=dior homme price=140000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 90s adidas アディダス ナイロントラックパンツ 刺 kw=yeezy price=400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CANADA GOOSE カナダグース　ダウンジャケット kw=canada goose price=40000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: TRIPP NYC シルバーラメ ショートパンツ 新品 kw=tripp nyc price=4999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【LIP SERVICE】リップサービス Bellmiere kw=lip service price=1444
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CONVERSE ALL STAR ポケモン リザードン ハ kw=converse price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL CHANCE サンプル 1.5ml kw=chanel price=899
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【CHANEL】口紅No.16箱付き kw=chanel price=900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 香水 練り香水 フレグランスソープ まとめ売り セット シャ kw=chanel price=1000
     vs 1444559584 -> False
     vs 2034814464 -> False
