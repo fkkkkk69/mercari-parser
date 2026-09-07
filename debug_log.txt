@@ -1,52 +1,3 @@
-    vs 2034814464 -> False
-=== run at 2026-09-07 16:08:03 UTC ===
-new items: 68, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
-item: GU x UNDERCOVER ピンバッジ kw=アンダーカバー price=580
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: NUMBER (N)INE fender Tシャツ kw=ナンバーナイン price=4500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-item: RAF SIMONS デニムシャツ RSパッチ ネイビー M kw=ラフシモンズ price=49800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY COMME des GARCONS ゴールドハート kw=コムデギャルソン price=5999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY コムデギャルソン Tシャツ 黒ハー ト ホワイト  kw=コムデギャルソン price=6200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: BALMAIN PARIS biker denim pant kw=バルマン price=29800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PUMA × BALMAIN　タイトバイカースウェットパンツ kw=バルマン price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ⭐️ 新型 美品 プラダ サフィアーノ メタル 二つ折り財布 kw=プラダ price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA プラダ Tシャツ 黒 ブラック Mサイズ　ポケッ kw=プラダ price=12500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: OZONE COMMUNITY バックパック リュック ヒス kw=hysteric glamour price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI 腕時計 kw=gucci price=15999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI グッチ ショルダーバッグ kw=gucci price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 人気モデル　GUCCI　グッチ Tシャツ 黒 ブラック Mサ kw=gucci price=15200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI リング　ガーデン　キャット　シルバー kw=gucci price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: ！極美品！　GUCCI 折り財布　ブラック　PVC 付属品完 kw=gucci price=32000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1996,5 +1947,54 @@ item: CHANEL シャネル No.19 オードトワレ EDT 1 kw=chanel price=2980
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: ほぼ新品未使用⭐︎CHANEL⭐︎レベージュパニエ kw=chanel price=8280
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-07 19:53:00 UTC ===
+new items: 15, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: 訳あり COMME des GARÇONS HOMME AD kw=コムデギャルソン price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品△BALMAIN バルマン シャツ4枚セット 薄青 白  kw=バルマン price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI グッチハートデザインシルバーチェーンネックレス kw=グッチ price=24900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ レザーベルト 70/28 kw=プラダ price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: J3595 美品 グッチ GG柄裏地ヘリンボーンチェスターコ kw=gucci price=57800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI 二つ折り財布 GGスプリーム シェリーライン kw=gucci price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MOSCHINO Tシャツ・カットソー メンズ 【古着】【中 kw=moschino price=12350
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: diesel full zip driver's knit  kw=diesel price=5800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GIVENCHY ハンカチ 花柄 ホワイト レッド kw=givenchy price=650
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: アークテリクス　アトムSLジャケット　メンズSサイズ　アルパ kw=arcteryx price=39000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 90-00s OAKLEY オークリー ベルト アーカイブ  kw=oakley price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Asics Gel-Quantum Kinetic SP J kw=asics price=19999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 即時発送 新品 ASICS MAGIC SPEED 5 25 kw=asics price=11999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dr. Martens 8ホールブーツ ブラック×レッド kw=dr. martens price=12800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dr. Martens 8ホール ブーツ ブラック kw=dr. martens price=9000
     vs 1444559584 -> False
     vs 2034814464 -> False
