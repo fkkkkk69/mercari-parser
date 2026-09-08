@@ -1,88 +1,3 @@
-item: BURBERRY TBロゴ スウェット ネイビー kw=burberry price=45000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LACOSTE ポロシャツ ピンク　半袖 kw=lacoste price=4500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LACOSTE 半袖チェックシャツ kw=lacoste price=1800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: THE NORTH FACE レディース　Lサイズ kw=the north face price=5100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 00s OAKLEY Hoodie Big Logo L Y kw=oakley price=5900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: OAKLEY オークリー サングラス用 ハードケース 収納袋 kw=oakley price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Oakley スポーツサングラス レンズ ジョーブレイカー kw=oakley price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: OAKLEY Meridian Low Ext (Black kw=oakley price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【SALOMON】XA PRO 3D V9 GTX kw=salomon price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: SAINT LAURENT PARIS ヒールブーツ　42 kw=saint laurent price=100000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: サンローラン　スニーカー kw=saint laurent price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: YSL Rouge Pur Couture 口紅 66 イヴ kw=ysl price=800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: YSL MYSLF ル パルファム 60ml プレゼント用 kw=ysl price=20000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: [uniform experiment] FADE TEE kw=unif price=20000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE ツイードバイカラーオフショルフレアワ kw=lip service price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CONVERSE ALL STAR MADE IN JAPA kw=converse price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: コンバース　インソールシート　１足組 kw=converse price=990
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【#nr/8.15/10】ブルードゥシャネルオードゥパルファ kw=chanel price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL N°5 オードゥ パルファム リフィル 2本セ kw=chanel price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL サンプル　シール kw=chanel price=1300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL アリュール オム スポーツ EDT 100ml kw=chanel price=6980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-=== run at 2026-09-08 16:07:55 UTC ===
-new items: 64, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
-item: GU x UNDERCOVER MA-1 フライトジャケット kw=アンダーカバー price=5100
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: 【美品】NUMBER (N)INE ナンバーナイン I❤ ス kw=ナンバーナイン price=10980
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-item: HYSTERIC GLAMOUR タンクトップ kw=ヒステリックグラマー price=6700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ☆HYSTERIC GLAMOUR☆ ギターピック ブレスレ kw=ヒステリックグラマー price=7800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: リックオウエンス FW25 CONCORDIANS タンクト kw=リックオウエンス price=26500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: adidas Jeremy Scott ウィングスニーカー kw=ジェレミースコット price=16000
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: Vivienne Westwood キーホルダー オーブ kw=ヴィヴィアンウエストウッド price=19500
@@ -1996,5 +1911,90 @@ item: 【美品】THE NORTH FACE マウンテンパーカー ギ kw=the north fa
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: 【YVES SAINT LAURENT】ネイビー系　総柄　イ kw=saint laurent price=3900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-08 20:08:00 UTC ===
+new items: 27, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: undercover 04ss languid new yo kw=アンダーカバー price=28000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【極美品】✨ヴィヴィアンウエストウッド レザーベルト ビッグ kw=ヴィヴィアンウエストウッド price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 人気モデル　GUCCI　グッチ Tシャツ 黒 ブラック Mサ kw=gucci price=13800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA　バッグ kw=prada price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood ネックレス シルバー kw=vivienne westwood price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 最終価格　ISSEY MIYAKE　3D Steam Bak kw=issey miyake price=108000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Jil Sander FOLDED COIN PURSE J kw=jil sander price=45000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: エアロストレッチアルティメットフーデッドパーカー kw=off-white price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Chrome Hearts 3トリンケッツ ペンダントトップ kw=chrome hearts price=119999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Givenchy ジバンシー ネックレス 喜平チェーン ヴィ kw=givenchy price=6200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GIVENCHY IRRESISTIBLE オーデパルファム kw=givenchy price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON ヴェルニ 長財布 kw=louis vuitton price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON トートバッグ kw=louis vuitton price=50400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: AYA様 リクエスト 2点 まとめ商品 kw=louis vuitton price=110000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: しまむら　SEASON REASON イージーパンツ kw=yeezy price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ARC'TERYX アークテリクス キーホルダー kw=arcteryx price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ARC'TERYX BIRD HEAD TOQUE ニット帽 kw=arcteryx price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【CANADA GOOSE】カナダグース ネームタグ レッド kw=canada goose price=2080
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ラコステ トラックジャケット セットアップ kw=lacoste price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: SALOMON XT-4 OG AURORA BOREALI kw=salomon price=10100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【即完売】salomon polartec フリース ハーフ kw=salomon price=6780
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: asics バレーボール ハイソックス 3053A136 M kw=asics price=1150
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: asics バスケットボールシューズ 箱無し 値段交渉受け付 kw=asics price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Yves Saint Laurent 二つ折り財布 ブラック kw=saint laurent price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ミスディオール オードゥ パルファン 30ml kw=dior price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL ココボーム　リップクリーム kw=chanel price=800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【新品未開封】CHANEL SUBLIMAGE TOTAL  kw=chanel price=15000
     vs 1444559584 -> False
     vs 2034814464 -> False
