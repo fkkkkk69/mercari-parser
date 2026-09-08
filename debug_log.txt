@@ -1,83 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE スニーカーエアマックス97 kw=nike price=11700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【新品未使用】ナイキエアフォース 1＇07 WB CJ917 kw=nike price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE DUNK 27.5 ナイキ　ダンク kw=nike price=10300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Nike Air Presto "Crimson Siren kw=nike price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE スニーカー ダンク kw=nike price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE AIR JORDAN 1 HIGH OG CO.J kw=nike price=5300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE Air Max 90 GORE-TEX スニーカー kw=nike price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE AIR MAX 95 スニーカー kw=nike price=8800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE スニーカー ライトブルー×ネイビー kw=nike price=3300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Nike Flight Legacy "Triple Whi kw=nike price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE AIR JORDAN ZOOM AIR スニーカー kw=nike price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE ナイキ NSW SO 3 AOP 半袖 Tシャツ  kw=nike price=1500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE シャワーサンダル ブラック kw=nike price=1600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE Athletics East ナイロンジャケット kw=nike price=4500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE Tシャツ ホワイト 140cm kw=nike price=699
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: nike 00s Y2K フリースジャケット　パーカー kw=nike price=7000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE エアーマックスココ サンダル ブラック 23cm kw=nike price=4500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【人気】NIKE ジョーダン 23 ビッグロゴ Tシャツ 白 kw=nike price=2250
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE AIR MAX キッズスニーカー 19cm グレー kw=nike price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE Woven Sports Pants 【L】 kw=nike price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE Club Cap キャップ ベージュ kw=nike price=1200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE Ja1 ばか履きセット kw=nike price=6555
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ARC'TERYX ナイロンジャケット GORE-TEX kw=arcteryx price=18000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: MONCLER モンクレール Tシャツ kw=moncler price=17000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: MONCLER フード付き ブラック ダウンベスト kw=moncler price=44000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: カナダグース CANADA GOOSE ダウンジャケット カ kw=canada goose price=26100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: BURBERRY TBロゴ スウェット ネイビー kw=burberry price=45000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1996,5 +1916,85 @@ item: Salomon アウトドア ウエストポーチ ボディバッグ ラ kw=sa
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: アメリカンアパレル Perla’s ロゴ Tシャツ L グレ kw=american apparel price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-08 19:52:54 UTC ===
+new items: 25, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: 00s archive NIKE number (n)ine kw=ナンバーナイン price=4950
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: HYSTERIC GLAMOUR ヒステリックグラマー チェ kw=ヒステリックグラマー price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HYSTERIC GLAMOUR デニム カードケース kw=ヒステリックグラマー price=3111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Rick Owens Tシャツ ホワイト kw=リックオウエンス price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THUG CLUB Angel Damage Shirt チ kw=リックオウエンス price=75000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood　ベレー帽 kw=ヴィヴィアンウエストウッド price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ Tシャツ 黒 ブラック Mサイズ　ポケッ kw=プラダ price=8999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HYSTERIC GLAMOUR WICKED ALL GO kw=hysteric glamour price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: デニム y2k swag rickowens風 バギー パン kw=rick owens price=7000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 厚底 ハイカット スニーカー ブラック ホワイト SHEIN kw=rick owens price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【希少】Pause Rabbithole London fo kw=rick owens price=9980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: RICK OWENS CREWNECK T SHORT SL kw=rick owens price=19500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ ショルダーバッグ テスートナイロン 三角 kw=prada price=13800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HIGH SNOBIETY JAPAN kw=prada price=1050
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: AMIRI Tシャツ ライトブルー kw=amiri price=45000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ミー イッセイミヤケ ニットカーディガン M163FO614 kw=issey miyake price=13970
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【即完Mサイズ❗️】美品！STONE ISLAND　スウェッ kw=stone island price=46000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Chrome Hearts CHプラス　スタッドピアス kw=chrome hearts price=23000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS クロムハーツ Tシャツ ホワイト kw=chrome hearts price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER Tシャツ ブラック kw=moncler price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品！MONCLER　ダウンジャケット　希少0サイズ kw=moncler price=95800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLERダウンジャケット kw=moncler price=60000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LACOSTE 半袖 Tシャツ グレー サイズ34 kw=lacoste price=1400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品】THE NORTH FACE マウンテンパーカー ギ kw=the north face price=6800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【YVES SAINT LAURENT】ネイビー系　総柄　イ kw=saint laurent price=3900
     vs 1444559584 -> False
     vs 2034814464 -> False
