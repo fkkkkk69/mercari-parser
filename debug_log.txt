@@ -1,187 +1,3 @@
-item: GUCCI ショルダーバッグ ブラック kw=グッチ price=40000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【極美品・24H発送】ゴッドセレクション × ナンバーナイン kw=number nine price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR キャンバストートバッグ 2 kw=hysteric glamour price=8999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Archive flare denim RICK OWENS kw=rick owens price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 美品　PRADA プラダ　トートバッグ　ショルダーバッグ　ナ kw=prada price=26800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: プラダ　 新品未使用 プラダタッチP36 kw=prada price=7800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ロゴ チェーンブレスレット シルバー kw=diesel price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ✨希少デザイン ヴィヴィアンウエストウッド 長財布 がま口  kw=vivienne westwood price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: メゾンマルジェラ19ssくすみ加工半袖スウェット kw=maison margiela price=51000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: STONE ISLAND 82-07 Tシャツ kw=stone island price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Off-White 長袖カットソー 2019 kw=off-white price=4800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Off-White 腕時計 ブルー kw=off-white price=31000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GLOBAL WORK カイジ コラボ 長袖Tシャツ L オ kw=off-white price=2300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【正規品】CHROME HEARTS ボクサーパンツ 2枚セ kw=chrome hearts price=22000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【レア♡】Palm Angels パームエンジェルス Tシャ kw=palm angels price=19999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LOUIS VUITTON モノグラム カードケース kw=louis vuitton price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: NIKE Triple Double Tシャツ ネイビー M kw=nike price=3500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: BURBERRY ポロシャツ カーキ Lサイズ kw=burberry price=6800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: BURBERRY 十字架 CROSS ニット archive kw=burberry price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: THE NORTH FACE Tシャツ ホワイト M kw=the north face price=1700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: THE NORTH FACE ダウン ヌプシ ピンク 韓国製 kw=the north face price=17000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 90s Oakley e-wire square USA e kw=oakley price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: OAKLEY Tシャツ ブラック US/EU S JPN M kw=oakley price=2800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: オークリー　カラビナ　FOS900696 コードブルー kw=oakley price=2300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: YVES SAINT LAURENT レディース 腕時計 kw=saint laurent price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 未使用品 イヴサンローラン ルージュ ヴォリュプテプランプイ kw=ysl price=2200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE　2WAYペプラムジャケット kw=lip service price=3580
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Dr. Martens ドクターマーチン 6ホール ブラック kw=dr. martens price=14000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【新品未使用】CONVERSE 星街すいせい コラボスニーカ kw=converse price=9780
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: VonDutch メンズ フード付きジャケット ブラック M kw=von dutch price=4299
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: gimmick Cargo Pants カーゴパンツ Y2K kw=lgb price=14500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL CRISTALLE EAU DE PARFUM kw=chanel price=2100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: y2k swag leopard stall 00s kw=if six was nine price=2000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-=== run at 2026-09-08 17:37:59 UTC ===
-new items: 42, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
-item: Archive flare denim RICK OWENS kw=リックオウエンス price=6500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PLAY COMME des GARCONS Tシャツ Sサ kw=コムデギャルソン price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: S 国内正規品COMME des GARÇONS PLAY  kw=コムデギャルソン price=11111
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LOVE MOSCHINO チェックブラウス　モスキーノ kw=モスキーノ price=8900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: MOSCHINO COUTURE! ロゴTシャツ ホワイト kw=モスキーノ price=3555
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: バルマン BALMAIN シャツ kw=バルマン price=6100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI グッチ GGキャンバス コンパクト コインケース kw=グッチ price=2200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【格安】GUCCI 二つ折り財布 Gクリップ Wホック ブラ kw=グッチ price=600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA SUNGLASS メガネ べっ甲 kw=プラダ price=28500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: W.&L.T. ウォルターヴァンベイレンドンク 長袖Tシャツ kw=walter van beirendonck price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: KaRaDaStyle トレーニング フロアマット 体操 ビ kw=424 price=6630
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 高品質★美品 PRADA ショルダーバッグ ブラック x3 kw=prada price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA ブラック メッセンジャーバッグ@B3 56 kw=prada price=7999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ストラップ付 PRADA プラダポーチ kw=prada price=18000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 質感炸裂！名作！美品PRADA ブラック メッセンジャーバッ kw=prada price=7999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: THUG CLUB サグクラブ 財布 kw=prada price=16000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: レア HELMUT LANG 本人期　デニムパンツ 32 kw=helmut lang price=40700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: マルジェラ　リーボック　スニーカー　サンダル　シューズ　足袋 kw=maison margiela price=19000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【ISSEY MIYAKE】ホワイト ドレープネック 長袖チ kw=issey miyake price=3500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DRIES VAN NOTEN Tシャツ・カットソー レディ kw=dries van noten price=14600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ポストアーカイブファクション POST ARCHIVE FA kw=post archive faction price=11900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: JIL SANDER 二つ折り財布 ブラック 編み込みストラ kw=jil sander price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHROME HEARTS 長袖ポケットTシャツ kw=chrome hearts price=50000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ☆新品同様☆GIVENCHY☆ジバンシー☆トートバッグ☆ハン kw=givenchy price=14000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GIVENCHY （ジバンシィ）トレーナー スエット メンズ kw=givenchy price=19200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LOUIS VUITTON 長財布 kw=louis vuitton price=36666
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Louis Vuitton IMAGINATION香水 2m kw=louis vuitton price=1800
-    vs 1444559584 -> False
     vs 2034814464 -> False
 item: LOUIS VUITTON SPELL ON YOU 香水　 kw=louis vuitton price=26000
     vs 1444559584 -> False
@@ -1996,5 +1812,189 @@ item: CHANEL ル ルージュ デュオ ウルトラ トゥニュ 40 kw=chanel p
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: 【CHANELシャネル】ベースコートLA BASE CAME kw=chanel price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-08 21:52:59 UTC ===
+new items: 60, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: Vivienne Westwood オーブ ネックレス シル kw=ヴィヴィアンウエストウッド price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ヴィヴィアンウエストウッド　靴下　ソックス　2足セット　RE kw=ヴィヴィアンウエストウッド price=2080
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: COMME des GARÇONS HOMME PLUSレッ kw=コムデギャルソン price=9999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HELMUT LANG 1998 デニムパンツ本人期 kw=ヘルムートラング price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 00SS HELMUT LANG ヘルムートラング ハーフパ kw=ヘルムートラング price=28500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI 長財布 GGスプリーム フラップ 二つ折り kw=グッチ price=4800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品　GUCCI ギョーシェペンダント kw=グッチ price=11980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ サフィアーノレザー 長財布 ブラック i kw=プラダ price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【424】 熊本産★マイヤーレモン【超訳あり】1.2kg 国 kw=424 price=1050
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: viviennne westwood クラッチバッグ kw=vivienne westwood price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Maison Margiela 二つ折り財布 ブラック kw=maison margiela price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Maison Margiela Glam Slam 長財布　 kw=maison margiela price=79800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Jean Paul Gaultier ベスト付きブラウス48 kw=jean paul gaultier price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: イッセイミヤケ　プリーツプリーズ　サイズ04 kw=issey miyake price=20500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Y's ワイズ Yohji Yamamoto 長袖ポロシャツ kw=yohji yamamoto price=7980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ダークビッケンバーグ90's サンプル品 白黒 kw=dirk bikkembergs price=10800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIRK BIKKEMBERGS ダークビッケンバーグ　1つ kw=dirk bikkembergs price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 90s DIRK BIKKEMBERGS パッチワークシルク kw=dirk bikkembergs price=22000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dirk Bikkembergs　ミリタリーニット・セーター kw=dirk bikkembergs price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIRK BIKKEMBERGS HOMMES ニットベスト kw=dirk bikkembergs price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OBSCURウエイクスケート kw=obscur price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OFF-WHITE /43/CML/ツイード/OFF COU kw=off-white price=40000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Off White 17FW Caravaggio Long kw=off-white price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GELATO PIQUE Lotus Biscoff Tシャ kw=off-white price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 米津玄師'15 花ゆり落ちるグッズTシャツ kw=off-white price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: しまむらammyさんビスチェ⭐︎他 kw=off-white price=999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA パーカー ブラック kw=balenciaga price=111111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA パーカー ブラック kw=balenciaga price=105000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: A&G リング シルバー　クロムハーツ　スタンリーゲス kw=chrome hearts price=39000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS 長袖シャツ ブラック kw=chrome hearts price=330000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Louis Vuitton モノグラム スニーカー ホワイト kw=louis vuitton price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON モノグラム 長財布 kw=louis vuitton price=3980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Louis Vuitton バッグチャーム マイクロスピーデ kw=louis vuitton price=260000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNIQLO イージーアンクルデニムパンツ メンズ kw=yeezy price=800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE テックフリース パーカー グレー kw=nike price=15500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE ソックス ブラック kw=nike price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE トレーニングパーカー kw=nike price=2700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ARC'TERYX GORE-TEX マウンテンパーカー kw=arcteryx price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ARC’TERYX ARRO 8 アロー8 ショルダーバッグ kw=arcteryx price=13500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ARC'TERYX ARRO22 アークテリクス アロー22 kw=arcteryx price=23800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: アークテリクス Mistral 8 ミストラル ショルダーバ kw=arcteryx price=38900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【旧モデル】アークテリクス　マンティス26（Mantis 2 kw=arcteryx price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER エンボスロゴ Tシャツ ブラック kw=moncler price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品】BURBERRY バケットハット ノバチェック M  kw=burberry price=32350
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LACOSTE ラコステ 半袖ポロシャツ 34 kw=lacoste price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE マウンテンパーカー NP718 kw=the north face price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: THE NORTH FACE リュック バックパック ブラッ kw=the north face price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ASICS アシックス GEL-KINETIC FLUENT kw=asics price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ASICS LAZERBEAM スニーカー ピンク kw=asics price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【希少】Saint Laurent SL606細フレーム ス kw=saint laurent price=19000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIOR サマークラッチバッグ kw=dior price=4999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品Christian Dior クリスチャンディオール サ kw=dior price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior ディオールスキン フォーエヴァー ブラッシュ 02 kw=dior price=4800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC BY MARC JACOBS サングラス kw=marc jacobs price=2600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC JACOBS 長財布 ブラック ゴールド金具 kw=marc jacobs price=12888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Converse All Star 22.5 cm kw=converse price=7800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CONVERSE ALL STAR ハイカット ピンク kw=converse price=2100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL BLEU DE CHANEL パルファム 10 kw=chanel price=13900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL CHANCE オードトワレ 50ml kw=chanel price=7000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL チャンス オー タンドゥル ヘアミスト 35m kw=chanel price=5555
     vs 1444559584 -> False
     vs 2034814464 -> False
