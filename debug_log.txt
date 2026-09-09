@@ -1,41 +1,3 @@
-    vs 2034814464 -> False
-item: PRADA SPORT ラバーロゴコットンポリTシャツ si kw=prada price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 00s archive Tornado Mart Vネック  kw=tornado mart price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: TORNADO MART ブーツ KMRii archive kw=tornado mart price=64999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ヴィヴィアン　バスレリーフ　ピアス kw=vivienne westwood price=6680
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood チェーン付きペンダントラ kw=vivienne westwood price=18000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Maison Margiela 二つ折り財布 ブラック kw=maison margiela price=22000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【美品】フランココレツィオーニ ストレッチ カーゴパンツ 刺 kw=jean paul gaultier price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 美品Ami Paris ベースボール ナイロンキャップ ブラ kw=amiri price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: AMIRI mx1 28サイズ kw=amiri price=58000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: stone island SOFT SHELL-R ストーン kw=stone island price=88888
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: (正規品)ストーンアイランド　Lサイズ　スウェット kw=stone island price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: S’YTE サイト　ヨウジヤマモト　ニット セーター　ブラッ kw=yohji yamamoto price=22900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: y's ヨウジヤマモト　y's bang on tシャツ　芸 kw=yohji yamamoto price=7000
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: Y-3 YOHJI YAMAMOTO ノースリーブ Tシャツ kw=y-3 price=2500
@@ -1996,5 +1958,43 @@ item: リップサービス 2wayショルダー リボン シアー ブラウス
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: Dr. Martens 30683 3ホール　オリーブ 27 kw=dr. martens price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-09 19:37:57 UTC ===
+new items: 11, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: GU テーラードジャケット UNDERCOVERブラック M kw=アンダーカバー price=3550
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+item: Rick Owens サルエルパンツ ブラック 46(Sサイ kw=リックオウエンス price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood ピアス フープ シルバー kw=vivienne westwood price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OFF-WHITE スクリブル アロー Tシャツ ブラック　 kw=off-white price=14000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LOUIS VUITTON ダミエ グラフィット 長財布 kw=louis vuitton price=22080
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: TRAPSTAR ダウンジャケット kw=trapstar price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: SALOMON スニーカー　28cm(26.5-27.5の人 kw=salomon price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: SALOMON ランニング 半袖Tシャツ ホワイト XS kw=salomon price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: asics アップシューズ(26.5cm) 美品 kw=asics price=3999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品・希少】ディオール ヴィンテージ 喜平ネックレス サフ kw=dior price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品未使用！CHANEL ルージュ ココ ボーム 918 kw=chanel price=1999
     vs 1444559584 -> False
     vs 2034814464 -> False
