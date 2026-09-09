@@ -1,72 +1,4 @@
     vs 2034814464 -> False
-item: GUCCI 長財布 GGキャンバス ベージュ kw=グッチ price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI ブラックレザー 二つ折り財布　グッチ　シマ　GG kw=グッチ price=9999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【美品】GUCCI グッチ GGマーモント ショルダーバッグ kw=グッチ price=210000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA キーケース ブラック kw=プラダ price=4300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA プラダ Tシャツ ブラック kw=プラダ price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADAダウンベスト kw=プラダ price=56000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【未使用】GU UNDERCOVER『ハイカットスニーカー』 kw=undercover price=2800
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: 未使用タグ付き　GU×UNDERCOVER クラッシュデニム kw=undercover price=4980
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: GU×UNDERCOVER サテンリボン コーデュロイワイド kw=undercover price=1999
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: 新品　GU UNDERCOVER デニムイージーパンツ オフ kw=undercover price=1999
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: ジーユー GU UNDERCOVER デニムコンバーチブルワ kw=undercover price=2800
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-item: ジャンク品　UNDERCOVER 　バウティー　レザー ワー kw=undercover price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI タイガー ペンダントトップ kw=gucci price=12222
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCIGGラインストーン グッチ ラン GGクリスタル  kw=gucci price=40000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI Dionysus チェーンショルダーバッグ グリ kw=gucci price=59999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI archive track pants Nubi kw=gucci price=22000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI グッチ ハーフリム サングラス y2k 00s  kw=gucci price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCIネックレス kw=gucci price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: GUCCI 長財布　メンズ kw=gucci price=39999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA プラダ ショルダーバッグ 1BH082 ライトグ kw=prada price=95999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: PRADA プラダ Tシャツ 白 ホワイト Mサイズ　ポケッ kw=prada price=11200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: PRADA SPORT ラバーロゴコットンポリTシャツ si kw=prada price=10000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1996,5 +1928,73 @@ item: LIP SERVICE フロントZIPツイードワンピース kw=lip service pric
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: コンバース ハイカット　厚底　25cm us 5 kw=converse price=2700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-09 19:22:57 UTC ===
+new items: 21, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: NUMBER (N)INE バンダナ柄 スニーカー ブラック kw=ナンバーナイン price=10000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: y2k ファーベルト kw=リックオウエンス price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Rick Owens vintage runner スニーカ kw=リックオウエンス price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HypeKyoto 京都 shorts kw=リックオウエンス price=9999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA サフィアーノレザー 長財布 ブラック kw=プラダ price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 00s archive PPFM y2k cobra tee kw=ppfm price=6600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PAF 7.0 TECHNICAL PANTS LEFT サ kw=post archive faction price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: JULIUS Leather Backpack ユリウス レ kw=julius price=198000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: bazo1199 ugg ムートンブーツ　size42 kw=balenciaga price=75000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【美品】CHROME HEARTS クロムハーツ クロスバン kw=chrome hearts price=69900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: NIKE パーカー kw=nike price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: OAKLEY サングラス クリアフレーム ブルーミラー kw=oakley price=11700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: YSL Y MEN オーデパルファム サンプル kw=ysl price=799
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Christian Dior ディオール イヤリング ゴール kw=dior price=3600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ミニスカート　コーデュロイ　フレア kw=american apparel price=600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: UNIFREE STUDIOチェック柄 長袖シャツ パープル kw=unif price=2800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 左ききのエレン 14／nifuni kw=unif price=463
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC BY MARC JACOBS チェーンブレスレット kw=marc jacobs price=2999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LIP SERVICE チェック柄 長袖ブラウス 白襟 kw=lip service price=900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: リップサービス 2wayショルダー リボン シアー ブラウス kw=lip service price=3900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dr. Martens 30683 3ホール　オリーブ 27 kw=dr. martens price=6000
     vs 1444559584 -> False
     vs 2034814464 -> False
