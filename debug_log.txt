@@ -1,90 +1,4 @@
     vs 2034814464 -> False
-item: サロモン SALOMON TRAIL 20 バックパック 黒 kw=salomon price=3200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: asics ベルト式スニーカー ホワイト/ブラック kw=asics price=3500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Yves Saint Laurent ハンカチ 2枚セット① kw=saint laurent price=2350
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: イヴ・サンローラン YSLロゴ刺繍 ソリッドタイ 無地 モカ kw=saint laurent price=6590
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Yves Saint Laurent マイセルフ オーデパル kw=ysl price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: クリスチャン ディオール CD ロゴ ネックレス 刻印あり  kw=dior price=12800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【新品未使用】DIOR ディオール ロゴ シルバー アクセサ kw=dior price=4180
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE チェック柄ニットセットアップ kw=lip service price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE オフショルハーフシャツレイヤードワン kw=lip service price=8980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE シェーディングライン中綿コート kw=lip service price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: LIP SERVICE レースアップ ミニスカート ボルドー kw=lip service price=600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【未使用タグ付き新品】 LIPSERVICE トップス 半袖 kw=lip service price=3500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Dr. Martens 8ホールブーツ 厚底 kw=dr. martens price=16000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 新品　CONVERSE　BIG C　サイドゴア　スニーカー　 kw=converse price=4980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL ココ マドモアゼル クラッシュ アブソリュ 試 kw=chanel price=777
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL ココ マドモアゼル クラッシュ アブソリュ 1 kw=chanel price=880
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL シャネル ココ オードゥトワレット 4ml ミ kw=chanel price=1400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: CHANEL ルージュ ココ ボーム 912 リップクリーム kw=chanel price=1300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-=== run at 2026-09-12 15:52:56 UTC ===
-new items: 135, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
-item: 激レア‼️NUMBER (N)INE ロゴプリント Tシャツ kw=ナンバーナイン price=20000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-item: 完売品・再入荷❗️ HYSTERIC GLAMOUR  GU kw=ヒステリックグラマー price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: wide straight slacks kw=リックオウエンス price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: リックオウエンス　LILIE 24awPORTERVILLE kw=リックオウエンス price=76000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: "rick owens"nubuck leather moh kw=リックオウエンス price=160000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【訳あり】 新品 ラフ シモンズ ランナー サイロン 22  kw=ラフシモンズ price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 新品未使用★adidas★アディダス【JEREMY SCOT kw=ジェレミースコット price=12255
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood 三つ折財布 ブラック kw=ヴィヴィアンウエストウッド price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: Vivienne Westwood RED LABEL 長袖 kw=ヴィヴィアンウエストウッド price=9999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: Vivienne Westwood ピアス kw=ヴィヴィアンウエストウッド price=7000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1996,5 +1910,91 @@ item: CONVERSE CT70 ブラック ハイカット kw=converse price=8100
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: JUICY COUTURE ジューシークチュール ジップアッ kw=juicy couture price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-12 18:54:31 UTC ===
+new items: 27, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: NUMBER (N)INE×MARLBORO コラボTシャツ kw=ナンバーナイン price=5500
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: Vivienne Westwood オーブ Tシャツ kw=ヴィヴィアンウエストウッド price=7000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PLAY COMME des GARÇONS Tシャツ ブラ kw=コムデギャルソン price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ❤️モスキーノ コスメポーチ マチあり ミニポーチ モノトー kw=モスキーノ price=399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 人気モデル　GUCCI　グッチ Tシャツ 黒 ブラック Mサ kw=グッチ price=11800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 00s PRADA テーラードジャケット kw=プラダ price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: HYSTERIC GLAMOUR スタッズ メッシュキャップ kw=hysteric glamour price=23000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI GG柄 ショルダーバッグ kw=gucci price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GUCCI SYNC 137.1 メンズ 腕時計 ホワイト kw=gucci price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ Tシャツ 白 ホワイト Mサイズ　ポケッ kw=prada price=6900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL メンズ 腕時計 クォーツ ブルー文字盤 ブラウ kw=diesel price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PPFM チェック柄 ロングカーディガン kw=ppfm price=26000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ジュリアス SP トレカ メッセージ付き箔押しカード 由羅カ kw=julius price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHROME HEARTS クロスチャーム ペンダントトップ kw=chrome hearts price=85000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品】GIVENCHY ジバンシィ シルクストール 4Gモノ kw=givenchy price=3280
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GIVENCHY ジバンシィ スカーフ 絹100% 2枚セッ kw=givenchy price=3899
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: GIVENCHY DIPTYQUE TAMBURINS ショ kw=givenchy price=1330
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ジバンシー GIVENCHY ネクタイ イタリア製 シルク  kw=givenchy price=1780
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 美品☆GIVENCHY ジバンシィ ネクタイ 4Gロゴ 格子 kw=givenchy price=5990
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Dior Homme 06SS ユニオンジャック Tシャツ  kw=dior homme price=45000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: arc’teryx tシャツ kw=arcteryx price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: A■③ THE NORTH FACE ザノースフェイス メン kw=the north face price=950
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: エディ期13AW SAINT LAURENT スキニーデニム kw=saint laurent price=29000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: YSL ルージュ ヴォリュプテシャイン限定パッケージ　15 kw=ysl price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ディオール　DIOR 2025ホリデーノベルティポーチ　 新 kw=dior price=3480
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 【人気】Dior ERL コラボ　キャップ　ブラック　シルバ kw=dior price=27900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: CHANEL シャネル ブルー ドゥ シャネル EDT 10 kw=chanel price=7980
     vs 1444559584 -> False
     vs 2034814464 -> False
