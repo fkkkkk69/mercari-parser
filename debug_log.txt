@@ -1,81 +1,3 @@
-item: ピエールバルマン ヴィンテージ メガネフレーム チタン製 6 kw=バルマン price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: バルマン BALMAIN ニット kw=バルマン price=15600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL Tシャツ 半袖 ホワイト レディース Sサイズ kw=ディーゼル price=3180
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL 長袖Tシャツ レッド BE BRAVEロゴ kw=ディーゼル price=2000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL 長袖 リブニット ブラック kw=ディーゼル price=20000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL TAFFI スキニーデニム W25 L32 kw=ディーゼル price=1800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ディーゼル ターボプリント半袖Tシャツ 黒 メンズ ３XL kw=ディーゼル price=2480
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL T-UNCUTIESLONG-OD Tシャツ  kw=ディーゼル price=4500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ヘンリーネック 半袖Tシャツ kw=ディーゼル price=3500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL グラデーション ノースリーブカットソー kw=ディーゼル price=3600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL 子供サイズロングTシャツ　サイズ14 （145 kw=ディーゼル price=1750
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ディーゼル タートルネック 半袖ニット kw=ディーゼル price=9800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESE【ディーゼル】JOGG JEANS 〜GRACEY kw=ディーゼル price=3300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ディーゼル ベロア ジップアップ トラックジャ kw=ディーゼル price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: ディーゼル 半袖Tシャツ 黒 メンズ 　3XL スクエアプリ kw=ディーゼル price=2480
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ダウンジャケット グレー kw=ディーゼル price=39999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【1着2役】DIESEL リバーシブル 撥水テフロン 加工ブ kw=ディーゼル price=9500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ストレートデニム 　LARKEE W28 L3 kw=ディーゼル price=5400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL SHIONER 74y W30 L32 kw=ディーゼル price=9800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: diesel デニム ジーンズ ライトグレー W28 イタリ kw=ディーゼル price=6666
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ディーゼル ジョグデニム ブラックコーティング kw=ディーゼル price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL Tシャツ グレー M kw=ディーゼル price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: 【美品】DIESEL ディーゼル S-RUNNER ジップパ kw=ディーゼル price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: diesel ホワイト　ワークパンツ　サイズ26 #085 kw=ディーゼル price=4980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL ディーゼル MA-1 フライトジャケット　ファ kw=ディーゼル price=23000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-item: DIESEL 650cc モーターサイクルTシャツ　モトクロ kw=ディーゼル price=1400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
 item: DIESEL KROOLEY スリムストレートデニム　イタリ kw=ディーゼル price=5600
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1996,5 +1918,83 @@ item: 【新品未使用】DIOR ノベルティ 星型チャームストラッ�
     vs 1444559584 -> False
     vs 2034814464 -> False
 item: BLEU DE CHANEL パルファム 50ml kw=chanel price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+=== run at 2026-09-13 18:37:55 UTC ===
+new items: 24, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['undercoverism', 'maison margiela', 'raf simons', 'number nine', 'undercover'], price=None-None, active=True
+item: Number (N)ine The Apples T: ャツ kw=ナンバーナイン price=10000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: Number (N)ine ハイカットスニーカー kw=ナンバーナイン price=43000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+item: GUCCI シルバー ネックレス チェーン　ベネチアン　美品 kw=グッチ price=13900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: gucci 時計 kw=グッチ price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: プラダ 長財布 ラウンドジップ 三角ロゴ　サフィアーノ ブラ kw=プラダ price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品 PRADA キーホルダー ブラック シルバー kw=プラダ price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品　PRADA キーホルダー ブラック シルバー レア kw=プラダ price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA ミニトートバッグ ブルー　ノベルティ　人気のブル kw=prada price=11890
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ Tシャツ 白 ホワイト Mサイズ　ポケッ kw=prada price=6599
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: PRADA プラダ ロボット キーホルダー チャーム 2 kw=prada price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 新品 未使用 PRADA ノベルティ トートバッグ kw=prada price=11890
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: DIESEL ビンテージプリントTシャツ kw=diesel price=1870
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Vivienne Westwood 腕時計 kw=vivienne westwood price=29000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: Maison Margiela 4ステッチ 二つ折り財布 kw=maison margiela price=49500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LEMAIRE FELT WOOL JACKET BLACK kw=lemaire price=200000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: BALENCIAGA Track.2 スニーカー ブラック kw=balenciaga price=29000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: VETEMENTS パーカー フーディー kw=vetements price=18888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: [即発送！]vetements スターウォーズパーカー kw=vetements price=62000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: フランクミュラー カサブランカ 調整コマ 3個 kw=casablanca price=13500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: 正規品　FEAR OF GOD フィアオブゴッド kw=fear of god price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: ARC’アークテリクス アロー22 ウエストベルト 純正部品 kw=arcteryx price=1800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MONCLER モンクレール ビッグロゴプリント 半袖 Tシ kw=moncler price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: MARC JACOBS マークジェイコブス スタンダードサプ kw=marc jacobs price=5280
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+item: LIP SERVICEリップサービス サイドリボンオフショル kw=lip service price=8800
     vs 1444559584 -> False
     vs 2034814464 -> False
