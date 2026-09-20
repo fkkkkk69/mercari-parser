@@ -1,57 +1,3 @@
-new items: 116, subscribers: 1
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-item: GU UNDERCOVER ヘビーウェイトスウェットフルジッ kw=アンダーカバー price=2400
-    vs 1444559584 -> False
-item: HYSTERIC GLAMOUR ヒステリックグラマー　Tシ kw=ヒステリックグラマー price=8500
-    vs 1444559584 -> False
-item: 新品未使用 HYS BEAR - ヒスベアプリント ボーダー kw=ヒステリックグラマー price=8800
-    vs 1444559584 -> False
-item: HYSTERIC GLAMOUR GUITAR GIRL メ kw=ヒステリックグラマー price=12555
-    vs 1444559584 -> False
-item: HYSTERIC MIN デニムパンツ kw=ヒステリックグラマー price=2200
-    vs 1444559584 -> False
-item: ヒステリックグラマー★ROCK Tシャツ★M kw=ヒステリックグラマー price=7999
-    vs 1444559584 -> False
-item: 【新品未使用・正規品】Vivienne Westwood / kw=ヴィヴィアンウエストウッド price=8500
-    vs 1444559584 -> False
-item: Vivienne Westwood オーブ ウィング ネック kw=ヴィヴィアンウエストウッド price=22000
-    vs 1444559584 -> False
-item: 26ss 新品 JUNYA WATANABE MAN CAM kw=ジュンヤワタナベ price=33900
-    vs 1444559584 -> False
-item: PLAY COMME des GARÇONS Tシャツ ピン kw=コムデギャルソン price=7500
-    vs 1444559584 -> False
-item: モスキーノ　香水 kw=モスキーノ price=5000
-    vs 1444559584 -> False
-item: DIESEL ディーゼル コピーライトロゴ ウエストポーチ  kw=ディーゼル price=1600
-    vs 1444559584 -> False
-item: DIESEL ネックレス ロゴ プレート シルバー kw=ディーゼル price=10000
-    vs 1444559584 -> False
-item: GUCCI ピアス kw=グッチ price=12900
-    vs 1444559584 -> False
-item: GUCCI ダブルG レザーブレスレット kw=グッチ price=14800
-    vs 1444559584 -> False
-item: GUCCI マフラー タグ付き kw=グッチ price=22000
-    vs 1444559584 -> False
-item: GUCCI グッチ 保存袋 kw=グッチ price=400
-    vs 1444559584 -> False
-item: PRADA ショルダーバッグ ブラック kw=プラダ price=170000
-    vs 1444559584 -> False
-item: PRADAn kw=プラダ price=15555
-    vs 1444559584 -> False
-item: HYSTERIC GLAMOUR シャツ kw=hysteric glamour price=5200
-    vs 1444559584 -> False
-item: 美品　Jeremy Scott×adidas チェック柄 フ kw=jeremy scott price=23700
-    vs 1444559584 -> False
-item: PRADA サフィアーノレザー キーケース ブラック kw=prada price=400
-    vs 1444559584 -> False
-item: PRADA BEAUTY トートバッグ グリーン ノベルティ kw=prada price=7777
-    vs 1444559584 -> False
-item: 【PRADA】 キルティング チェーンショルダーバッグ ブラ kw=prada price=130000
-    vs 1444559584 -> False
-item: 【匿名配送 新品未使用】PRADA プラダ ルナロッサスポー kw=prada price=10000
-    vs 1444559584 -> False
-item: PRADAiPhone15ProMAXケース kw=prada price=12000
-    vs 1444559584 -> False
 item: DIESEL Vネック Tシャツ 2枚セット グレー ホワイ kw=diesel price=900
     vs 1444559584 -> False
 item: 【美品】BALMAIN × H&M コラボニット ボタン付 kw=balmain price=13980
@@ -1997,4 +1943,58 @@ item: LIP SERVICE ダブルボタンノースリトップス kw=lip service pric
 item: ジューシークチュール＊ショッキングピンク パンツ ベロア 収 kw=juicy couture price=4580
     vs 1444559584 -> False
 item: シャネル　コンパクトミラー　拡大鏡つき kw=chanel price=1600
+    vs 1444559584 -> False
+=== run at 2026-09-20 19:38:26 UTC ===
+new items: 25, subscribers: 1
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+item: Archive NUMBER (N)INE Skinny J kw=ナンバーナイン price=13800
+    vs 1444559584 -> True
+    notify result: ok
+item: ヒステリックグラマードクロパンダニット kw=ヒステリックグラマー price=7900
+    vs 1444559584 -> False
+item: Vivienne Westwood オーブ ウィング ネック kw=vivienne westwood price=22500
+    vs 1444559584 -> False
+item: Vivienne Westwood プレーン ハンドバッグ  kw=vivienne westwood price=24600
+    vs 1444559584 -> False
+item: 【未使用級】 Vivienne Westwood 二つ折り財 kw=vivienne westwood price=12000
+    vs 1444559584 -> False
+item: maison margiera future high 42 kw=maison margiela price=20000
+    vs 1444559584 -> False
+item: 【新品タグ付/Sサイズ】アミパリ ビックハートTシャツ kw=amiri price=13000
+    vs 1444559584 -> False
+item: BAO BAO ISSEY MIYAKE グレー トートバッ kw=issey miyake price=35000
+    vs 1444559584 -> False
+item: STONE ISLAND クルーネック スウェット ブラック kw=stone island price=35000
+    vs 1444559584 -> False
+item: Y-3 Tシャツ ブラック 3ストライプ kw=y-3 price=6200
+    vs 1444559584 -> False
+item: ノースリーブニット kw=off-white price=2300
+    vs 1444559584 -> False
+item: OFF-WHITE デニムシャツ kw=off-white price=9999
+    vs 1444559584 -> False
+item: CHROME HEARTS パドロック ネックレス ピンク  kw=chrome hearts price=37000
+    vs 1444559584 -> False
+item: LOUIS　VUITTONルイヴィトンのフォンホルダールイー kw=louis vuitton price=31000
+    vs 1444559584 -> False
+item: NIKE フレックスランナー 23.5cm kw=nike price=3300
+    vs 1444559584 -> False
+item: MONCLEALパープル ダウンジャケット ストライプ襟 kw=moncler price=12000
+    vs 1444559584 -> False
+item: 新品　バーバリー　パジャマ　BURBERRY kw=burberry price=8700
+    vs 1444559584 -> False
+item: 新品 ザ・ノース・フェイス THE NORTH FACE フ kw=the north face price=4599
+    vs 1444559584 -> False
+item: 人気カラーsalomon サロモンxt‑6 gore-tex kw=salomon price=24000
+    vs 1444559584 -> False
+item: サロモン X-ADVENTURE GTX W　23.5㎝ kw=salomon price=9500
+    vs 1444559584 -> False
+item: ASICS GEL-KAYANO 14 ／24.5cm kw=asics price=16800
+    vs 1444559584 -> False
+item: SAINT LAURENT リングブーツ ブラック size kw=saint laurent price=80000
+    vs 1444559584 -> False
+item: YSL ルージュ ヴォリュプテ リップセット kw=ysl price=2000
+    vs 1444559584 -> False
+item: CONVERSE CT70 ネイビー US6.5 未使用海外 kw=converse price=3200
+    vs 1444559584 -> False
+item: CHANELチャンス オー タンドゥル ヘアミスト35ml kw=chanel price=4000
     vs 1444559584 -> False
