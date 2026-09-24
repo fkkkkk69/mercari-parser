@@ -1,47 +1,3 @@
-item: 【超希少‼️】　Number (N)ine 06SS ガンツ kw=ナンバーナイン price=88888
-    vs 1444559584 -> True
-    notify result: ok
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR HGC ロゴ Vネック 半 kw=ヒステリックグラマー price=5980
-    vs 1444559584 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 90s HYSTERIC GLAMOUR ジップアップパーカ kw=ヒステリックグラマー price=9000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR Tシャツ グレー バックプ kw=ヒステリックグラマー price=12300
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: RICK OWENS DRKSHDWxCONVERSE コラ kw=リックオウエンス price=14800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Rick Owens ハイカットスニーカー kw=リックオウエンス price=70000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 名作 リックオウエンス 12AW MOUNTAIN期 アルパ kw=リックオウエンス price=45000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood ネックレス スカルオーブ kw=ヴィヴィアンウエストウッド price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwoodのピアス kw=ヴィヴィアンウエストウッド price=35000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood 空箱 kw=ヴィヴィアンウエストウッド price=500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: JUNYA WATANABE シワ加工 レザートートバッグ kw=ジュンヤワタナベ price=58000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PLAY COMME des GARÇONS 長袖Tシャツ  kw=コムデギャルソン price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HELMUTLANG White Long Gilet Ma kw=ヘルムートラング price=15800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MOSCHINO FRESH COUTURE オードトワレ  kw=モスキーノ price=2100
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: 日本製 バルマン タートルネック クリーム balmain kw=バルマン price=3500
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1996,5 +1952,49 @@ item: Converse All Star ロゴ総柄 スニーカー kw=converse price=1800
     vs 1444559584 -> False
     vs 934301278 -> False
 item: コンバース　オールスター ライト WR SL HI 撥水素材 kw=converse price=3000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-09-24 18:23:33 UTC ===
+new items: 13, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: アンダーカバー UNDERCOVER 22AW NOISE  kw=アンダーカバー price=9450
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Tシャツ ネイビー Mサイ kw=ヒステリックグラマー price=5500
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: PRADA デニム ショルダーバッグ kw=prada price=14000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA ショルダーバッグ ブラウン kw=prada price=18000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: John Galliano本人期麻100%テーラードジャケッ kw=john galliano price=68000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: sansan gear shoulder bag kw=post archive faction price=15000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: RADIALL ラディアル 長袖シャツ Sサイズ kw=off-white price=2000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: クロムハーツ タイニーE CHプラス ドロップピアス kw=chrome hearts price=88000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Air Max 95 CORTEIZ コーテイズ 28cmグ kw=corteiz price=1000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: アークテリクス グランヴィル バックパック ブラック リュッ kw=arcteryx price=31500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 希少　saint laurent paris エディ期 ポロ kw=saint laurent price=35000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LIP SERVICE バックリボンバイカラーフレアワンピー kw=lip service price=4900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Dr.Martens マルチストラップサンダル UK8(27 kw=dr. martens price=9500
     vs 1444559584 -> False
     vs 934301278 -> False
