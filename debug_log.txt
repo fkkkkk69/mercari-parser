@@ -1,71 +1,3 @@
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Christian Dior クリスチャンディオール by  kw=john galliano price=90900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Maison Margiela メゾンマルジェラ メッセンジ kw=maison margiela price=118000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Maison Margiela メゾンマルジェラ 36 ダー kw=maison margiela price=71000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 2009ss jean paul gaultier crac kw=jean paul gaultier price=23000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: me ISSEY MIYAKE カリフラワー テーラードジャ kw=issey miyake price=18000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: STONE ISLAND ミリタリーシャツジャケット kw=stone island price=46000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: STONE ISLAND アイボリー ロングスリーブ Tシャ kw=stone island price=13333
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: stone island vest ストーンアイランド ベス kw=stone island price=55000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Stone Island FW22 Half-Zip Kni kw=stone island price=55000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: リブニット　ヨウジヤマモト　Y‘s... ワイズ kw=yohji yamamoto price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ★美品★ Y-3 adidasコラボ　ウール キャップ ブラ kw=y-3 price=5000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: JIL SANDER ネイビー　ウールフリンジポンチョ　ケー kw=jil sander price=78000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LEMAIRE ルメール レーヨンシャツ SH1035 LF kw=lemaire price=39100
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Julius AW13 Crack Fencing Leat kw=julius price=84999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA バレンシアガ Tシャツ ホワイト S  kw=balenciaga price=23000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA サングラス メタルフレーム kw=balenciaga price=42000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 米津玄師着用 VETEMENTS パッチワークTシャツ　S kw=vetements price=77777
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHROME HEARTS スペーサーリング　3mm 22号 kw=chrome hearts price=85000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: クロムハーツCHROMEHEARTSラバー クロス ネックレ kw=chrome hearts price=30000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHROME HEARTS クロス ペンダントトップ kw=chrome hearts price=140000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY ネックレス ラインストーン kw=givenchy price=11000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior homme スキニーデニム　27 kw=dior homme price=55000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: Nike SB Dunk Low Pro "Black/Fo kw=nike price=13000
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1996,5 +1928,73 @@ item: MARC JACOBS ショルダーバッグ kw=marc jacobs price=15000
     vs 1444559584 -> False
     vs 934301278 -> False
 item: 【未使用&新品】シャネル チャンス オースプランディド オー kw=chanel price=888
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-09-24 19:53:34 UTC ===
+new items: 21, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: N199 Hysteric Glamour 　Tシャツ　Mサ kw=ヒステリックグラマー price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 90s HELMUT LANG silk tailored  kw=ヘルムートラング price=33000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Helmut Lang 96 GTR nylon patte kw=ヘルムートラング price=40000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【美品】BALMAIN 半袖 Tシャツ ホワイト Lサイズ kw=バルマン price=2399
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Tシャツ ベア ブラック  kw=hysteric glamour price=8800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA 空箱2個 kw=prada price=1100
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood ショルダーバッグ 斜め掛 kw=vivienne westwood price=28900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 美品 イッセイミヤケ プリーツ加工 Ｍ 長袖シャツ イエロー kw=issey miyake price=24500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHROME HEARTS クロムハーツ ダガー チャーム  kw=chrome hearts price=130000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ★セール開催中★ミス ディオール EDP 5ml kw=dior homme price=1580
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MONCLER ダウンジャケット ホワイト kw=moncler price=150000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Burberry♬半袖ニットブラック 00s girly ほ kw=burberry price=4400
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BURBERRY LONDON レディース ジップアップブラ kw=burberry price=5500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BURBERRY LONDON ポロシャツ ベージュ M kw=burberry price=4800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【4枚セット】LACOSTE 長袖シャツ ポロシャツ　スタン kw=lacoste price=300
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Salomon XT-6 GTX ATMOS 27cm コン kw=salomon price=22500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: サンローラン二つ折り財布 kw=saint laurent price=11111
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ディオール ブローチ ゴールドカラー Christian D kw=dior price=7200
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: UNIFLAME カトラリー＆ケースセット 4人用 kw=unif price=4600
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MARC JACOBS 二つ折り財布 ブラック×ピンク kw=marc jacobs price=10000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Ed Hardy White Nylon Gold Wide kw=ed hardy price=7000
     vs 1444559584 -> False
     vs 934301278 -> False
