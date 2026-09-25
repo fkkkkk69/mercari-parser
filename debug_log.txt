@@ -1,55 +1,3 @@
-item: UNDERCOVERISM パンツ（その他） メンズ 【古着 kw=undercoverism price=9540
-    vs 1444559584 -> False
-    vs 934301278 -> False
-=== run at 2026-09-25 15:38:44 UTC ===
-new items: 96, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 25AW アンダーカバー サードアイ マウス ピンズ kw=アンダーカバー price=12000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: UNDERCOVER レイヤード 異素材 ドッキング コーデ kw=アンダーカバー price=14000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: number (n)ine 04ss ドリーム期 kw=ナンバーナイン price=25000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR フード付き半袖ジップパーカ kw=ヒステリックグラマー price=6800
-    vs 1444559584 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: Dr. Martens x Rick Owens ブーツ u kw=リックオウエンス price=69000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 即完売品 JentLouisジップアップパーカー ブラック  kw=リックオウエンス price=23800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: RAF BY RAF SIMONS パーカー　XSサイズ kw=ラフシモンズ price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: JUNYA WATANABE パンツ（その他） レディース  kw=ジュンヤワタナベ price=31160
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PLAY COMME des GARÇONS Tシャツ ブラ kw=コムデギャルソン price=5900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: COMME des GARCONS SHIRT KAWS T kw=コムデギャルソン price=6000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HELMUT LANG パンツ（その他） レディース 【古着 kw=ヘルムートラング price=3780
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MOSCHINO モスキーノ B5バインダー kw=モスキーノ price=1700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ＰＲＡＤＡプラダキーリング・キーホルダー・レッド kw=プラダ price=9500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA ボディバッグ ブラック イエローロゴ kw=prada price=70000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood パールネックレス kw=vivienne westwood price=2322
     vs 1444559584 -> False
     vs 934301278 -> False
 item: Gregory HDプレミアム ボストンバッグ (C2H4) kw=c2h4 price=8500
@@ -1996,5 +1944,57 @@ item: LGB S-WOLFデニム kw=lgb price=40000
     vs 1444559584 -> False
     vs 934301278 -> False
 item: CHANEL ルージュ ココ フラッシュ 176 ESCAP kw=chanel price=4500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-09-25 18:53:34 UTC ===
+new items: 16, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 最安値‼️ 新品 Dr. Martens Rick Owen kw=リックオウエンス price=78000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: RAF SIMONS 2003ss 消費者期 ラフシモンズ  kw=ラフシモンズ price=91000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood ウールマフラー　黒　14 kw=ヴィヴィアンウエストウッド price=6980
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: JUNYA WATANABE デニムチュールサロペット kw=ジュンヤワタナベ price=150000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 00s tricot COMME des GARCONS 半 kw=コムデギャルソン price=2100
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: モスキーノ MOSCHINO ブティック ニット ワンピース kw=モスキーノ price=16154
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: グッチ【鑑定済み】三つ折り財布｜GGマーモント｜レザー｜黒｜ kw=グッチ price=17990
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ＰＲＡＤＡ　プラダ サフィアーノ クラッチバッグ セカンドバ kw=prada price=37510
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood オーブ ネックレス kw=vivienne westwood price=20000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: y様 リクエスト 3点 まとめ商品 kw=y-3 price=6049
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 米津玄師 着用 HELON PRESTON ヘロンプレストン kw=heron preston price=23000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Arcteryx アークテリクス38mmベルト　美品 kw=arcteryx price=4900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LACOSTE Vネック ニット セーター アイボリー kw=lacoste price=2900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: OAKLEY EYEJACKET REDUX マットブラック kw=oakley price=25000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 70sYves Saint Laurent　サングラス　ブラ kw=saint laurent price=1000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: （新品未開封）CHANEL ルージュ ココ 104 マドモア kw=chanel price=1455
     vs 1444559584 -> False
     vs 934301278 -> False
