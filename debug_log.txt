@@ -1,44 +1,3 @@
-item: PRADA デニム レザー ショルダーバッグ kw=prada price=9000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: prada 12aw leather shoes kw=prada price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ハイブランド ショッパー まとめ売り kw=prada price=2900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ジュンヤ　ワタナベ　マン　縮絨　ジップネルシャツ kw=junya watanabe price=45000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Y2K 00s TORNADO MART フレアデニム　ブー kw=tornado mart price=13000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood 三つ折り財布 黒 ブラッ kw=vivienne westwood price=11900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品未使用【定価181,500円】Maison Margie kw=maison margiela price=89800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 国内正規品 ここのえタグ メゾン マルタン マルジェラ ⑩  kw=maison margiela price=33000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: マルジェラ ここのえ期 長袖シャツ ネイビー 40 ルーズフ kw=maison margiela price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 希少！鍵付きJean Paul GAULTIER ヴィンテー kw=jean paul gaultier price=32000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: AMIRI キャップ 黒赤 確実正規品 red Black kw=amiri price=45000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: AMIRI BLACK CAP kw=amiri price=30000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品未使用】AMIRI ロゴ ソックス 25~27cm kw=amiri price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: endless madeブラック パープル スパイダー パー kw=amiri price=20000
-    vs 1444559584 -> False
     vs 934301278 -> False
 item: STONE ISLAND ストーンアイランド ロゴパッチ 長 kw=stone island price=10700
     vs 1444559584 -> False
@@ -1996,5 +1955,46 @@ item: CHEAP MONDAYチープマンデーアシメトリー肩シースル kw=chea
     vs 1444559584 -> False
     vs 934301278 -> False
 item: CHANELシャネル レーヴル サンティヤント まとめ売り kw=chanel price=3000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-09-27 18:53:48 UTC ===
+new items: 12, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER × NEW ERA 9FIFTY スナ kw=アンダーカバー price=5280
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: DIESEL ボクサーパンツ ブルー kw=ディーゼル price=2780
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: プラダPRADA キルティングナイロンチェーンショルダーバッ kw=prada price=74000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: DIESEL ボクサーパンツ レッド M kw=diesel price=2780
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Jean Paul GAULTIER ロングストール ボレロ kw=jean paul gaultier price=34980
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ami paris アミパリス ハート刺繍 Tシャツ kw=amiri price=300
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ワイルドスワンズ　GUIDI HORSEBUTT MINAS kw=guidi price=29800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MONCLER 1017 ALYX 9SM ダウンジャケット kw=moncler price=80000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ゥ゙ィデージ品　サイズ不明 IZOD LACOSTE ポロシ kw=lacoste price=2000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: THE NORTH FACE スウェット ブラック M kw=the north face price=3800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 値下げ⭐︎レディース⭐︎ノースフェイスブーツ⭐︎ kw=the north face price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 00's 初期 L.G.B. flare bell bott kw=lgb price=47500
     vs 1444559584 -> False
     vs 934301278 -> False
