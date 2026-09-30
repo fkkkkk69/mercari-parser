@@ -1,74 +1,3 @@
-=== run at 2026-09-30 15:53:38 UTC ===
-new items: 102, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: HYSTERIC GLAMOUR Tシャツ ホワイト kw=ヒステリックグラマー price=1600
-    vs 1444559584 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR Tシャツ ホワイト Lサイ kw=ヒステリックグラマー price=8500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HYSTERICS がま口 コインケース 小銭入れヒステリッ kw=ヒステリックグラマー price=6000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: [美品] Rick Owens ジオバスケット　メガバンパー kw=リックオウエンス price=200980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood melissa レインシ kw=ヴィヴィアンウエストウッド price=8500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: robe de chambre COMME des GARC kw=コムデギャルソン price=6500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品タグ付き】PLAY COMME des GARÇONS kw=コムデギャルソン price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MOSCHINO モスキーノ　レザー　ボストン　バッグ kw=モスキーノ price=21500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【超美品】バルマン ナポレオン ミリタリージャケット ブラッ kw=バルマン price=284999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 美品❗️GUCCI グッチ　折り財布　ハート　PVC kw=グッチ price=26599
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GUCCI グッチ シューズ 保存袋 2枚セット ホワイト  kw=グッチ price=799
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GUCCI 保存袋　ショップ袋　布製 kw=グッチ price=800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA ショルダーバッグ ポーチ付き 男女兼用 e8 kw=プラダ price=8200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA 三つ折り財布 ピンク kw=プラダ price=22222
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA プラダ　サフィアーノ　フラップ　長財布　0916 kw=プラダ price=16900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA ショルダーバッグ　三角ロゴ　テスート　レザー　ス kw=プラダ price=21000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ソックス kw=hysteric glamour price=3700
-    vs 1444559584 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 美品　GUCCI サングラス ブラック kw=gucci price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA トートバッグ　クリアハンドル　ホワイト　パテント kw=prada price=5000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA ナイロン スマホショルダーバッグ あんしん鑑定付 kw=prada price=110000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: eYe JUNYA WATANABE MAN Levi's  kw=junya watanabe price=38000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 186000 BALMAIN バルマン ネックレス ゴールド kw=balmain price=4200
-    vs 1444559584 -> False
     vs 934301278 -> False
 item: PPFM ナポレオンジャケット ブラック kw=ppfm price=12800
     vs 1444559584 -> False
@@ -1996,5 +1925,76 @@ item: CHANEL♡チャンスオースプランディド＆ココマドモアゼ�
     vs 1444559584 -> False
     vs 934301278 -> False
 item: CHANEL♡ブルードゥシャネルパルファムサンプル2個セット kw=chanel price=1399
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-09-30 19:08:40 UTC ===
+new items: 22, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 専用出品　アンダーカバー　チェックキャップ耳当て kw=アンダーカバー price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　パンツ kw=ヒステリックグラマー price=12000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood ハート ピアス kw=ヴィヴィアンウエストウッド price=11000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: プラダ PRADA バッグ レディース 1BH204 Re- kw=prada price=400
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 希少y2k Tornado Mart damage long kw=tornado mart price=10999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: アミパリス AMI PARIS ピアス 片耳用 シルバー ハ kw=amiri price=8500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【中古品】 AMI アミ UPL325.KN0032 HEA kw=amiri price=26400
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【新品】RIER Walker Wrap Skirt BLA kw=dries van noten price=69000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: NACHE ジップアップリプニット kw=andersson bell price=17500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: JIL SANDER ドローストリングバッグ 巾着 ベージュ kw=jil sander price=31900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ESSENTIALS FEAR OF GOD Tシャツ ホワ kw=fear of god price=2500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: adidas YEEZY BOOST 350 V3 HQ63 kw=yeezy price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRIMAL SPIDER シューレース THE RAMPA kw=sp5der price=555
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ARCTERYX アークテリクス ブラック シンソラ シェー kw=arcteryx price=12000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LACOSTE ポロシャツ レッド kw=lacoste price=1850
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LACOSTE ポロシャツ ボーダー kw=lacoste price=1850
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ✨レンズ交換済み✨OAKLEY Radar Path サング kw=oakley price=13980
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: SALOMON サロモン XT-6 BLACKED OUT  kw=salomon price=40000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Asics Gel-Sonoma 15-50 kw=asics price=20000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 限定価格❗️ドクターマーチン　エイドリアン　フリンジタッセル kw=dr. martens price=14900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ロジテック HDDスタンド 2ベイ LGB-2BDPU3ES kw=lgb price=3300
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: CHANEL N°19 PARFUM 14ml 香水 kw=chanel price=4000
     vs 1444559584 -> False
     vs 934301278 -> False
