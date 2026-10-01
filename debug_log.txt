@@ -1,36 +1,4 @@
     vs 934301278 -> False
-item: CHANEL ココ マドモアゼル オードゥ パルファム サン kw=chanel price=500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL シャネル LE COTON コットン 100枚 kw=chanel price=1200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANELシャネル ココマドモアゼル オードゥトワレット5 kw=chanel price=6000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-=== run at 2026-10-01 15:53:32 UTC ===
-new items: 77, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE トラックジャケット　3 kw=ナンバーナイン price=35555
-    vs 1444559584 -> True
-    notify result: ok
-    vs 934301278 -> False
-item: 【稀少・90s】 初期 HYSTERIC GLAMOURナイ kw=ヒステリックグラマー price=8900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー☆ビクセンガールバクプリ☆オーバーサイズ kw=ヒステリックグラマー price=12000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Rick Owens Geobasket スエード 38 kw=リックオウエンス price=68000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood ジョーカールーレットベレ kw=ヴィヴィアンウエストウッド price=8500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood ピアス kw=ヴィヴィアンウエストウッド price=4999
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: CDG COMME des GARCONS ポロシャツ kw=コムデギャルソン price=10000
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1996,5 +1964,37 @@ item: CONVERSE ALL STAR ハイカット ホワイト kw=converse price=3800
     vs 1444559584 -> False
     vs 934301278 -> False
 item: CHANEL シャネル エゴイスト プラチナム 100ml  kw=chanel price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-01 19:53:28 UTC ===
+new items: 9, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 美品✨希少✨【鑑定済み】プラダ｜コインケース｜三角プレート｜ kw=プラダ price=15990
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【美品】GU × UNDERCOVER カバーオール＆ツイス kw=undercover price=4500
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GUCCI GGスプリーム スニーカー パープル kw=gucci price=38000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Y's ヨウジヤマモト 総柄 ニットカットソー 2 kw=yohji yamamoto price=14000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: OLD BALENCIAGA ショーツ　スラックス　ネイビー kw=balenciaga price=7100
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 未使用 GALLERY DEPT. Book Club Ca kw=gallery dept price=5220
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Air Max 95 CORTEIZ コーテイズ 28cmグ kw=corteiz price=300
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Corteiz RTW ポロシャツ ブラック S kw=corteiz price=15000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: uniform experimentソックス星柄 kw=unif price=800
     vs 1444559584 -> False
     vs 934301278 -> False
