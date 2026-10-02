@@ -1,74 +1,3 @@
-    vs 934301278 -> False
-item: Maison Margiela コーデュロイパンツ マルジェ kw=maison margiela price=35000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: アミパリスAmi Paris カレッジリブウールカーディガン kw=amiri price=35800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: STONE ISLAND オリーブグリーン ショルダーバッグ kw=stone island price=34500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Y-3 KURO CANVAS TOTE BAG kw=yohji yamamoto price=22000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Y-3 スニーカー ブラック メンズ kw=y-3 price=10099
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Y-3 フルジップパーカー セットアップ　ブラック L kw=y-3 price=28000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ドリスヴァンノッテン スカート　サイズ34 kw=dries van noten price=7500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LEMAIRE ニットポロシャツ ブラック　ルメール kw=lemaire price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ブルベ向けDinto リップゼリー376ミラー&ティント 2 kw=carpe diem price=1200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Off-White × Nike Zoom Fly "Bla kw=off-white price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: balenciaga 二つ折り財布 kw=balenciaga price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA ロゴプリント Tシャツ オレンジ kw=balenciaga price=14900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ヴェトモン VETEMENTS UAH19SH305 シャツ kw=vetements price=33600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHROME HEARTS ロンT LOS ANGELES kw=chrome hearts price=25000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY PARFUMS ラメ ポーチ kw=givenchy price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior Homme ディオールオム ブラック スキニーパン kw=dior homme price=38800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 06 エディ期　DIOR HOMME ユニオンジャックTシャ kw=dior homme price=25000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ESSENTIALS FEAR OF GOD ワッフル パー kw=fear of god price=8900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: FEAR OF GOD ESSENTIALS パーカー ブラ kw=fear of god price=17777
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: sp5der パーカー kw=sp5der price=13333
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: sp5der パーカー kw=sp5der price=8888
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PS5 Marvel's Spider-Man 2 通常版 kw=sp5der price=4200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: C.P. COMPANY ショルダーバッグ　ベージュ kw=c.p. company price=28500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: c.p company cargo pants kw=c.p. company price=32000
     vs 1444559584 -> False
     vs 934301278 -> False
 item: Nike Air Max 90 スニーカー kw=nike price=7400
@@ -1996,5 +1925,76 @@ item: シャネル　エゴイストプラチナム EDT kw=chanel price=899
     vs 1444559584 -> False
     vs 934301278 -> False
 item: CHANEL レ キャトル オンブル アイシャドウ パレット kw=chanel price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-02 19:38:30 UTC ===
+new items: 22, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: undercover カットソー kw=アンダーカバー price=3500
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: PRADA プラダ ナイロン トレンチコート ブラック kw=prada price=24800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA PARADOXE VIRTUAL FLOWER  kw=prada price=1100
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: DIESEL パーカー　M size 【値下げ可能】 kw=diesel price=4500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PIERRE BALMAIN メンズ 腕時計 アナログ kw=balmain price=12000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood パール　チョーカー　ネッ kw=vivienne westwood price=12399
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: John Galliano ニュースペーパー プリントTシャ kw=john galliano price=17900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Maison Margiela 5AC ショルダーバッグ kw=maison margiela price=130000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Ground Y　タートルネック　サイズ3　コットン100% kw=y-3 price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Chrome Hearts ドッグタグ ペンダント フルダイ kw=chrome hearts price=25000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: GIVENCHY bicolor stadium jacke kw=givenchy price=95000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Louis Vuitton ショルダーバッグ kw=louis vuitton price=9555
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Louis Vuitton ショルダー バッグ kw=louis vuitton price=9988
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: HELLSTAR ジップパーカー kw=hellstar price=26000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ARC'TERYX アトム SV ジャケット 25年限定 ブ kw=arcteryx price=48000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MONCLER ダウンジャケット ブラック kw=moncler price=77777
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【偏光+調光付き】オークリー アクチュエーター アジアンフィ kw=oakley price=16999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: イヴサンローラン ルージュ ピュールクチュール ザ ボールド kw=ysl price=1200
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MARC BY MARC JACOBS デニム ドット柄 ミ kw=marc jacobs price=6500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ドクターマーチン 厚底 kw=dr. martens price=6666
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: シャネル　CHANEL チャンスオータンドゥル　　オードゥパ kw=chanel price=14500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHANELシャネル　プードゥル　ドゥース　80 kw=chanel price=2599
     vs 1444559584 -> False
     vs 934301278 -> False
