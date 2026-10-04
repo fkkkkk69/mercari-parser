@@ -1,67 +1,4 @@
     vs 934301278 -> False
-item: バーバリー　ハンカチ　ノバチェック kw=burberry price=1780
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY BLUE LABEL 七分袖 カットソー  kw=burberry price=4000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Burberrys BLUE LABEL デニムジャケット kw=burberry price=6900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【難あり】LACOSTE ラコステ Vネック ニット セータ kw=lacoste price=1280
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE ポロシャツ L1210 未使用品 タグと袋付 kw=lacoste price=6800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE 長袖シャツ ライトグリーン サイズ5 kw=lacoste price=900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SALOMON XT-06 GTX 27.5㎝ kw=salomon price=24000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品未使用】ASICS × CONCEPTS GEL-LY kw=asics price=16800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【まとめ売り】NIKE瞬足asics黒スニーカー24cm3足 kw=asics price=3999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Yves Saint Laurent 名刺入れ ブラック kw=saint laurent price=5000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: イブ・サンローラン　ネクタイ　高級　総柄　ネイビー　フランス kw=saint laurent price=3180
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YSL アイシャドウ kw=ysl price=900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: イヴ・サンローラン リブレ 香水 サンプル 3種セット kw=ysl price=1650
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: イヴ・サンローラン ルージュ ヴォリュプテ キャンディグレー kw=ysl price=1600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior バックステージ グロウ マキシマイザー パレット0 kw=dior price=5700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【Made in USA】映画 プリティリーグ 名言 ラグラ kw=american apparel price=2700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品未使用】チープマンデー　CHEAP MONDAY 厚底 kw=cheap monday price=1800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: UNIFIVE 電源アダプター US105-0510 本体 kw=unif price=500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ⭐️匿名配送⭐️ [unifiss] アップルウォッチバンド kw=unif price=600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【レア希少】 MARC JACOBS スカルネックレス kw=marc jacobs price=4500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS ショルダーバッグ ブラック kw=marc jacobs price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: リップサービス デコルテオープン ニットワンピース / S  kw=lip service price=3999
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1998,3 +1935,66 @@ item: リップサービス LIPSERVICE リボンオフショルロング kw=lip 
 item: 【入手困難】1vfudie handmad denim kw=if six was nine price=160000
     vs 1444559584 -> False
     vs 934301278 -> False
+=== run at 2026-10-04 18:38:41 UTC ===
+new items: 19, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: アンダーカバー UNDERCOVER Tシャツ ブラック サ kw=アンダーカバー price=5000
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【新品未使用】Vivienne Westwood マフラー  kw=ヴィヴィアンウエストウッド price=11000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: JUNYA WATANABE MAN PORTER ショート kw=ジュンヤワタナベ price=85000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 希少 バルマン 刻印 銀ボタン ボーダー ニット セーター  kw=バルマン price=15000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA Re-Nylon バケットハット ブラック M kw=prada price=39800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA プラダ スポーツナイロンジャケット ブラック28 kw=prada price=52700
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood オーブ ネックレス ブル kw=vivienne westwood price=15000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: アミパリスのホワイトパンツ kw=amiri price=16500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 国内正規品★定価27.5万円★AMIRI★クラッシュリペア加 kw=amiri price=65000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: STONE ISLAND カーゴパンツ ブラック kw=stone island price=37000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: L アンダースンベル カーブド スウェットシャツ スウェット kw=andersson bell price=6043
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: C.P. Company シーピーカンパニー　 ショルダーバ kw=c.p. company price=25000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: モンクレールMONCLER ベースボールキャップ ベージュ刺 kw=moncler price=37000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: OAKLEY nylon pants swag kw=oakley price=8500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【美中古品】SAINT LAURENTサンローラン タイニー kw=saint laurent price=12800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: YSL ラブシャイン リップスティック 206 kw=ysl price=3800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Christian Dior イヤリング 片耳用 ゴールド kw=dior price=3500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHANEL シャネル 香水　EAU DE TOILETTE kw=chanel price=1900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Undercoverism バラプリント 半袖シャツ kw=undercoverism price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
