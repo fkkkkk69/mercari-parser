@@ -1,59 +1,3 @@
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品未使用】　Oakley ニット帽 ビーニー ブラック kw=oakley price=6000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SALOMON XT-EVO サロモン 26.5cm Bla kw=salomon price=31800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ASICS スニーカー 23.0cm kw=asics price=3500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ASICS ベビーシューズ kw=asics price=1050
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SAINT LAURENT 三つ折り財布 kw=saint laurent price=29999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YSL Musee Paris トートバッグ　イヴ・サンロー kw=saint laurent price=3200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SAINT LAURENT PARIS ルー カメラバッグ  kw=saint laurent price=160000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品未使用❗️イヴ・サンローランYSL特大ロゴハンカチ　モノ kw=saint laurent price=3500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YSL モンパリ リブレ オーデパルファム アンタンス サン kw=ysl price=800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 美品 Christian Dior ディオール CDロゴ ゴ kw=dior price=12280
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS ショルダーバッグ kw=marc jacobs price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS ショルダーバッグ カモフラージュ柄ス kw=marc jacobs price=9800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Marc Jacobs ブラック ジャケット リボン付き kw=marc jacobs price=2500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC BY MARC JACOBS 長財布 レッド kw=marc jacobs price=3500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS パスケース 定期入れ ホワイト kw=marc jacobs price=2000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LIP SERVICE デコルテオープンフレアニットワンピー kw=lip service price=4999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: コンバース オールスター ローカットシューズ ブラック 26 kw=converse price=1560
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CONVERSE ALL STAR ローカット ホワイト 2 kw=converse price=3000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: CONVERSE ALL STAR スニーカー ホワイト kw=converse price=2600
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1996,5 +1940,61 @@ item: イブ・サンローラン　半袖Tシャツ　黒　コットン100% kw
     vs 1444559584 -> False
     vs 934301278 -> False
 item: Dr. Martens 8ホール ブーツ バーガンディ kw=dr. martens price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-05 18:23:28 UTC ===
+new items: 17, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER THE NEW WARRIORS 19 kw=アンダーカバー price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 希少 UNDERCOVERISM 12AW 心臓 Vネックス kw=アンダーカバー price=18500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MOSCHINO UNDERWEAR 長袖 ボディスーツ グ kw=モスキーノ price=4500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ✨希少✨PRADA プラダ サフィアーノ ラウンドファスナー kw=プラダ price=300
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA パンプス グレー ポインテッドトゥ kw=prada price=3050
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: GentleMonster × MaisonMargiela kw=maison margiela price=55000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: JILSANDER NAVY ジルサンダー　半袖シャツワンピ kw=jil sander price=10000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BALENCIAGA rhino 40 kw=balenciaga price=78900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ジバンシー ブレスレット 喜平チェーン ツイスト マリナー  kw=givenchy price=5980
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: sp5der パーカー kw=sp5der price=25000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: NIKE SHOX TL ブラック スニーカー kw=nike price=17500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ARC'TERYX Bird Head Toque ニット帽 kw=arcteryx price=9000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MONCLER GAMME BLEU GIUBBOTTO ウ kw=moncler price=31000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: THE NORTH FACE WINDSTOPPER フリー kw=the north face price=1100
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 00s archive OAKLEY 極太 wide che kw=oakley price=11280
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 遺品整理 Christian Dior CDロゴ ブレスレッ kw=dior price=6555
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Juicy Couture ショートパンツ 2枚セット Sサ kw=juicy couture price=3000
     vs 1444559584 -> False
     vs 934301278 -> False
