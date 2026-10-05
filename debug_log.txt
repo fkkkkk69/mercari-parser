@@ -1,79 +1,3 @@
-item: CONVERSE ALL STAR スニーカー ホワイト kw=converse price=2600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品未使用 CONVERSE LEA ALL STAR HI kw=converse price=5500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: JUICY COUTURE ジューシークチュール ブラック  kw=juicy couture price=7291
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: L.G.B デニム S-WOLF 赤ブリーチ ルグランブルー kw=lgb price=36000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL BLEU DE CHANEL 3-IN-1 モ kw=chanel price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL チャンスオースプランディド　サブリマージュ　サ kw=chanel price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: シャネル　ルージュ　アリュール　206 kw=chanel price=3699
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL BLEU DE CHANEL 2-IN-1 ク kw=chanel price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL イレール ブラッシュ 90 SNOW kw=chanel price=800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL CHANCE EAU TENDRE パウダー kw=chanel price=4500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL オンブル プルミエール クレーム 804 kw=chanel price=1222
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL ブルー ドゥ シャネル レ ゼクスクルジフ パ kw=chanel price=1000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ブルー ドゥ シャネル オードゥ トワレット 50ml kw=chanel price=9200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL サブリマージュ デマキヤン コンフォート N  kw=chanel price=900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【CHANEL】N°1 ドゥ シャネル サンプル 2本セット kw=chanel price=650
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL チャンス オー タンドゥル モイスチャー ミス kw=chanel price=2700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-=== run at 2026-10-05 15:23:33 UTC ===
-new items: 101, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: Undercover アンダーカバー　メンズ　ブラックTシャ kw=アンダーカバー price=9999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: UNDERCOVER ベア スウェット グレー Mサイズ kw=アンダーカバー price=1000
-    vs 1444559584 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVER 魔女期 トートバッグ アーカイブ　希少 kw=アンダーカバー price=29800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ナンバーナイン元ネタ　ASAT 未使用　トライバルカモ　パン kw=ナンバーナイン price=14999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 90s hysterics punk cotton pand kw=ヒステリックグラマー price=4800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR BORN TO LOSE  kw=ヒステリックグラマー price=12999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: レア rick owens 15ss ロングフーディ kw=リックオウエンス price=35000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Rick Owens DRKSHDW DOUBLE BUMP kw=リックオウエンス price=72000
-    vs 1444559584 -> False
     vs 934301278 -> False
 item: eYe JUNYA WATANABE MAN カットソー イ kw=ジュンヤワタナベ price=4980
     vs 1444559584 -> False
@@ -1996,5 +1920,81 @@ item: 遺品整理 Christian Dior CDロゴ ブレスレッ kw=dior price=6555
     vs 1444559584 -> False
     vs 934301278 -> False
 item: Juicy Couture ショートパンツ 2枚セット Sサ kw=juicy couture price=3000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-05 18:38:34 UTC ===
+new items: 24, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 希少廃盤新品【RICK OWENS】MEGA BUMPER  kw=リックオウエンス price=140000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: RAF SIMONS 10AW ベルクロハイカットスニーカー kw=ラフシモンズ price=40000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【新品未使用品】GUCCI グッチ 保存袋 4点セット kw=グッチ price=300
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA ショルダーバッグ ブラウン kw=prada price=15000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: DIESEL 長袖Tシャツ ホワイト メンズ M kw=diesel price=3500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 極美 Kiko Kostadinov ASICS GEL-D kw=kiko kostadinov price=49800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BALENCIAGA 2016 Floral Turtlen kw=balenciaga price=16000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON モノグラム ナノスピーディ kw=louis vuitton price=23000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=11000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=9000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=14000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=22000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON バッグチャーム kw=louis vuitton price=35000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: C.P. COMPANY ネイビー トレーナー XXL kw=c.p. company price=10000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: syna worldパーカー kw=syna world price=15000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: YVES SAINT LAURENT MON PARIS 香 kw=ysl price=9800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: TRIPP nyc ボンダイ ストラップ レイダー ジッパー kw=tripp nyc price=33755
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: トリップNYC パンツ kw=tripp nyc price=35500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: トリップ ニューヨーク NYC SUPER SKULL DA kw=tripp nyc price=25270
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: TRIPP NYC トリップニューヨークシティ　ボンテージパ kw=tripp nyc price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: tripp nyc cargo bontage pants kw=tripp nyc price=6555
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Tripp NYC チェーン パンツ ズボン kw=tripp nyc price=55516
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LIP SERVICE バイカラーフェザーニットセットアップ kw=lip service price=4999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHANEL ココ マドモアゼル フレッシュ ボディミスト kw=chanel price=7777
     vs 1444559584 -> False
     vs 934301278 -> False
