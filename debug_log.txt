@@ -1,83 +1,3 @@
-item: DIESEL TRICOT&COロング袖丈、ロング着丈 kw=ディーゼル price=1900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【GUCCI 】GG柄 ミニショルダーバッグ 黒 kw=グッチ price=17999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GUCCI GGキャンバス 二つ折り財布 グリーン kw=グッチ price=12300
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: グッチ　リバーシブル　ダブルGロゴ　約8.5号　シルバーナロ kw=グッチ price=12000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GUCCI 二つ折りカードケース　ヴィンテージ　レザー kw=グッチ price=6000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GUCCI シルバーリング kw=グッチ price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA ナイロン ポーチ kw=プラダ price=4500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA プラダ　くま　キーホルダー　チャーム　&TEAM kw=プラダ price=77777
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA ポロシャツ kw=prada price=8888
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Prada ショルダーバッグ ブラック 中古美品 匿名発送  kw=prada price=7800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 高級　PRADA プラダ ジップアップパーカー ブラック kw=prada price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品 PRADA 赤 フレグランス顧客限定 トートバッグ kw=prada price=5600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 本人期 HELMUT LANG ノンウォッシュ クラシックカ kw=helmut lang price=58000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DIESEL Tシャツ ホワイト kw=diesel price=3000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DIESEL Tシャツ ブラック スプレーロゴ kw=diesel price=4500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DIESEL Tシャツ ブラック ロゴ刺繍 kw=diesel price=4999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood ショルダーバッグ ブラッ kw=vivienne westwood price=40000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood 二つ折り財布 ブラウン  kw=vivienne westwood price=8500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MM6 Maison Margielaロゴ Tシャツ メゾン kw=maison margiela price=10100
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: AMIRI ラインストーン MAロゴ メッシュキャップ ブラ kw=amiri price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 132 5. ISSEY MIYAKE カットソー　プリーツ kw=issey miyake price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PLEATS PLEASD ISSEY MIYAKE 長袖  kw=issey miyake price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: STONE ISLAND スウェット 青色 kw=stone island price=25000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: STONE ISLAND スウェット kw=stone island price=35000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品・未使用】Yohji Yamamoto 19-0112 kw=yohji yamamoto price=22000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: POST ARCHIVE FACTION (PAF) lef kw=post archive faction price=11500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: JIL SANDER（ジルサンダー）ニット セーター kw=jil sander price=17000
-    vs 1444559584 -> False
     vs 934301278 -> False
 item: LEMAIRE MINIMAL WESTERN BELT ブ kw=lemaire price=50000
     vs 1444559584 -> False
@@ -1996,5 +1916,85 @@ item: LGB バッククロス カーディガン archive kw=lgb price=39000
     vs 1444559584 -> False
     vs 934301278 -> False
 item: 新品未使用　CHANEL エクラプルミエセラム　DIOR カ kw=chanel price=1000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-06 17:53:48 UTC ===
+new items: 25, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE 09SS 宮下期 ハート涙 音符 kw=ナンバーナイン price=24000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 934301278 -> False
+item: Vivienne Westwood 二つ折り財布 ブラック kw=ヴィヴィアンウエストウッド price=19999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: JUNYA WATANABE MAN × OAKLEY 26 kw=ジュンヤワタナベ price=28000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: DIESEL ZATHAN kw=ディーゼル price=12000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA かごバッグ ベージュ kw=prada price=13500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【新品未使用】PRADAプラダ Vネックカーディガン バージ kw=prada price=20000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA MILANO かごバッグ トートバッグ kw=prada price=11000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MAISON MARGIELA メゾンマルジェラ ワイド ロ kw=maison margiela price=23500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Maison Margiela 二つ折り財布 ブラック kw=maison margiela price=28000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: AMIRI キャップ ホワイト kw=amiri price=14000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Y-3 U GFX HOODIE kw=y-3 price=18600
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Kiko Kostadinov KK.Jacket.03 2 kw=kiko kostadinov price=83000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON エピ ベルト ブラック kw=louis vuitton price=30000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: そーま様　専用 kw=nike price=12000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ラコステ　チェックシャツ kw=lacoste price=2500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 超希少 THE NORTH FACE パーカー オレンジ L kw=the north face price=10000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: クリスチャンディオール 星 チャーム kw=dior price=399
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: マークバイマークジェイコブス ショルダーバッグ kw=marc jacobs price=8800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CONVERSE ALL STAR 24.5cm 赤 ブリー kw=converse price=1500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CONVERSE＊ ALL STAR・highスニーカー・5 kw=converse price=3800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【美品】コンバース オールスター HI ホワイト 28.0c kw=converse price=2880
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: シャネル エクラ プルミエ サンプル 2点セット kw=chanel price=700
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHANEL ルージュ ココ フラッシュ 144 kw=chanel price=2000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHANEL　N°1　ドゥ シャネル　乳液　5ml　サンプル kw=chanel price=300
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHANEL ココ マドモアゼル オードゥ パルファム　50 kw=chanel price=13333
     vs 1444559584 -> False
     vs 934301278 -> False
