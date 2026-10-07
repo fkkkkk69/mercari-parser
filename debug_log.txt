@@ -1,74 +1,3 @@
-item: トムクロム thom krom thom/kromカットソー kw=thom krom price=16000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GRL ビッグカラーオフショルダーリボンニットトップス[ks kw=off-white price=1600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA city first kw=balenciaga price=149000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA 20SS Bロゴ WOC レザーショル kw=balenciaga price=40000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA 切り替えジップパーカー　デニムベスト　 kw=balenciaga price=29800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA 10xl 40 ホワイト スニーカー  kw=balenciaga price=85000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OLD BALENCIAGA 短丈 ナイロンジャケット Y2 kw=balenciaga price=18800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 大人気★BB チェーンブレスレット シルバー サイズM kw=balenciaga price=33500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA BBロゴ ネックレス kw=balenciaga price=23800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Chrome Hearts Hoop Plain Earri kw=chrome hearts price=100000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHROME HEARTS ゴールドポリッシングクロス 2枚 kw=chrome hearts price=1800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHROME HEARTS ジップアップパーカー ブラック kw=chrome hearts price=30100
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: クロムハーツキャップ kw=chrome hearts price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Chrome Hearts 財布cw kw=chrome hearts price=12111
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ネイバーフッド　シルバー　リング　neighborhood  kw=chrome hearts price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: バーティー・ヒギンズ / カサブランカ【CD】 kw=casablanca price=998
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: クラシック映画 カサブランカ　名作シネマ kw=casablanca price=1680
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 希少！ ジャムホームメイド×ルードギャラリー ウォレットチェ kw=rhude price=7999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: オコヤの森のセレビィ&ザルード kw=rhude price=165000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 2点セット　GIVENCHY 二つ折り財布 kw=givenchy price=13000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY ジバンシー ノベルティポーチ kw=givenchy price=999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY ヘアバンド kw=givenchy price=700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY ストッキング Lサイズ kw=givenchy price=600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ONE ONE NINE NINE PARIS ブレスレット kw=dior homme price=5500
-    vs 1444559584 -> False
     vs 934301278 -> False
 item: DIOR HOMME アイスブルー　デニム　SS04 STR kw=dior homme price=213000
     vs 1444559584 -> False
@@ -1996,5 +1925,76 @@ item: 即日発送 リップサービス LIP SERVICE ダブルボタ kw=lip serv
     vs 1444559584 -> False
     vs 934301278 -> False
 item: Dr.Martensドクターマーチン 8ホールブーツ チェリ kw=dr. martens price=9000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-07 18:23:24 UTC ===
+new items: 22, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ★希少★ヒステリックグラマー　スタッズ　パフスリーブ　スカル kw=ヒステリックグラマー price=24000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR 長袖カットソー ホワイト  kw=ヒステリックグラマー price=5500
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 定価15万円 | PRADA 厚底スニーカー kw=prada price=36000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA プラダ ナイロン トートバッグ ブラウン 大型ロ kw=prada price=17800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood 財布 kw=vivienne westwood price=6500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: post archive faction curved je kw=post archive faction price=39800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 100 アンダースンベル レディース ルーズフィット スウェ kw=andersson bell price=5443
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHROME HEARTS 刺繍 メッシュキャップ ピンク kw=chrome hearts price=11500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHROME HEARTS ロンTブラック XLサイズ 即発 kw=chrome hearts price=37000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHROME HEARTS ダガーロゴ プルオーバーパーカー kw=chrome hearts price=130000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 正規品LOUIS VUITTON ダミエ アズール ベルト  kw=louis vuitton price=23000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: nike pro コンプレッション tシャツ kw=nike price=6000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: nike airmax 95 BIG BUBBLE US11 kw=nike price=14500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【NIKE】 90s ナイキ スウェットトレーナー レザーロ kw=nike price=13100
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MONCLER マウンテンパーカー ネイビー kw=moncler price=18999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: THE NORTH FACE トレーナー　M kw=the north face price=5500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: SALOMON XT 10 ユニセックス バックパック kw=salomon price=11000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ‼️引越し格安販売中‼️ ASICS ゲルクォンタム 29c kw=asics price=7000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Diorリップ000透明感を引き出すクリアカラー　袋付き！ kw=dior price=3900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CDロゴ パール ストーン ゴールド kw=dior price=21000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: リップサービス　テーラードジャケットワンピース kw=lip service price=1999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Ifsixwasnine ポエムカットソー archive  kw=if six was nine price=16999
     vs 1444559584 -> False
     vs 934301278 -> False
