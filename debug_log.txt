@@ -1,74 +1,3 @@
-    vs 934301278 -> False
-item: DIOR HOMME アイスブルー　デニム　SS04 STR kw=dior homme price=213000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=11000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 訳あり‼️LOUIS VUITTON モノグラム ショルダー kw=louis vuitton price=400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=14000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム カードケース kw=louis vuitton price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ルイ・ヴィトン ロゴニットキャップ ブラウン kw=louis vuitton price=6830
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム ハンドバッグ ブラウ kw=louis vuitton price=5066
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON 型押し財布 ブラック kw=louis vuitton price=5166
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON ダウンジャケット シルバー kw=louis vuitton price=6433
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラムプリント ショルダーバ kw=louis vuitton price=5245
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=5346
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ルイ・ヴィトン モノグラム 2WAYバッグ ブラウン kw=louis vuitton price=5753
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Louis Vuitton リブ編みニットキャップ ホワイト kw=louis vuitton price=6188
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム スモールバッグ ダー kw=louis vuitton price=5987
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON ダミエ モノグラム ハンドバッグ kw=louis vuitton price=6253
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム ハンドバッグ ブラッ kw=louis vuitton price=7066
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム ショルダーバッグ グ kw=louis vuitton price=5355
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON ダウンジャケット ブラック kw=louis vuitton price=8587
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム エクリプス トートバ kw=louis vuitton price=6578
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム柄 ショルダーバッグ  kw=louis vuitton price=6578
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ルイ・ヴィトン スニーカー ホワイト/ブラック kw=louis vuitton price=6587
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ルイ・ヴィトン モノグラム スモールボストンバッグ ブラック kw=louis vuitton price=5366
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON LVロゴ ベルト ブラック kw=louis vuitton price=8698
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON ダウンジャケット ブラック・ブラ kw=louis vuitton price=6490
     vs 1444559584 -> False
     vs 934301278 -> False
 item: LOUIS VUITTON オフホワイト スニーカー・トレイ kw=louis vuitton price=3855
@@ -1996,5 +1925,76 @@ item: リップサービス　テーラードジャケットワンピース kw=l
     vs 1444559584 -> False
     vs 934301278 -> False
 item: Ifsixwasnine ポエムカットソー archive  kw=if six was nine price=16999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-07 18:38:30 UTC ===
+new items: 22, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: HYSTERICGLAMOUR GUITAR GIRL ボー kw=ヒステリックグラマー price=7780
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Vivienne Westwood 長袖シャツ パープル 刺 kw=ヴィヴィアンウエストウッド price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ディーゼル　diesel ニット kw=ディーゼル price=4000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: GUCCI ウエストバック kw=グッチ price=40000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマームック本トートバック kw=hysteric glamour price=2999
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 新品未使用　PRADA プラダ　2026 トートバッグ kw=prada price=7000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: PRADA ヴィッテロダイノ 2WAY ハンドバッグ ホワイ kw=prada price=59800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Andersson Bell ベージュ フェイクファー ジャ kw=andersson bell price=32000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: アンダーソンベル フラワー スウェット L kw=andersson bell price=6206
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: アンダースンベル レーシング リワークド スリーブレス kw=andersson bell price=10592
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【極美品/48】LEMAIRE WOOL ZIP BLOUS kw=lemaire price=120000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BALENCIAGA 三つ折り財布 ブラック kw=balenciaga price=40000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CANADA GOOSE ダウンジャケット kw=canada goose price=55000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BURBERRY　財布　 赤　ボルドー kw=burberry price=8500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: THE NORTH FACE カモフラ フリース パーカー kw=the north face price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LIPSERVICE シャツドッキングプリーツワンピース kw=lip service price=7777
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Dr. Martens JADON MONO 8 ホール ブ kw=dr. martens price=19000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: コンバース オールスター100 ゴアテックス Z HI ブラ kw=converse price=5500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: デッドストック！コンバース　チャックテイラー　オリジナル kw=converse price=18000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CONVERSE ALL STAR 90s usa製 kw=converse price=9000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 023 JUICY COUTURE ジューシークチュール レ kw=juicy couture price=7016
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 希少　アンダーカバー　時計仕掛けのオレンジ　ナイロンコート kw=undercoverism price=39000
     vs 1444559584 -> False
     vs 934301278 -> False
