@@ -1,98 +1,3 @@
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Arc'teryx Kragg Cotton Logo SS kw=arcteryx price=9500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ARC'TERYX リュック ブラック　マンティス26 kw=arcteryx price=22000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ARC'TERYX ジャケット ブラック kw=arcteryx price=55000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: アークテリクス ARC'TERYX トートバッグ ショッパー kw=arcteryx price=499
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER ロゴプリント Tシャツ 半袖 ホワイト　Lサ kw=moncler price=12000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER モンクレール ポロシャツ kw=moncler price=12000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER ユニセックス　ニット帽 ビーニー ピンク kw=moncler price=30000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER ダウンベスト ベージュ イエロー kw=moncler price=19999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER マスク ブラック　非売品 kw=moncler price=4800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: apple 様 専用 kw=moncler price=34000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER ダウンベスト ホワイト kw=moncler price=56000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CANADA GOOSE ダウンベスト ブラック kw=canada goose price=38000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 美品　正規品　trapstarダウンジャケット トラップスタ kw=trapstar price=27600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY ジップアップパーカー グレー XL(s) kw=burberry price=19000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY LONDON ワンピース 100A kw=burberry price=3300
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY BLACK LABEL ニット セーター  kw=burberry price=6200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY ドライバーズニット Lサイズ kw=burberry price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE カーディガン ネイビー kw=lacoste price=7500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE EXCLUSIVE EDITION スウェッ kw=lacoste price=6500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE ポロシャツ　XS 美品 kw=lacoste price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE ラコステ ボーダー ポロシャツ グリーン 8 kw=lacoste price=2500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BEAMS ラコステ　ニット ポロシャツ ダークブラウン S kw=lacoste price=600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: THE NORTH FACE BIG SHOT バックパック kw=the north face price=7500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OAKLEY HEX JECTOR A OX8174F-05 kw=oakley price=11000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: オークリーチェーンリンク　アジアンフィット　OO9252-0 kw=oakley price=14500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OAKLEY Tシャツ ホワイト ネオンオレンジ刺繍 kw=oakley price=1800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OAKLEY エンコーダー Prizm 24K kw=oakley price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 00s archive OAKLEY 極太 check pa kw=oakley price=11800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Salomon XA PRO 3D GORE-TEX ブラッ kw=salomon price=9000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Salomon × and wander ODYSSEY ス kw=salomon price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Salomon Globe Graphic SS Tee L kw=salomon price=5000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: SALOMON スウェット ブラック S kw=salomon price=4000
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1996,5 +1901,100 @@ item: SEVENTEEN CARAT LAND UNIFROM S kw=unif price=14000
     vs 1444559584 -> False
     vs 934301278 -> False
 item: CHANEL No.5. COLOGNE SPRAY (50 kw=chanel price=2300
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-07 19:08:46 UTC ===
+new items: 30, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: n(n) BY NUMBER (N)INE フード付きシャツ kw=ナンバーナイン price=23000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 934301278 -> False
+item: PRADA 二つ折り財布 ブラック kw=プラダ price=18000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 美品 PRADA プラダ ナイロン トートバッグ ブラック kw=プラダ price=24092
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Rick Owens Tec Worker Jacket S kw=rick owens price=100000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Rick Owens DRKSHDW prisoner dr kw=rick owens price=22000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: じょう様 リクエスト 3点 まとめ商品 kw=prada price=12230
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ジャンポールゴルチエ　ショルダーバッグ　ドラゴン　龍　ゴール kw=jean paul gaultier price=34999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Stone Island ストーンアイランドTC フーデッド kw=stone island price=60000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 1993 Stone Island Raso Gommato kw=stone island price=122000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Stone Island ダウンジャケット ピンク kw=stone island price=135000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: STONE ISLANDダウンジャケット kw=stone island price=70000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: STONE ISLAND 2012AW DAIVD-TC M kw=stone island price=65000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【神シルエット】STONE ISLAND スウェットシャツ　 kw=stone island price=45000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 8115572FA GHOST ダブルジップ ラムウールニッ kw=stone island price=59900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: STONE ISLAND ロングTシャツ トレーナー カーキ kw=stone island price=14800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Supreme x Stone Island Boucle  kw=stone island price=75000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Stone Island 23AWニット 上杉柊平 kw=stone island price=61900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【Y-3】ワイスリー 赤切り替え プルオーバーパーカー S  kw=y-3 price=12000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: DRIES VAN NOTEN テーラードジャケット LOV kw=dries van noten price=49800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 38) Andersson Bell(アンダースンベル) ウ kw=andersson bell price=12758
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: L (実 XL) ユニセックス @ アンダースンベル ジッパ kw=andersson bell price=4829
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: GIVENCHY ジバンシー　クォーツ 稼働品 kw=givenchy price=3000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Bazo1199 ブレスレット kw=dior homme price=9800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: archive GOAR コーティングデニム diorhom kw=dior homme price=2900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: LOUIS VUITTON ロックミー 三つ折り財布 kw=louis vuitton price=21000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Cookman コーデュロイ カーペンターパンツ　ブラウン kw=yeezy price=4500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Converse All Star コンバース ハイカット  kw=converse price=1500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Ed Hardy バッグ kw=ed hardy price=21900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Ed Hardy バッグ kw=ed hardy price=25900
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Diavlo leather skull chainbelt kw=lgb price=31900
     vs 1444559584 -> False
     vs 934301278 -> False
