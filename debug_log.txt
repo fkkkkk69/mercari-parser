@@ -1,85 +1,4 @@
     vs 934301278 -> False
-item: MONCLER トラックジャケット ネイビー XXL kw=moncler price=55555
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY チェック シャツ kw=burberry price=23000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: lisa_sticker様 リクエスト 2点 まとめ商品 kw=burberry price=8500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY バーバリー キッズ 160A ブラック パ kw=burberry price=3980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY BLUE LABEL ポロシャツ kw=burberry price=3400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY ‘S バーバリー ノバチェックスカート M kw=burberry price=2000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE スウェット ワインレッド 3 kw=lacoste price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: THE NORTH FACE フリースジャケット ブラック kw=the north face price=6700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: THE NORTH FACE ブラック マウンテンパーカー  kw=the north face price=2800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: THE NORTH FACE トレッカーメッシュベスト 新品 kw=the north face price=6500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SALOMON XT-6 GORE-TEX スニーカー kw=salomon price=27000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ASICS OC RUNNER スニーカー ブラック イエロ kw=asics price=6980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Saint Laurent YSL 長財布 ラウンドジップ  kw=saint laurent price=25980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Yves Saint Laurent メガネプリント Tシャ kw=saint laurent price=29999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Saint Laurent クロコ型押し 長財布 kw=saint laurent price=50000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YVES SAINT LAURENT パウダーチーク kw=ysl price=4000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YVES SAINT LAURENT LIBRE EAU D kw=ysl price=6999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Yves Saint Laurent OR ROUGE トラ kw=ysl price=5200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品 YSL アンクル ド ポー ルクッション 20 kw=ysl price=2500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ⁠DECOUVERTE ヴィンテージ Dior ディオール  kw=dior price=11111
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ✨Christian Dior MONSIEUR✨サイズL相 kw=dior price=2000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior CDロゴ ネックレス シルバーカラー ラインストー kw=dior price=19999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DIOR FOREVER SKIN CORRECT コンシー kw=dior price=4950
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: レザー トートバッグ グレー kw=zadig & voltaire price=2900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS ショルダーバッグ kw=marc jacobs price=9000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS ブラックレザーショルダーバッグ kw=marc jacobs price=3100
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dr.Martens　8ホール イングランド製　27　値下げ kw=dr. martens price=23000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: Dr.Martens タッセルローファー kw=dr. martens price=13500
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1996,5 +1915,86 @@ item: CHANEL ルージュ ココ 122 kw=chanel price=2800
     vs 1444559584 -> False
     vs 934301278 -> False
 item: CHANEL ココ マドモアゼル クラッシュ アブソリュ 5 kw=chanel price=18000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+=== run at 2026-10-08 17:53:32 UTC ===
+new items: 25, subscribers: 2
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Number (N)ine ナンバーナイン 宮下期 デニムシ kw=ナンバーナイン price=12900
+    vs 1444559584 -> True
+    notify result: ok
+    vs 934301278 -> False
+item: rick owens drksdw mega bamper  kw=リックオウエンス price=95500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: JUNYA WATANABE COMME des GARCO kw=ジュンヤワタナベ price=18500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: DIESEL Tシャツ 3枚組 Sサイズ kw=ディーゼル price=4700
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: DIESEL ボクサーパンツ 3枚セット Mサイズ kw=ディーゼル price=3999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Hysteric Glamour Tシャツ Kurt Cob kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: PRADA レザーローカットスニーカー kw=prada price=20000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【H12】TORNADO MARTラグランロンT サイズM  kw=tornado mart price=4990
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: イッセイミヤケ MIYAKE DESIGN STUDIO マ kw=issey miyake price=6999
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: ANN DEMEULEMEESTER 05ss? タンクトッ kw=ann demeulemeester price=3600
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: アンダースンベル ウィメンズ ジョアン ダブル ウェスト デ kw=andersson bell price=12258
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Hello my destiny ユリウス×スバル 同人誌 kw=julius price=5000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Parts Lab. ベーシックニットプルオーバー　ニット　 kw=off-white price=4100
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BALENCIAGA バレンシアガ TROOPER トルーパ kw=balenciaga price=25000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: VINTAGE GIVENCHY Gロゴ ストーン ネックレ kw=givenchy price=3500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: 【正規品】LOUIS VUITTON ルイヴィトン サングラ kw=louis vuitton price=34500
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MONCLER GRENOBLE Tシャツ ブラック M kw=moncler price=17000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: MONCLER ジップアップパーカー ブラック　セットアップ kw=moncler price=20000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: BURBERRY バケットハット ノバチェック‼️ kw=burberry price=34444
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: SAINT LAURENT クロコ型押し 二つ折り財布 kw=saint laurent price=39800
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: イブサンローラン YVES SAINT LAURENT リッ kw=ysl price=699
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Dior ミスディオール アイシャドウ ポーチ kw=dior price=1299
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: アメリカンアパレル ロゴ タンクトップ Ｕネック L 橙 kw=american apparel price=1090
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: Dr. Martens サイドゴアブーツ ブラック kw=dr. martens price=8000
+    vs 1444559584 -> False
+    vs 934301278 -> False
+item: CHANEL CHANCE EAU TENDRE サンプル kw=chanel price=2000
     vs 1444559584 -> False
     vs 934301278 -> False
