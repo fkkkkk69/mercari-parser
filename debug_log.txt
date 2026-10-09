@@ -1,46 +1,4 @@
     vs 934301278 -> False
-item: PIERRE BALMAIN　ハンカチ　チューリップ柄 kw=balmain price=300
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: TORNADO MART　フラワープリント長袖シャツ　トルネ kw=tornado mart price=9900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood ネックレス ブルーオーブ kw=vivienne westwood price=22222
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: John Galliano ニュースペーパー柄 タンクトップ kw=john galliano price=26000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Maison Margiela Tシャツ ホワイト kw=maison margiela price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: AMIRI黒帽子 kw=amiri price=15500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: AMIRI slimfit denim kw=amiri price=18000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ISSEY MIYAKE　マルチ ストライプ柄 大判ストール kw=issey miyake price=17999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 定価2.7万 美品 スターバックス × ワイルドサイド ヨウ kw=yohji yamamoto price=18000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 2025秋冬ヨウジヤマモト　レザージャケット kw=yohji yamamoto price=90000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ヨウジヤマモトプールオム YOHJI YAMAMOTO PO kw=yohji yamamoto price=25600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Y-3 M LEO FLEECE FOOTBALL SHOR kw=y-3 price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 専用　DRIES VAN NOTEN クレイジーバジル　CR kw=dries van noten price=30000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DRIES VAN NOTEN ボタニカルハーフパンツドリス kw=dries van noten price=40000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: DRIES VAN NOTEN ファー サボ ミュール 39 kw=dries van noten price=43000
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1998,3 +1956,45 @@ item: Hysterics フーデッドモッズコート kw=hysteric glamour price=4000
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-09 23:31:30 UTC ===
+new items: 8, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE 2005AW ピンズセット kw=number (n)ine price=3800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: NUMBER (N)INE 2002SS M99ジャケット  kw=number (n)ine price=47500
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: アンダーカバー×ナイキダンク ハイ カオスブラック kw=undercover price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU ニットキャップ UNDERCOVER ブラック kw=undercover price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: hysteric glamorスエットワンピ　れあタグ kw=hysteric glamour price=5800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR リバーシブルトートバッグ kw=hysteric glamour price=7300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR 総柄 ラメ 長袖ニット kw=hysteric glamour price=9999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Hysterics 星柄 ジップアップ ジャケット kw=hysteric glamour price=11111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
