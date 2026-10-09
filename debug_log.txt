@@ -1,31 +1,3 @@
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY PARIS シルク スカーフ 花柄 グリー kw=givenchy price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY ジバンシィ ヴィンテージ チェーン ブレス kw=givenchy price=5000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHYネックレス シルバーカラー　平成レトロ品 kw=givenchy price=2800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior ブレスレット 編み込みレザー ブラック kw=dior homme price=62000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON シアリング トートバッグ kw=louis vuitton price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【希少】A BATHING APE x HERON PRES kw=heron preston price=28000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CAHLUMN スウェットパンツ グレー Lサイズ kw=yeezy price=10800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Corteiz ピンク メッシュキャップ　CORTEIZ ２ kw=corteiz price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: C.P.Company Nylon B CrossBodyb kw=c.p. company price=35000
-    vs 1444559584 -> False
     vs 934301278 -> False
 item: Cormac Crew SS ARC'TERYX M kw=arcteryx price=8980
     vs 1444559584 -> False
@@ -1995,6 +1967,34 @@ item: HystericAngel 長袖Tシャツ ブラック kw=hysteric glamour price=3333
     vs 934301278 -> True
     notify result: ok
 item: ★美品★ヒステリックグラマー　ヒスガールスタジアムジャケット kw=hysteric glamour price=28000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-09 21:31:36 UTC ===
+new items: 5, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE ナンバーナインスカルハンド ハー kw=number (n)ine price=50000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 未使用 アンダーカバー UNDERCOVER 2003SS  kw=undercover price=14800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU×アンダーカバー フェイクレザー ダブルライダーズジャケ kw=undercover price=5990
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR 30 YEAR ANNIV kw=hysteric glamour price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ロゴパーカースウェットユニセックス 秋冬HYSTERIC G kw=hysteric glamour price=8999
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
