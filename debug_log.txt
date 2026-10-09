@@ -1,20 +1,5 @@
     vs 1444559584 -> False
     vs 934301278 -> False
-item: CONVERSE ALL STAR ローカット スニーカー  kw=converse price=3700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL COCO MADEMOISELLE CRUSH kw=chanel price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL GABRIELLE 香水 ガブリエル 35ml kw=chanel price=6800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL レキャトルオンブル 204 ティセ ヴァンドー kw=chanel price=1199
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHANEL ブルー ドゥ シャネル パルファム サンプル  kw=chanel price=1380
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: CHANEL レ キャトル オンブル N°5 アイシャドウ  kw=chanel price=6980
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1998,3 +1983,18 @@ item: マニア様専用 ヒステリックグラマー kick or bite kw=hysteric
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-10-09 22:31:32 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU×UNDERCOVER×DISNEY ジャケット M M kw=undercover price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER × New Era 帽子 kw=undercover price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
