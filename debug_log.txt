@@ -1,55 +1,4 @@
     vs 934301278 -> False
-item: DRIES VAN NOTEN ファー サボ ミュール 39 kw=dries van noten price=43000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: JIL SANDER メッシュフリンジショルダーバック　グリ kw=jil sander price=16000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: リゼロ　ユリウス　名刺風アクリルカード　くじ引き堂 kw=julius price=1777
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: KANA-BOON / KNBN PLANET スウェット  kw=off-white price=3000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品未使用未開封 L size FUBU オーバーサイズ T kw=off-white price=3333
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品 ユニクロU スウェットタートルネックシャツ L オフホ kw=off-white price=1980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA バレンシアガ バギーデニム レイヤード kw=balenciaga price=45000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BALENCIAGA 巾着袋 グレー kw=balenciaga price=1111
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CHROME HEARTS キーパーリング17号　正規品 kw=chrome hearts price=250000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: マスカデットカサブランカ球根 2球 kw=casablanca price=1400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ☆10-2.GIVENCHY モダンデザイン 4Gロゴ シル kw=givenchy price=3000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: size46☆美品☆ディオールオム メルトンウール製ライダー kw=dior homme price=63800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 美品　ディオール　ネクタイ　ナロータイ　紺　ストライプ　シル kw=dior homme price=18800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: FEAR OF GOD FG Tシャツ Lサイズ kw=fear of god price=6500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: FEAR OF GOD ESSENTIALS 長袖　XLサイ kw=fear of god price=5000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ESSENTIALS FEAR OF GOD スウェットパン kw=fear of god price=9000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: spiderパーカー ブラック kw=sp5der price=9000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: Sp5derパーカーSお金ないです買ってください kw=sp5der price=25000
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1995,6 +1944,57 @@ item: HYSTERIC GLAMOUR 総柄 ラメ 長袖ニット kw=hysteric glamour price=9
     vs 2034814464 -> False
     vs 934301278 -> False
 item: Hysterics 星柄 ジップアップ ジャケット kw=hysteric glamour price=11111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-09 23:46:31 UTC ===
+new items: 10, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 02awナンバーナイン編み込みtシャツnumbernineサ kw=number (n)ine price=14800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: NIKE × sacai × UNDERCOVER LDワッ kw=undercover price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU × UNDERCOVER キャップ ネイビー kw=undercover price=1999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU × UNDERCOVER キャップ ブラック kw=undercover price=1999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 98SS ゲバラ期 UNDERCOVER ナイロンジャケット kw=undercover price=21800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU ニットキャップ UNDERCOVER ダークグリーン kw=undercover price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: NIKE UNDERCOVER AIR MAX 720 イエ kw=undercover price=3400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー レギンス いちご ピンク kw=hysteric glamour price=6800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー　Tシャツ kw=hysteric glamour price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー パーカー kw=hysteric glamour price=20000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
