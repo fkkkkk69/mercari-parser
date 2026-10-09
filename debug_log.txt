@@ -1,22 +1,4 @@
     vs 934301278 -> False
-item: ポケモンフレンダ　メガミュウツーY スーパートレジャー　3- kw=y-3 price=700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DRIES VAN NOTEN ホワイトシャツ kw=dries van noten price=8500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Kiko Kostadinov ALEC K-DART TR kw=kiko kostadinov price=35000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ジルサンダー　ダウンマフラー kw=jil sander price=19000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ジュリアス kw=julius price=1299
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品未使用未開封 M size FUBU オーバーサイズ オ kw=off-white price=3333
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: オサムグッズ×SEASON REAZON Tシャツ 【L】オ kw=off-white price=1700
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1995,6 +1977,24 @@ item: 00s HYSTERIC GLAMOUR ナイロンアノラック kw=hysteric glamour price
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERICGLAMOUR レオパード柄 ジップアップパ kw=hysteric glamour price=24880
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-09 21:01:33 UTC ===
+new items: 3, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: HYSTERIC GLAMOUR メンズTシャツ ホワイト  kw=hysteric glamour price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: hysteric GLAMOUR 裏起毛オーバーサイズグレー kw=hysteric glamour price=10800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR メンズスウェット kw=hysteric glamour price=11800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
