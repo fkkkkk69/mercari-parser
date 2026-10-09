@@ -1,56 +1,5 @@
     vs 1444559584 -> False
     vs 934301278 -> False
-item: Oakley Wave Cap kw=oakley price=5500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OAKLEY pants ESSEN performance kw=oakley price=2600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Salomon X-ALP LTR スニーカー ホワイト B kw=salomon price=14000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: asics スニーカー 23.0cm kw=asics price=11800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: アシックス　LAZERBEAM アウトドア　雨用 kw=asics price=2400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SAINT LAURENT サンローラン 二つ折り財布 ブラ kw=saint laurent price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: イヴ サンローラン 布製 トートバッグ kw=saint laurent price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: イヴサンローラン ル ヴェスティエール デ パルファム ブラ kw=ysl price=2400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YSL ルージュ ヴォリュプテ シャイン No.126 kw=ysl price=3200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: イヴ・サンローラン リップミラー ノベルティ　ＹＳＬ 鏡 kw=ysl price=2500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YSL ヴォリュプテシャイン 45 ミニリップ リボンセット kw=ysl price=900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS 2wayショルダーバッグ kw=marc jacobs price=7500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC BY MARC JACOBS 腕時計 レザー ブラ kw=marc jacobs price=3000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【LIP SERVICE】★ マルチスリーブシアーマーメイド kw=lip service price=2999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LIP SERVICE ビジュー付きトートバッグ kw=lip service price=2777
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dr. Martens スネーク柄 ブーツ パイソン kw=dr. martens price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CONVERSE ALL STAR MADE IN JAPA kw=converse price=11500
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: CONVERSE ALL STAR ローカット スニーカー  kw=converse price=3700
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1995,6 +1944,57 @@ item: X-girl HYSTERIC GLAMOUR コラボ Tシ kw=hysteric glamour price=4399
     vs 934301278 -> True
     notify result: ok
 item: ヒステリックグラマーニャンコ肩出しロンT kw=hysteric glamour price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-09 22:16:26 UTC ===
+new items: 10, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE 白黒チェック柄サングラス モデル kw=number (n)ine price=25000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ナンバーナイン　スエード　デニムパンツ kw=number (n)ine price=60000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: アンダーカバー　ハート柄 刺繍 キャップ ライトパープル kw=undercover price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【希少XXLサイズ】GU×UNDERCOVER ニットフリー kw=undercover price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: アンダーカバーUNDAKOVRIST復刻エクスチェンジ期 T kw=undercover price=22500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR THE HYSTERIC  kw=hysteric glamour price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 新品　ヒステリックグラマーオンライン購入　メッシュキャップ　 kw=hysteric glamour price=10500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマーファックベアヒスベアガール柄アシメントリ kw=hysteric glamour price=5999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ◆HYSTERIC GLAMOUR ヒステリックグラマー◆  kw=hysteric glamour price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: マニア様専用 ヒステリックグラマー kick or bite kw=hysteric glamour price=11000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
