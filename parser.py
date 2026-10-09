@@ -7,6 +7,8 @@ import requests
 import telebot
 from mercapi import Mercapi
 
+from type_filter import type_ok
+
 # Секреты берутся из переменных окружения, не хранятся в коде
 TOKEN = os.environ["TG_BOT_TOKEN"]
 WORKER_URL = os.environ["WORKER_URL"]  # напр. https://mercari-bot-worker.<sub>.workers.dev
@@ -16,7 +18,7 @@ bot = telebot.TeleBot(TOKEN)
 m = Mercapi()
 
 # Ключевые слова для поиска (японский + английский)
-KEYWORDS = [
+LEGACY_KEYWORDS = [
     "アンダーカバー",
     "ナンバーナイン",
     "ヒステリックグラマー",
@@ -148,6 +150,19 @@ KEYWORDS = [
     "if six was nine",
     "undercoverism",
 ]
+# Японские варианты названий: ищем и по ним тоже, а подписчик видит свой бренд
+ALIASES = {
+    "undercover": ["アンダーカバー"], "number nine": ["ナンバーナイン"],
+    "hysteric glamour": ["ヒステリックグラマー"], "rick owens": ["リックオウエンス"],
+    "raf simons": ["ラフシモンズ"], "jeremy scott": ["ジェレミースコット"],
+    "vivienne westwood": ["ヴィヴィアンウエストウッド"], "junya watanabe": ["ジュンヤワタナベ"],
+    "comme des garcons": ["コムデギャルソン"], "helmut lang": ["ヘルムートラング"],
+    "moschino": ["モスキーノ"], "balmain": ["バルマン"], "diesel": ["ディーゼル"],
+    "gucci": ["グッチ"], "prada": ["プラダ"], "vetements": ["ヴェトモン"],
+    "yohji yamamoto": ["ヨウジヤマモト"], "maison margiela": ["マルジェラ"],
+    "louis vuitton": ["ルイヴィトン"], "balenciaga": ["バレンシアガ"],
+}
+MAX_BRANDS_PER_SUB = 5
 SEEN_FILE = "seen.json"
 DELAY_BETWEEN_KEYWORDS = 3
 POLL_INTERVAL = 300
@@ -197,27 +212,48 @@ async def search_mercari(keyword):
         return []
 
 
-async def check_new():
+def build_keywords(subs):
+    """Только бренды, выбранные подписчиками (без дублей)."""
+    out, seen_kw = [], set()
+    for sub in subs:
+        for b in (sub.get("brands") or [])[:MAX_BRANDS_PER_SUB]:
+            b = str(b).strip().lower()
+            if b and b not in seen_kw:
+                seen_kw.add(b)
+                out.append(b)
+    return out
+
+
+async def check_new(keywords):
     seen = load_seen()
     first_run = len(seen) == 0
     new_items = []
+    # бренды, по которым уже искали раньше (в seen как 'kw:<бренд>')
+    known_kw = {x[3:] for x in seen if isinstance(x, str) and x.startswith("kw:")}
+    if not known_kw:
+        known_kw = {k.lower() for k in LEGACY_KEYWORDS}
+    new_kw = {k for k in keywords if k not in known_kw}
 
-    for keyword in KEYWORDS:
-        items = await search_mercari(keyword)
-        for item in items:
-            item_id = item.id_
-            if item_id and item_id not in seen:
-                seen.add(item_id)
-                if not first_run:
-                    new_items.append({
-                        "id": item_id,
-                        "name": item.name,
-                        "price": item.price,
-                        "keyword": keyword.lower(),
-                        "url": f"https://jp.mercari.com/item/{item_id}",
-                    })
-        await asyncio.sleep(DELAY_BETWEEN_KEYWORDS)
+    for brand in keywords:
+        for query in [brand] + ALIASES.get(brand, []):
+            items = await search_mercari(query)
+            for item in items:
+                item_id = item.id_
+                if item_id and item_id not in seen:
+                    seen.add(item_id)
+                    # новый бренд: текущие лоты только запоминаем
+                    if not first_run and brand not in new_kw:
+                        new_items.append({
+                            "id": item_id,
+                            "name": item.name,
+                            "price": item.price,
+                            "keyword": brand,
+                            "url": f"https://jp.mercari.com/item/{item_id}",
+                        })
+            await asyncio.sleep(DELAY_BETWEEN_KEYWORDS)
 
+    for b in keywords:
+        seen.add(f"kw:{b}")
     save_seen(seen)
     if first_run:
         print(f"Первый запуск: сохранено {len(seen)} товаров как уже виденные, уведомления не отправлены.")
@@ -239,6 +275,9 @@ def matches(item, sub):
             matched_brand = b
             break
     if matched_brand is None:
+        return False
+
+    if not type_ok(item["name"], sub.get("types")):
         return False
 
     brand_prices = sub.get("brand_prices") or {}
@@ -279,7 +318,12 @@ def notify(chat_id, item):
 
 async def main():
     print("Проверяю...")
-    new = await check_new()
+    subs = get_subscribers()
+    keywords = build_keywords(subs)
+    if not keywords:
+        print("Нет подписчиков с брендами — искать нечего.")
+        return
+    new = await check_new(keywords)
     debug_lines = [f"=== run at {time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime())} ==="]
     if not new:
         print("Новых нет.")
@@ -287,7 +331,6 @@ async def main():
         write_debug_log(debug_lines)
         return
 
-    subs = get_subscribers()
     debug_lines.append(f"new items: {len(new)}, subscribers: {len(subs)}")
     for s in subs:
         debug_lines.append(f"  sub {s.get('chat_id')}: brands={s.get('brands')}, price={s.get('price_min')}-{s.get('price_max')}, active={s.get('active')}")
