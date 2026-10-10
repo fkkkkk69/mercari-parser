@@ -1,71 +1,3 @@
-    vs 934301278 -> False
-item: 未使用 GALLERY DEPT. トートバッグ 洗濯1回の kw=gallery dept price=4600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ESSENTIALS FEAR OF GOD ハーフパンツ kw=fear of god price=18888
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: UNITED ARROWS green label rela kw=yeezy price=4500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: モンクレール　サングラス　メガネ　ライン　ロゴMONCLER kw=moncler price=23000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: カナダグース　レディース　ダウンジャケット kw=canada goose price=45800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY ノバチェック ポロシャツ 半袖 kw=burberry price=4999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Burberry CHILDREN Tシャツ 152cm kw=burberry price=3000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品⬛︎完売品⬛︎BURBERRY ピンクチェック タオルハ kw=burberry price=3500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ラコステ　ポロシャツ　半袖　ブラック　ロゴ kw=lacoste price=2500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ノースフェイス ブーツ 25 kw=the north face price=4500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: asics LAZERBEAM スニーカー 25cm 雨用　 kw=asics price=1800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: asics gel nyc アシックス kw=asics price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SAINT LAURENT キーケース YSL サンローラン kw=saint laurent price=29800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: kardan様専用◎Yves Saint Laurent リ kw=saint laurent price=1000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YSL ラディアント タッチ グロウパクト B25 kw=ysl price=1120
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: YSL ラディアント タッチ グロウパクト コレクターB20 kw=ysl price=8800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品】DIOR ジュエリーボックス プラチナ会員ウェルカム kw=dior price=4300
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MARC JACOBS 巾着 kw=marc jacobs price=555
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ドクターマーチン 1461 3ホール ホワイトステッチ UK kw=dr. martens price=7900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品未使用！　CHANEL シャネル ネイルオイル ユイル  kw=chanel price=3800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-=== run at 2026-10-09 16:38:50 UTC ===
-new items: 79, subscribers: 2
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: アンダーカバー 転写ポーチ リアル写真 紅茶 小物 カード  kw=アンダーカバー price=5980
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: Nettspend着用 I love nova gang T kw=リックオウエンス price=5000
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1995,6 +1927,74 @@ item: HYSTERIC/RAT/ART GIベルト/ガチャベルトF kw=hysteric glamour price
     vs 934301278 -> True
     notify result: ok
 item: HYSTERIC GLAMOUR ☆SEE NO EVIL  kw=hysteric glamour price=31500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-10 01:31:36 UTC ===
+new items: 14, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: VETEMENTS (ヴェトモン) 22SS VITAL E kw=vetements price=53015
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER ロゴ ガーメントバッグ アンダーカバー kw=undercover price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER x BOUNTY HUNTER Tシャ kw=undercover price=7800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ■ GU×UNDERCOVER kw=undercover price=800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 未使用 タグ付き GU アンダーカバー バックプリント ジッ kw=undercover price=7900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU×UNDER COVER リバーシブルブルゾン XLサイ kw=undercover price=5999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: NUMBER(N)INE シャツジャケット セットアップ kw=number nine price=6900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ダウンジャケット kw=hysteric glamour price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ▪️ヒステリックグラマー　hysteric glamor ジ kw=hysteric glamour price=10980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【希少・90s当時】ヒステリックグラマー ROCK 文字型  kw=hysteric glamour price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 90s HYSTERIC GLAMOUR ヒスガール Tシャ kw=hysteric glamour price=14800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 『新品未開封』ヒステリックグラマー　ギターガールキャップ　ブ kw=hysteric glamour price=15900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 608【人気L相当】ヒステリックグラマー♤ビッグロゴ　ヒスガ kw=hysteric glamour price=6300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 4493【入手困難】ヒステリックグラマー☆ヒスガール スモー kw=hysteric glamour price=46000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
