@@ -1,34 +1,3 @@
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Y's ワイズ 半袖カットソー チェック柄 ヨウジヤマモトサ kw=yohji yamamoto price=5700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Y-3 ワイスリーフラワープリント ウインドブレーカー kw=y-3 price=22000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HeyǃSɑyǃJUMPペンライト 3点セット kw=y-3 price=1111
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DRIES VAN NOTEN 花柄　ワンピース　ドリスヴァ kw=dries van noten price=50000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: アンダースンベル ウール ロングコート kw=andersson bell price=10420
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 21AW ジルサンダー　タングル kw=jil sander price=26000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Re:ゼロから始める異世界生活 リゼロ ユリウス アクスタ  kw=julius price=4999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OBSCURITY / WRAPPED IN PLASTIC kw=obscur price=13000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior ホワイト ブラック スニーカー kw=dior homme price=4000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム ショルダーバッグ kw=louis vuitton price=9000
-    vs 1444559584 -> False
     vs 934301278 -> False
 item: PS4 Marvel’s Spider-Man スパイダーマ kw=sp5der price=1100
     vs 1444559584 -> False
@@ -1994,6 +1963,37 @@ item: ヒステリックグラマー　MOTOR CITY BABY ジップ kw=hysteric gla
     vs 2034814464 -> False
     vs 934301278 -> False
 item: ヒステリックグラマー　スター総柄 ジップパーカー　140 kw=hysteric glamour price=3990
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-10 03:01:43 UTC ===
+new items: 6, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU×UNDERCOVER スーパービッグジップポケットT  kw=undercover price=3980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: アンダーカバー　06ss T期　再構築ワンピース kw=undercover price=139000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ヒステリックグラマー スカ kw=hysteric glamour price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ヒステリックグラマー 長袖 kw=hysteric glamour price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERICGLAMOUR ヒステリックグラマー 巾着  kw=hysteric glamour price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー 小窓デニム セルビッジ 30 kw=hysteric glamour price=6000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
