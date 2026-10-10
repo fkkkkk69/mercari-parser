@@ -1,46 +1,3 @@
-    notify result: ok
-item: 【希少】ヒステリックグラマー　黒　Tシャツ　M kw=ヒステリックグラマー price=11300
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Rick Owens 20SS CARGOJOG kw=リックオウエンス price=65000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood ヘアクリップ（ヘアアクセ kw=ヴィヴィアンウエストウッド price=5200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Helmut Lang ショルダーバッグ LOKI クロスボ kw=ヘルムートラング price=37700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LOVE MOSCHINO ラブモスキーノ ハートモチーフ  kw=モスキーノ price=6800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: B489【美品】MOSCHINO★チェーン トートバッグ A kw=モスキーノ price=5800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: モスキーノ ネクタイ 新品未使用 kw=モスキーノ price=2580
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 綿毛布　BALMAIN kw=バルマン price=4999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: DIESEL ライダース ジャケット トップス ダメージ加工 kw=ディーゼル price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GUCCI マイクロシマ PVC メンズ 折り財布 7946 kw=グッチ price=2500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: パンドラ オープンワークシェルチャーム 正規品 kw=プラダ price=2980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: W&LT "パクパク" T-shirt kw=walter van beirendonck price=40000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: W&LT "パクパク" T-shirt kw=walter van beirendonck price=38000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PRADA ショルダーバッグ グレー　ロゴ型押し　アウトレッ kw=prada price=85000
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: VivienneWestwood バスレリーフブレスレット kw=vivienne westwood price=8900
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1994,6 +1951,49 @@ item: 【特別値下げ】HYSTERIC GLAMOUR 総柄 長袖シ kw=hysteric glamour
     vs 934301278 -> True
     notify result: ok
 item: 00s NEW ERA 平成レトロY2K ダンサー　ヒステリ kw=hysteric glamour price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-10 01:01:34 UTC ===
+new items: 8, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE DENIM デニムジャケット メ kw=number (n)ine price=8900
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: VETEMENTS × LEVI'S デニムジャケット ET kw=vetements price=68000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDER COVER ブラック 長袖 Tシャツ L kw=undercover price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: Hysteric Glamour kw=hysteric glamour price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR リュック バッグ kw=hysteric glamour price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR エコバッグ トートバッグ kw=hysteric glamour price=11111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Andy Warhol BY HYSTERIC GLAMOU kw=hysteric glamour price=6500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR Tシャツ S kw=hysteric glamour price=7111
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
