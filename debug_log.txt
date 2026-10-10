@@ -1,27 +1,3 @@
-=== run at 2026-10-09 23:16:35 UTC ===
-new items: 5, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: UG (UNDERCOVER x GU コラボ) ショルダー kw=undercover price=1800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: レア‼︎ 【UNDERCOVER】アンダーカバー／アノラック kw=undercover price=12500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER × New Era キャップ kw=undercover price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー Tシャツ ガールプリントM kw=hysteric glamour price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: Hysterics フーデッドモッズコート kw=hysteric glamour price=4000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
@@ -1994,6 +1970,30 @@ item: VETEMENTS パーカー メンズ 【古着】【中古】【送料 kw=vete
     vs 2034814464 -> False
     vs 934301278 -> False
 item: GU UNDERCOVER ハイカットスニーカー ホワイト2 kw=undercover price=3700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-10 08:31:35 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE ワンピース kw=number (n)ine price=59800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOURヒステリックグラマー スウェ kw=hysteric glamour price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマーフリース kw=hysteric glamour price=7900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマーフリーストリコロール kw=hysteric glamour price=7900
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
