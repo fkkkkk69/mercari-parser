@@ -1,18 +1,4 @@
     vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー シャークガール kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-10 08:01:50 UTC ===
-new items: 11, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: VETEMENTS x Champion SS17 コラボ  kw=vetements price=30000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: XL アンダーカバー　UNDERCOVER オズの魔法使い  kw=undercover price=3700
     vs 1444559584 -> False
@@ -1998,3 +1984,17 @@ item: HYSTERIC GLAMOUR 23SS HITCHHIK kw=hysteric glamour price=4800
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-10 18:31:26 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE × Marlboro 非売品 コ kw=number (n)ine price=3999
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: L.G.B. ルグランブルー　スキニーパンツST105 BB kw=lgb price=38000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
