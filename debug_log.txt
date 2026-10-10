@@ -1,46 +1,4 @@
     vs 934301278 -> False
-item: Sp5derパーカーSお金ないです買ってください kw=sp5der price=25000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Spider-Man / Into the Spider-V kw=sp5der price=1900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: C.P. COMPANY カーゴパンツ ブラック　サイズ50 kw=c.p. company price=17000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: NIKE ナイロンジャケット フーデッド ブルー レッド kw=nike price=3400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ARC'TERYX ニット帽 ビーニー ブラック kw=arcteryx price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER モンクレール メンズ Tシャツ グレー Mサ kw=moncler price=9900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: カナダグース メイトランドパーカーダウン ブラックレーベル kw=canada goose price=55000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Burberry ポロシャツ kw=burberry price=3500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Burberrys 二つ折り財布 ノバチェック kw=burberry price=1100
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE ラコステ ポロシャツ パープル サイズ3 kw=lacoste price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ラコステ　ナイロンパーカーＭ kw=lacoste price=1980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【新品タグ付】ラコステ スクリプトネームロゴ ポロシャツ 4 kw=lacoste price=7600
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE ラコステ【L】長袖ポロシャツ レッド 赤 C kw=lacoste price=4699
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品　LACOSTE ラコステ クルーネックケーブルニット  kw=lacoste price=9900
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: イヴサンローラン　トートバッグ Yves Saint Lau kw=saint laurent price=2000
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1995,6 +1953,48 @@ item: ヒステリックグラマー　Tシャツ kw=hysteric glamour price=1100
     vs 2034814464 -> False
     vs 934301278 -> False
 item: ヒステリックグラマー パーカー kw=hysteric glamour price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-10 00:01:31 UTC ===
+new items: 8, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Killer吉影さまのみ　ご依頼分　NUMBER (N)IN kw=number (n)ine price=5000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 07awナンバーナインデニムボアジャケットnumbernin kw=number (n)ine price=23800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【新品】GU × UNDERCOVER ジップポケットシャツ kw=undercover price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER フランネルチェック シャツ kw=undercover price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU×UNDERCOVER ジップポケットチェックシャツ　M kw=undercover price=2200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: Killer吉影さま　ご依頼分　3枚セット kw=undercover price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー 本革 牛革 レザー コインケース 財布 kw=hysteric glamour price=13999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー HYSTERIC 綿ニット セーター kw=hysteric glamour price=13200
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
