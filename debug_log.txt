@@ -1,33 +1,5 @@
     vs 934301278 -> True
     notify result: ok
-item: HYSTERIC GLAMOUR DRUM KIT Mesh kw=hysteric glamour price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-10 07:01:36 UTC ===
-new items: 11, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: number (n)ine 08ss BIRDS期カシミヤソ kw=number (n)ine price=34000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ロングカーディガン　総柄 kw=hysteric glamour price=5333
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR パーカー ガール刺繍 kw=hysteric glamour price=15100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR 84ロゴ スウェット レッ kw=hysteric glamour price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: ヒステリックグラマー ニット kw=hysteric glamour price=18000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1995,6 +1967,34 @@ item: 新品未使用タグ付きヒステリックグラマーウールSパン�
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR 総柄 キャミソール kw=hysteric glamour price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-10 15:46:33 UTC ===
+new items: 5, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE CHECK FLANNEL HO kw=number (n)ine price=28000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU UNDERCOVER カーゴパンツ オリーブ Mサイズ kw=undercover price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 激レア☆14th addiction珍しいモヘアロングシャツ kw=lgb price=38000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ヒステリックグラマー 総柄 kw=hysteric glamour price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOURセーター kw=hysteric glamour price=18000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
