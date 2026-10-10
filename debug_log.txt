@@ -1,74 +1,3 @@
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: UNDERCOVER × TANGTANG Tシャツ ホワイ kw=アンダーカバー price=1500
-    vs 1444559584 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR 七分袖カットソー kw=ヒステリックグラマー price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 完売【ショッパー／シール付】HYSTERIC GLAMOUR kw=ヒステリックグラマー price=14999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 稀少 RAF SIMONS × adidas REPLICA kw=ラフシモンズ price=56990
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: adidas × jeremy scott ピンクプードル  kw=ジェレミースコット price=39800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Vivienne Westwood パンティストッキング ボ kw=ヴィヴィアンウエストウッド price=2200
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: HELMUT LANG kw=ヘルムートラング price=11775
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【美品】GUCCI グッチ オフィディア /シェリーラインミ kw=グッチ price=29500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: PPFM メンズM ボーダーニット　綿セーター　y2k 平成 kw=ppfm price=1999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Maison Margiela ナンバーリング　18号 kw=maison margiela price=23000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: メゾンマルジェラ スマホショルダー ポーチ ストラップ ブラ kw=maison margiela price=18800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【ほぼ未使用】AMIRI アミリ ショルダーバッグ MAカメ kw=amiri price=74800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Supreme Y's Yohji Yamamoto Sta kw=yohji yamamoto price=12000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: (中古)CLAIR OBSCUR EXPEDITION 33 kw=obscur price=3580
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Off-White パーカー フーディー バックプリント kw=off-white price=19999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GIVENCHY PARFUMS ラウンドポーチ 花柄　ノベ kw=givenchy price=1000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: [大ぶり] GIVENCHY ヴィンテージイヤリング ゴール kw=givenchy price=5800
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: UNIQLO :C スウェットワイドパンツ グレー kw=yeezy price=2000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: CORTEIZ Konnichiwa 10th annive kw=corteiz price=28000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: モンクレールTシャツ　黒MONCLER kw=moncler price=35000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER バケットハット ブラック Lサイズ kw=moncler price=28000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY バーバリー チェック柄 プリーツスカート  kw=burberry price=2400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY LONDON バーバリー チェック柄 プリ kw=burberry price=3980
     vs 1444559584 -> False
     vs 934301278 -> False
 item: BURBERRY ハンカチ チェック柄 グレー系 kw=burberry price=1500
@@ -1995,6 +1924,77 @@ item: ヒステリックグラマー　プリマロフト　ガール柄ワッ�
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERICGLAMOUR ヒステリックグラマー ロンT kw=hysteric glamour price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-10 05:01:38 UTC ===
+new items: 14, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE ホテルキーホルダー kw=number (n)ine price=2980
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【廃盤】LOVELESS × NUMBER (N)INE 別 kw=number (n)ine price=12999
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: NUMBER （N） INE 04AW GIVE期ハート ト kw=number (n)ine price=49800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER レザー　ベルト 星 kw=undercover price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU UNDERCOVER コンビネーションスカート kw=undercover price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: hysteric gramour ウォレットチェーン kw=hysteric glamour price=7900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR Tシャツ ブラック kw=hysteric glamour price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR Tシャツ ホワイト M メ kw=hysteric glamour price=5400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR チェック柄 長袖シャツ kw=hysteric glamour price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ☆MAXIMUM ROCK kw=hysteric glamour price=20500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR スタッズデニムパンツ kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 引越し大処分❗️★ヒステリックグラマー☆裏起毛パーカー・チュ kw=hysteric glamour price=6300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【美品】Hysteric Glamour レオパード柄長袖ト kw=hysteric glamour price=3333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー センター ヒステリックロゴ ニット セ kw=hysteric glamour price=14400
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
