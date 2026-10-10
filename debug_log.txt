@@ -1,42 +1,4 @@
     notify result: ok
-item: HYSTERIC GLAMOUR メッシュキャップ　スタッズ kw=hysteric glamour price=23100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR レザーパーカー kw=hysteric glamour price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ファックベアピアス kw=hysteric glamour price=2800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒスガールワッペンシャツ◆ヒステリックグラマー kw=hysteric glamour price=6900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-10 02:31:31 UTC ===
-new items: 6, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE ダウンベスト ブラック サイズ3 kw=number (n)ine price=30000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 気まぐれ出品 ナンバーナイン スタンダード期 ブラックストラ kw=number (n)ine price=12000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER SILENT NOISE Tシャ kw=undercover price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: BE@RBRICK NUMBER NINE ベアブリック kw=number nine price=4800
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1960,41 @@ item: 4235 U【美品】ヒステリックグラマー☆ヒスガール サウ�
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-10-10 11:16:30 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: n(n) BY NUMBER (N)INE デニムウエスタン kw=number (n)ine price=11000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Playboi Carti MUSIC cap kw=vetements price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU UNDERCOVER Zip Pocket Shirt kw=undercover price=2222
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU UNDERCOVER リボンデザインT ブラック S kw=undercover price=1499
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR 半袖シャツ ブラック kw=hysteric glamour price=5700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【美品】ヒステリックグラマー バタフライ ロゴ Tシャツ ブ kw=hysteric glamour price=9500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Niagara Tシャツ kw=hysteric glamour price=4980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
