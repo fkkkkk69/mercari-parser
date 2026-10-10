@@ -1,63 +1,3 @@
-item: ディーゼル　d-sire サイズ23 kw=ディーゼル price=12000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GUCCI グッチ ジャッキー レザー ワンショルダーバッグ kw=gucci price=32000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ピエールバルマン ヴィンテージ ロングドレス ワンピース ス kw=balmain price=6980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Jean Paul GAULTIER HOMME 長袖デザイ kw=jean paul gaultier price=16000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Jean Paul GAULTIER HOMME メッシュ切 kw=jean paul gaultier price=18000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: GAULTIER HOMME ストライプシャツ 50 kw=jean paul gaultier price=11000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: アンダーソンベル コントラスト カーブ フーディー (DEE kw=andersson bell price=7604
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Off-White 2019 Business Casual kw=off-white price=23000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ルイヴィトン　ショルダーバック　中古 kw=louis vuitton price=24000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: adidas YEEZY Foam Runner　25.5- kw=yeezy price=9000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: NIKE DROP-TYPE PRM デニム スニーカー kw=nike price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: nike リイシュー　ウーブンAOP パンツ　 jordan kw=nike price=11999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 新品未使用タグ付き ARC'TERYX Mantis2 kw=arcteryx price=7599
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: アークテリクス ARC'TERYX　『山へ』　ステッカー　非 kw=arcteryx price=2400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ARC'TERYX 15Lアークテリクス　チェック柄リュック kw=arcteryx price=19700
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE バイカラー ポロシャツ 半袖 LOOSE F kw=lacoste price=2500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: IZOD LACOSTE ラコステ Vネックニット セーター kw=lacoste price=3980
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ノースフェイス サミットシリーズ ゴアテックス マウンテンパ kw=the north face price=4999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OAKLEY サングラス OO9400 940004 usa kw=oakley price=14900
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【未使用】サロモンSALOMON ソックス M ブラック　グ kw=salomon price=2100
-    vs 1444559584 -> False
-    vs 934301278 -> False
 item: 新品 サロモン ソフトフラスク 500ml 2本セット Hy kw=salomon price=3800
     vs 1444559584 -> False
     vs 934301278 -> False
@@ -1998,3 +1938,63 @@ item: 3901MU【希少モデル】ヒステリックグラマー☆ヒスガー�
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-10-10 05:31:33 UTC ===
+new items: 12, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER トートバッグ スカルロゴ kw=undercover price=400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER　MADSTORE アクキー　2種セット kw=undercover price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ◉値下◉ UNDERCOVER Avakareta Life kw=undercover price=36000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 新品未使用 UNDERCOVER UP2F4801 NVY kw=undercover price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU×UNDERCOVER ジップポケット付き5分袖カットソ kw=undercover price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ◉値下・新品◉ UNDERCOVER D.A.V.F × F kw=undercover price=25800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: JohnUNDERCOVER 総柄 半袖シャツ ブラック kw=undercover price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: LGB レーマン Gゲージ 曲線レール No.11000 R kw=lgb price=10800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 米津玄師 LOSER/ナンバーナイン CD シングル ルーザ kw=number nine price=700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR パーカー コートニーラブ　 kw=hysteric glamour price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　Tシャツ　Lサイズ kw=hysteric glamour price=6599
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: Hysteric Glamour ネルシャツ 長袖 チェック kw=hysteric glamour price=6800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
