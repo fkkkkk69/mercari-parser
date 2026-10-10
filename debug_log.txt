@@ -1,77 +1,3 @@
-    vs 934301278 -> False
-item: LOUIS VUITTON モノグラム デニムパンツ ブラッ kw=louis vuitton price=300
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ストライプ柄 カジュアルパンツ ホワイト kw=yeezy price=400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BE@RBRICK SPIDER-MAN 3種セット kw=sp5der price=7333
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SPIDER-MAN スパイダーマン　一番くじ　Tシャツ B kw=sp5der price=3599
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: NIKE ガンマフォース25.0 kw=nike price=5000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ARC'TERYX ビーニー ブラック kw=arcteryx price=7000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ARC'TERYX ニット帽 ビーニー ブラック kw=arcteryx price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ARC'TERYX アークテリクス ショッパー トートバッグ kw=arcteryx price=999
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: MONCLER 長袖カットソー2021 kw=moncler price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 美品 モンクレール サカイ ダウンジャケット レディース カ kw=moncler price=28000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY LONDON カットソー ブラック 160 kw=burberry price=3500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: BURBERRY BLACK LABEL ファー付きパーカー kw=burberry price=20000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: LACOSTE ラコステ チェック柄 長袖シャツ グリーン  kw=lacoste price=3400
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: THE NORTH FACE ロングワンピース ブラック kw=the north face price=3799
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: THE NORTH FACE ベンチャージャケット kw=the north face price=10000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: OAKLEY FLAK 2.0 サングラス　　※訳あり kw=oakley price=500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 90s OAKLEY トラックジャケット 短丈 City ス kw=oakley price=500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ASICS スニーカー ホワイト 26.5cm kw=asics price=8000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ASICS GEL-KAYANO 14 kw=asics price=19000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: asics GEL-KINETIC FLUENT スニーカー kw=asics price=15000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: SAINT LAURENT Studded City Bac kw=saint laurent price=64000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior ピアス ロゴ チャーム パール ピアス ゴールド kw=dior price=32000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: 【美品】ディオール CDロゴ ブレスレット ゴールド ヴィン kw=dior price=5500
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: Dior Clair D Lune ネックレス ゴールド kw=dior price=22000
-    vs 1444559584 -> False
-    vs 934301278 -> False
-item: ディオール オリジナル ジュエリーケース Dior 2026 kw=dior price=4780
     vs 1444559584 -> False
     vs 934301278 -> False
 item: LIP SERVICE バイカラーニットセットアップ kw=lip service price=5700
@@ -1994,6 +1920,80 @@ item: ヒステリックグラマー　フライトジャケット kw=hysteric g
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 1063【入手困難】ヒステリックグラマー♤ビッグロゴ　ヒスガ kw=hysteric glamour price=5700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-10 02:16:31 UTC ===
+new items: 15, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 【NUMBER(N)INE×KEI≪ZOZO限定≫ビッグシル kw=number (n)ine price=3200
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: NUMBER (N)INE Archive ニットカーディガ kw=number (n)ine price=28000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 気まぐれ出品 ナンバーナイン スタンダード期 モデル着用 ド kw=number (n)ine price=38000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: VETEMENTSクルーネックプルオーバー kw=vetements price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: VETEMENTS WORLDTOUR HOODIE S kw=vetements price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヴェトモンVETEMENTS スタッフTシャツ 白XS kw=vetements price=10050
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 美品完売GU×UNDERCOVER カーディガン ブラック  kw=undercover price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【美品】GU×UNDERCOVER テーラードジャケット セ kw=undercover price=4950
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ifsixwasnine 長袖 LSC カットソー arch kw=lgb price=19000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　デニム kw=hysteric glamour price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒスガールバックプリントチェックシャツ◆ヒステリックグラマー kw=hysteric glamour price=5900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR メッシュキャップ　スタッズ kw=hysteric glamour price=23100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR レザーパーカー kw=hysteric glamour price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ファックベアピアス kw=hysteric glamour price=2800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒスガールワッペンシャツ◆ヒステリックグラマー kw=hysteric glamour price=6900
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
