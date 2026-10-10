@@ -1,39 +1,3 @@
-    notify result: ok
-item: HYSTERIC GLAMOURクルースウェット レッド M kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR メッシュキャップ kw=hysteric glamour price=7999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【中古美品】 HYSTERIC GLAMOUR ヒステリック kw=hysteric glamour price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【希少】00s archive　ヒステリックグラマー似　ロン kw=hysteric glamour price=5200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-10 07:31:41 UTC ===
-new items: 21, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE DENIM×LOVELESS・G kw=number (n)ine price=5000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【L】ナンバーナイン　n(n) ブラック　ロング丈　サイズ3 kw=number (n)ine price=6666
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER NIKE スニーカー kw=undercover price=12000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
@@ -1998,3 +1962,39 @@ item: Y2K❤️ HYSTERIC GLAMOUR ヒスガール ワ kw=hysteric glamour price=1
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-10-10 16:31:33 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 17SS VETEMENTS × Levi's 再構築 ジッ kw=vetements price=33000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Undercover RECORDS フード付きコーチジャケ kw=undercover price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 完売☆ドッキングレイヤードニット☆NOID☆LGB☆KMRI kw=lgb price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: NUMBER (N)INE birds期 ノースリーブ 2 kw=number nine price=30000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ★希少★ヒステリックグラマー　ヴィンテージ加工　デニム調　ス kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ★希少★ヒステリックグラマー　スタッズ　パフスリーブ　スカル kw=hysteric glamour price=24000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR キャップ ヒステリックグラ kw=hysteric glamour price=7980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
