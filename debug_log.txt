@@ -1,41 +1,3 @@
-item: 新品　ヒステリックグラマー　パーカー kw=hysteric glamour price=16000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-10 07:16:41 UTC ===
-new items: 10, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE ホワイト　Tシャツ　М相当　3　 kw=number (n)ine price=300
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: VETEMENTS 2018AW ジップアップパーカー タイ kw=vetements price=100000
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-    vs 934301278 -> False
-item: UNIQLO UNDERCOVER 七分袖　Mサイズ kw=undercover price=2000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【UNDERCOVER】アンダーカバー 脳みそバーガー Tシ kw=undercover price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【美品】GU ジーユー アンダーカバー オーバーサイズジャケ kw=undercover price=4799
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: archive 00s お兄系 vkei lgb風 y2k  kw=lgb price=3999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
     notify result: ok
 item: HYSTERIC GLAMOURクルースウェット レッド M kw=hysteric glamour price=15000
     vs 1444559584 -> False
@@ -1998,3 +1960,41 @@ item: HYSTERIC GLAMOUR チェック柄 長袖シャツ kw=hysteric glamour price
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-10 16:16:31 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ナンバーナインMA-1 チェック柄 グレー超美品　超希少品 kw=number (n)ine price=26800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: MUMBER (N)INEサングラス モデルfour kw=number (n)ine price=20000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU×アンダーカバー／ユニクロ／ROPE トップス3点セット kw=undercover price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU × UNDERCOVER コラボ ブルゾン ベージュ kw=undercover price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU × UNDERCOVER ケーブルニットセーター XL kw=undercover price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: モヘアニットライダース☆NOID☆LGB☆KMRII kw=lgb price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Y2K❤️ HYSTERIC GLAMOUR ヒスガール ワ kw=hysteric glamour price=15900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
