@@ -1,40 +1,3 @@
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ジップアップパーカー Lサ kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Hysteric Glamour Mini キーホルダー kw=hysteric glamour price=2222
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR メッシュキャップ ブラウン kw=hysteric glamour price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ショルダーバッグ kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ニット帽 ビーニー　ストリート kw=hysteric glamour price=2000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR 長袖カットソー ピンク L kw=hysteric glamour price=20000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【未使用】キャップ#33 kw=hysteric glamour price=14999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 4235 U【美品】ヒステリックグラマー☆ヒスガール サウン kw=hysteric glamour price=21000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
@@ -1998,3 +1961,40 @@ item: HYSTERIC GLAMOUR ヘンリーネック ワッフルメ kw=hysteric glamour
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-11 02:31:27 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE ナンバーナイン　スウェット　パン kw=number (n)ine price=5200
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: (プレート付)NUMBER(N)INE 04SS Tシャツ　 kw=number (n)ine price=40000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Supreme NUMBER (N)INE ミッキー キャッ kw=number (n)ine price=14000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 極美品 vetements tfd ボンバージャケット　パー kw=vetements price=79999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER アンダーカバー 半袖 Tシャツ kw=undercover price=5605
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー ギター ガール メッシュ キャップ " kw=hysteric glamour price=11111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ヴィクセンガール　スウェッ kw=hysteric glamour price=22800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
