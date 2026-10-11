@@ -1,28 +1,5 @@
     vs 2034814464 -> False
     vs 934301278 -> False
-item: HYSTERIC GLAMOUR MINI 総柄 ジップアッ kw=hysteric glamour price=999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR スウェット L kw=hysteric glamour price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー 00s ヴィンテージ 落書きウサギ ド kw=hysteric glamour price=15800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-11 07:46:29 UTC ===
-new items: 14, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: マニア必見！Number (N)ine ラグランカットソー kw=number (n)ine price=21000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: REPTY N°9 リプティ ナンバーナイン 育毛剤 (育毛 kw=number (n)ine price=2150
     vs 1444559584 -> True
     notify result: ok
@@ -1998,3 +1975,26 @@ item: HYSTERIC GLAMOUR メッシュキャップ kw=hysteric glamour price=8000
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-11 16:31:52 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Number(N)ine ss05" NIGHT CRAWL kw=number (n)ine price=66666
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: LGB パラシュートパンツ カーゴパンツ ルグランブルー kw=lgb price=130000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ソックス 靴下 ホワイト kw=hysteric glamour price=3100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ヒステリックグラマー 野口 kw=hysteric glamour price=9500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
