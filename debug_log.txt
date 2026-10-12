@@ -1,22 +1,3 @@
-item: 【新品】ヒステリックグラマー ♥️THE SENSATION kw=hysteric glamour price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-12 07:46:26 UTC ===
-new items: 9, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: アンダーカバー　デニム　シャンブレー　シャツ kw=undercover price=4000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: GU UNDERCOVER ブラックケーブルニット カーディ kw=undercover price=3990
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: UNDERCOVER x NIKE AIR FORCE 1 kw=undercover price=14000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1975,25 @@ item: UNDERCOVER × ADIEU 23AW UC2C4F kw=undercover price=19000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 00s hysteric glamor似総柄 リュックswa kw=hysteric glamour price=300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-12 21:46:45 UTC ===
+new items: 3, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: VETEMENTS バッファローチェック ネルシャツ バック kw=vetements price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒス カラビナ kw=hysteric glamour price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 1051【入手困難】ヒステリックグラマー♤ビッグロゴ　ヒスガ kw=hysteric glamour price=5400
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
