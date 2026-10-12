@@ -1,34 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU UNDERCOVER ワークジャケット ブラウン 襟コ kw=undercover price=1190
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: NIKE×UNDERCOVER GYAKUSOU Tシャツ kw=undercover price=7000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: L.G.B. / leggings trousers kw=lgb price=6800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ベビー ニット帽 ピンク 50cm LGB リトルグリーンバ kw=lgb price=999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: NUMBER (N)INE スキニーパンツ Mサイズ kw=number nine price=2480
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR Tシャツ L kw=hysteric glamour price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
 item: HYSTERIC GLAMOUR ヒステリックグラマー　総柄 kw=hysteric glamour price=6800
@@ -1998,3 +1967,34 @@ item: HYSTERIC GLAMOUR speedster メッシ kw=hysteric glamour price=7300
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-12 13:31:44 UTC ===
+new items: 6, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ナンバーナイン　NUMBER (N)INE パーカー ブラッ kw=number (n)ine price=1800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVERジャケット kw=undercover price=60000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU アンダーカバー UNDERCOVER ユーティリティブ kw=undercover price=5800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【美品】UNDERCOVER　アンダーカバー　フォトTシャツ kw=undercover price=9980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR RAMONES ジップパー kw=hysteric glamour price=15800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR パーカー SUNDAY M kw=hysteric glamour price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
