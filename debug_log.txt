@@ -1,19 +1,5 @@
     vs 1444559584 -> False
     vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: LGB Gゲージ 貨車 SILBERHÜTTE kw=lgb price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: CLOUD NUMBER NINE LIVELY SONGS kw=number nine price=400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー、ショルダーバッグ kw=hysteric glamour price=14000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR HYSTERIC GLAM kw=hysteric glamour price=9999
     vs 1444559584 -> False
@@ -1995,6 +1981,20 @@ item: HYSTERIC GLAMOUR デニムショートパンツ kw=hysteric glamour price=
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR ベロアスカジャン スカル刺 kw=hysteric glamour price=24999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-12 22:46:32 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Supreme NUMBER (N)INE サングラス シュ kw=number (n)ine price=38500
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマーパーカー/定価32,780円　米倉涼子着 kw=hysteric glamour price=12000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
