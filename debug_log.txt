@@ -1,50 +1,3 @@
-item: 【入手困難】HYSTERIC GLAMOUR HG ボディバ kw=hysteric glamour price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-11 13:01:45 UTC ===
-new items: 26, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 希少品✨ナンバー　Number パーカー　ジャージ　トラック kw=number (n)ine price=4500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナイン　ノベルティステッカー　非売品新品 kw=number (n)ine price=780
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NUMBER (N)INE カーディガン　テーラードジャケッ kw=number (n)ine price=52000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: VETEMENTS/ロンT kw=vetements price=20000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: VETEMENTS ヴェトモン 23ss ONLY S/S  kw=vetements price=19980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 正規品　vetements デムナ期　転写　ロンT 美品　サ kw=vetements price=75000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 正規品　vetements 再構築　Reebok トラックジ kw=vetements price=52000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER セットアップ kw=undercover price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: John UNDERCOVER 再構築 裾ジップ デニムパン kw=undercover price=6980
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
@@ -1998,3 +1951,50 @@ item: HYSTERIC GLAMOUR MA-1 ボンバージャケッ kw=hysteric glamour price=1
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-10-12 04:31:30 UTC ===
+new items: 9, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ベアブリック 100% ナンバーナイン 3体セット kw=number (n)ine price=9999
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヴェトモン　ニット　ウール　ロゴ kw=vetements price=41342
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER アンダーカバー Fucker ギターピ kw=undercover price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ナンバーナイン スタンダード期 エンブレム ワッペン 取り外 kw=number nine price=1111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ニット セーター kw=hysteric glamour price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR 7分袖Tシャツ ブラック kw=hysteric glamour price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマーの総柄カットソー kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 希少！ HYSTERIC GLAMOUR クロシェ ロゴ ニ kw=hysteric glamour price=19800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Tシャツ M 赤 kw=hysteric glamour price=7850
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
