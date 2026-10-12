@@ -1,41 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ジップアップパーカー ピン kw=hysteric glamour price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: メッシュキャップ #530 kw=hysteric glamour price=6800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-11 10:01:27 UTC ===
-new items: 15, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン ジョージ チェック ネル シャツ アーカイブ kw=number (n)ine price=23900
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナインNumber(N)ine ロングTシャツカート kw=number (n)ine price=23800
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: n(n) BY NUMBER (N)INE 鹿革切替 中綿ベ kw=number (n)ine price=12999
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER ブラック ベアTシャツ / M kw=undercover price=3500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVER 21ss BIG デニムジャケット　G kw=undercover price=24800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
@@ -1994,6 +1956,44 @@ item: HYSTERIC GLAMOUR ヒステリックグラマー トレ kw=hysteric glamour
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR 2way ショルダーバッグ kw=hysteric glamour price=5431
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-12 00:16:33 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE KNOW FUTURE Tシャツ kw=number (n)ine price=9999
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Number(N)ine ss05" NIGHT CRAWL kw=number (n)ine price=64999
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER ナイロン テーラードジャケット kw=undercover price=32000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: FUGA ウォレットチェーン お兄系LGBメンズ 3連チェー kw=lgb price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR HYS BEARS Tシャ kw=hysteric glamour price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR x-girl デニムパンツ kw=hysteric glamour price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【正規品】HYSTERIC GLAMOUR キーホルダー 4 kw=hysteric glamour price=3000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
