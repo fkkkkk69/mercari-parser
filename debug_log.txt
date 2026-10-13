@@ -1,21 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー チェックボア セットアップ パーカー  kw=hysteric glamour price=14900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-13 05:16:29 UTC ===
-new items: 6, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: UNDERCOVER × nonnative KAMBA 3 kw=undercover price=22000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 新品完売 GU ツイストパンツ UNDERCOVER ネイビ kw=undercover price=1777
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
 item: LGBルグランブルーifsixwasnineベアトップ kw=lgb price=2800
@@ -1995,6 +1977,24 @@ item: UNDERCOVER 25AW ベースボールキャップ kw=undercover price=10100
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR ウール チェック ジャケッ kw=hysteric glamour price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-13 22:16:30 UTC ===
+new items: 3, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU UNDERCOVER スタジャン ブラック kw=undercover price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: NUMBER NINE Tシャツ・カットソー メンズ 【古着 kw=number nine price=10400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【未使用】キャップ#38 kw=hysteric glamour price=8500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
