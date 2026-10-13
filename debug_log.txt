@@ -1,26 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 美品 hystericglamour ヒステリックグラマー  kw=hysteric glamour price=6200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー　腕時計 kw=hysteric glamour price=1000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 美品 HYSTERIC GLAMOUR Tシャツ ROCK  kw=hysteric glamour price=6200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ニットパーカー レッド kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-13 04:46:40 UTC ===
 new items: 6, subscribers: 3
   sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
   sub 2034814464: brands=['vetements'], price=None-None, active=True
@@ -1998,3 +1975,26 @@ item: 【未使用】キャップ #161 kw=hysteric glamour price=8500
     vs 934301278 -> False
 === run at 2026-10-13 19:46:32 UTC ===
 no new items
+=== run at 2026-10-13 20:01:40 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE ハイカットスニーカー 音符 サイ kw=number (n)ine price=56000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヴェトモン VETEMENTS メンズ トップス シャツ 長 kw=vetements price=99999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Mini 総柄 ショルダー kw=hysteric glamour price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR FIRE BEARオーバー kw=hysteric glamour price=10800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
