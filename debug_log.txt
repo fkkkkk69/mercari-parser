@@ -1,15 +1,5 @@
     vs 934301278 -> True
     notify result: ok
-item: LGBルグランブルーifsixwasnineベアトップ kw=lgb price=2800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR 半袖シャツ ベージュ ワッ kw=hysteric glamour price=5900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: ヒステリックス★ハロウィン★デビル刺繍シャツ kw=hysteric glamour price=3800
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1988,13 @@ item: 【未使用】キャップ#38 kw=hysteric glamour price=8500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-10-13 22:31:33 UTC ===
+new items: 1, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU アンダーカバー ユーティリティブルゾン XL オリーブ kw=undercover price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
