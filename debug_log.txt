@@ -1,32 +1,6 @@
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
-item: ヒステリックグラマー　バックプリント　星条旗　ヒスガール　ジ kw=hysteric glamour price=19000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ターゲットガール　Lサイズ　ヒステリックグラマー　ヒスガール kw=hysteric glamour price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマーファックベアヒスベアオーバーサイズオレン kw=hysteric glamour price=6300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー スタッズ フリル スリムパンツ ベージ kw=hysteric glamour price=12800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 00s HYSTERIC GLAMOUR ヒステリックグラマ kw=hysteric glamour price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ヒステリックグラマー 02 kw=hysteric glamour price=3670
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: HYSTERIC GLAMOUR オールド ヒステリックグラ kw=hysteric glamour price=12679
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1995,6 +1969,32 @@ item: ヒステリックパニック　毒林檎Tシャツ kw=hysteric glamour p
     vs 934301278 -> True
     notify result: ok
 item: HYSTERIC GLAMOUR メッシュキャップ spee kw=hysteric glamour price=8600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-13 16:31:59 UTC ===
+new items: 5, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: number nine 初期 本人期　ブラックデニム　PAI kw=number (n)ine price=31000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: L.G.B. OCEAN/LSC/MID ダメージブリーチカ kw=lgb price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ポンポン付きニット帽 kw=hysteric glamour price=14000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR シドヴィシャス Tシャツ  kw=hysteric glamour price=19000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　TRIANGLE WOMANワッペン  kw=hysteric glamour price=16000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
