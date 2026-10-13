@@ -1,16 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: VETEMENTS DE TRAVAIL ストレートデニムパ kw=vetements price=7900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Vetements グラフィックパーカー 黒 kw=vetements price=49800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 美品ヴェトモン ×CANADAGOOSEカナダグース　ダウン kw=vetements price=88890
-    vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
 item: UNDERCOVER アンダーカバー PRADA型 リュック kw=undercover price=25800
@@ -1995,6 +1982,19 @@ item: undercover 06aw GuruGuru期　サイズ2 kw=undercover price=92000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 【☆超絶人気☆コブラヒスガール】ヒステリックグラマー バック kw=hysteric glamour price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-13 23:46:28 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NÎMES レディース ベージュジャケット kw=vetements price=1600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: アンダーカバー UNDERCOVER グラフィック フーディ kw=undercover price=15936
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
