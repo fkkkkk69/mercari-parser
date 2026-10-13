@@ -1,18 +1,5 @@
     vs 2034814464 -> False
     vs 934301278 -> False
-item: HYSTERIC GLAMOUR ニット帽 ビーニー ワッフ kw=hysteric glamour price=8800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー ヒスガール グラフィック ロンT 長袖 kw=hysteric glamour price=6480
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ハイカットレザースニーカー kw=hysteric glamour price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: ヒステリックグラマー チェックボア セットアップ パーカー  kw=hysteric glamour price=14900
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1985,16 @@ item: HYSTERIC GLAMOUR iPhone16ケース kw=hysteric glamour price=4000
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-13 22:01:38 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER 25AW ベースボールキャップ kw=undercover price=10100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ウール チェック ジャケッ kw=hysteric glamour price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
