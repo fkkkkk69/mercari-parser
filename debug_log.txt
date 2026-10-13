@@ -2,28 +2,6 @@
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
-item: UNDER COVER アンダーカバー 縮絨 チェスターコー kw=undercover price=9800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ifsixwasnine/LGB ブレスレットまとめ売り kw=lgb price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Hysteric GlamourリンガーT kw=hysteric glamour price=7000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー 2020ss 美品 タンクトップ FR kw=hysteric glamour price=9999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー　ブレスレット kw=hysteric glamour price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: ヒステリックグラマー HYSTERIC GLAMOUR or kw=hysteric glamour price=10110
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1976,25 @@ item: ヒステリックグラマー kw=hysteric glamour price=5000
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-13 09:02:01 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: キャップ PINK 【匿名配送】 -025 kw=hysteric glamour price=13999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: メッシュキャップ -992 kw=hysteric glamour price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: メッシュキャップ ヒステリックグラマー kw=hysteric glamour price=7900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【未使用】メッシュキャップ -323 kw=hysteric glamour price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
