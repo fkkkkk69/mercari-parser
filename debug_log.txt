@@ -1,20 +1,3 @@
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE DENIM VネックポケットTシ kw=number (n)ine price=4999
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【NUMBER (N)INE】ハイデンシティーナイロンハーフ kw=number (n)ine price=3333
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Number (N)ine 初期 magicaldesign kw=number (n)ine price=18000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER ジップシャツ＆パンツ セットアッ kw=undercover price=5000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
@@ -1998,3 +1981,20 @@ item: ボンドナンバーナイン セントラルパーク ウエスト 1.7ml
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-14 20:46:24 UTC ===
+new items: 2, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU×UNDERCOVER オーバーサイズモッズコート 黒  kw=undercover price=3900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER フェイクファーブルゾン グリーン サイ kw=undercover price=34800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
