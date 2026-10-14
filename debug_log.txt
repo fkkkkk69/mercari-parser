@@ -1,37 +1,3 @@
-    vs 934301278 -> True
-    notify result: ok
-item: 【激レア・】ヒステリックグラマー × ドリフター × スマー kw=hysteric glamour price=5555
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 激レア★入手困難★試着のみ★ヒステリックグラマー Fレザージ kw=hysteric glamour price=20800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-13 11:46:31 UTC ===
-new items: 12, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 25aw Supreme Number (N)ine Man kw=number (n)ine price=9500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヴェトモン VETEMENTS 24SS ROYAL LOG kw=vetements price=30900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヴェトモン vetementsレインコート kw=vetements price=47000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【美品】GU×UNDERCOVER スウェTシャツ 白 M  kw=undercover price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: 【USED】UNDERCOVER GRACE ギラップル T kw=undercover price=7888
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1960,40 @@ item: 【人気デザイン】ヒステリックグラマー MUSIC UP パー kw=
     vs 2034814464 -> False
     vs 934301278 -> False
 item: hysteric glamour bootleg hoodi kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-14 06:16:12 UTC ===
+new items: 6, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ナンバーナイン　ドクロリング　19号　NUMBER (N)I kw=number (n)ine price=25000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVERISM ドッキングレザージャケット 07 kw=undercover price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR メッシュキャップ kw=hysteric glamour price=5600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=7666
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【レア】＊ヒステリックグラマー＊ダブルブレスト＊Sサイズ＊N kw=hysteric glamour price=7700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR トートバッグ ブラック kw=hysteric glamour price=4500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
