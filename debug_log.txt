@@ -1,320 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR デニムジャケット Love kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR シャツ y2k 平成 レオ kw=hysteric glamour price=9500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-14 07:46:12 UTC ===
-new items: 7, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: Supreme x Undercover Tシャツ グレー  kw=undercover price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: GU×UNDERCOVER 猫柄　総柄 ニットスカート kw=undercover price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 新品 GU UNDERCOVER ハイカットスニーカー ブラ kw=undercover price=4299
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVER アンダーカバー 23AW ネルシャツ  kw=undercover price=67800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【人気】ヒステリックグラマー CORDURA サコッシュ シ kw=hysteric glamour price=7999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR Speedster メッシ kw=hysteric glamour price=13900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR スネーク柄 長袖Tシャツ  kw=hysteric glamour price=11111
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-14 08:01:09 UTC ===
-new items: 7, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 希少【NUMBER (N)INE】Archive 音符Tシャ kw=number (n)ine price=4111
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: vtmnts vetements 猫Tシャツ kw=vetements price=24999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: undercover アンダーカバー パーカー Uロゴ kw=undercover price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ギターピック ネックレス kw=hysteric glamour price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: Hysteric Glamour スカル ストロベリー 長袖 kw=hysteric glamour price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR メッシュキャップ kw=hysteric glamour price=8999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 初期　ヒステリックグラマー　ギターガール　ロンt kw=hysteric glamour price=14800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-14 08:16:10 UTC ===
-new items: 8, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER(N)INE ラバーソール フェンダー ブーツ  kw=number (n)ine price=48000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU UNDERCOVER ハーフジップブーツ29㌢アンダー kw=undercover price=6990
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【未使用】メッシュキャップ -771 kw=hysteric glamour price=7400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: BLACK メッシュキャップ -006 kw=hysteric glamour price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【未使用】メッシュキャップ PINK -770 kw=hysteric glamour price=14000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ブラックモッズコート　ヒス kw=hysteric glamour price=11500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR リング kw=hysteric glamour price=6999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー ボストンバッグ kw=hysteric glamour price=15555
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-14 08:31:07 UTC ===
-new items: 9, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: UNDERCOVER 袖レザーダウンジャケット Jonio  kw=undercover price=67000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: RADWIMPS x UNDERCOVER コラボTシャツ  kw=undercover price=24000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: undercover 長袖 チュニック プリーツ切り替え 変 kw=undercover price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: エヌエヌバイナンバーナイン n(n) by NUMBER ( kw=number nine price=13900
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: メッシュキャップ BLACK -7450 kw=hysteric glamour price=6799
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ミリタリージャケット フェ kw=hysteric glamour price=9900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Hysteric Glamour ドッグタグ ネックレス kw=hysteric glamour price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR メッシュキャップ ピンク× kw=hysteric glamour price=22500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ・Mark Stewart kw=hysteric glamour price=6300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-14 08:46:10 UTC ===
-new items: 10, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: gu×undercover デニム カバーオール ジャケット kw=undercover price=5100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 希少 XL GU×UNDERCOVER シアーオーバーサイズ kw=undercover price=3980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR グラフィックパーカー S kw=hysteric glamour price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: メッシュキャップ ブラウン kw=hysteric glamour price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【レア】＊ヒステリックグラマー＊アンディ・ウォーホル＊カーデ kw=hysteric glamour price=9700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ボーダー長袖カットソー S kw=hysteric glamour price=4000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 3023・希少⭐️ヒステリックグラマー 財布 サンデー型押し kw=hysteric glamour price=7980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー スタッズデニム クラッシュ加工 28i kw=hysteric glamour price=10900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 00s ヒステリックグラマー ブッシュフレアデニム ベルボト kw=hysteric glamour price=300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー VネックTシャツ 黒 L 日本製　ジャ kw=hysteric glamour price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-14 09:01:11 UTC ===
-new items: 10, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: UNDERCOVER Tシャツ ブルー kw=undercover price=4990
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 美品 UNDERCOVER GU コーチジャケット ブラック kw=undercover price=4999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVERISM THE LEMONS Tシャツ kw=undercover price=19000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER レオパード柄 カーディガン Ｌ kw=undercover price=4500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR チェックシャツ 長袖 kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: なつき様専用　ヒステリックグラマー　風長袖Tシャツ ブラック kw=hysteric glamour price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR Tシャツ ブラック S　M kw=hysteric glamour price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【新品】HYSTERIC GLAMOUR GUITAR GI kw=hysteric glamour price=15500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR バンダナ柄 総柄シャツ F kw=hysteric glamour price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【匿名配送】キャップ PINK #0825 kw=hysteric glamour price=13999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-14 09:16:08 UTC ===
-new items: 8, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 【美品】GU×UNDERCOVER アンダーカバーレオパード kw=undercover price=4980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR Tシャツ kw=hysteric glamour price=4300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: hysteric glamor 風　長袖Tシャツ グラフィッ kw=hysteric glamour price=3200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR グラフィックTシャツ S kw=hysteric glamour price=3300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマーシンプル kw=hysteric glamour price=4800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HystericGlamour コートニーラブ 長袖 kw=hysteric glamour price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【コムドットやまと着用】VAMPIRELLA Tシャツ kw=hysteric glamour price=17800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR スタッズ ラウンドファスナ kw=hysteric glamour price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-10-14 09:31:09 UTC ===
 new items: 12, subscribers: 3
   sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
   sub 2034814464: brands=['vetements'], price=None-None, active=True
@@ -1994,6 +1677,323 @@ item: HYSTERIC MINI 3ROOM ショルダーバッグ ホ kw=hysteric glamour price
     vs 8074463575 -> False
     vs 934301278 -> False
 item: Hysteric Glamour 76 オーバーサイズジャン kw=hysteric glamour price=22000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-14 21:31:21 UTC ===
+new items: 61, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ⁠【希少】ナンバーナイン 03SS カート期 ハートクラウン kw=number (n)ine price=49800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【新品/送料込】VETEMENTS x Reebok INS kw=vetements price=99800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン 半袖 Tシャツ メンズ SIZE L VETEM kw=vetements price=15070
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  SS20SH285 ゴシックロゴ刺繍長袖シャツ kw=vetements price=45420
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE51TR830B リミテッドエディションカ kw=vetements price=26380
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  Biker Cross Waffle L/S  kw=vetements price=82320
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UAH21SH043 バックロゴデニム長袖シャ kw=vetements price=55210
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27ZU222B レタリングジ kw=vetements price=185800
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン ステフ 반팧 kw=vetements price=26368
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  21SS  UE51TR310B HOODIE kw=vetements price=82320
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE54JS100W フラッグロゴプリント長袖 kw=vetements price=48440
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27ZU262B エンブロイダ kw=vetements price=173480
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE63TR385B ブレーンパワープリント長 kw=vetements price=30770
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  MH17TP26 SEXUAL FANTASI kw=vetements price=51820
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン プルオーバーパーカー VL16HD220X メン kw=vetements price=38170
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UAH19TR318 VAMPIREプリントオ kw=vetements price=45470
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UA65HD210B ステッカーデザインジップ kw=vetements price=82320
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE64HD280B ロゴ刺繍オーバーサイズプ kw=vetements price=95870
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27HD149B ロゴクラッシ kw=vetements price=155000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  16SS  SS16TP17 レタリング刺繍オ kw=vetements price=188860
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: vetements ヴェトモン motorhead kw=vetements price=64000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: VETEMENTS ヴェトモン　グラフィックデザイン パーカ kw=vetements price=48100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27CN203B フラワープリ kw=vetements price=116500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27HD149B ロゴクラッシ kw=vetements price=155000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE63CN200B デストロイ加工JERKス kw=vetements price=68760
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27LS206B COFグラフ kw=vetements price=136520
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: VETEMENTS ヴェトモン アン・スキー・マン・トゥ・マ kw=vetements price=54990
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  25AW  UH76HD300B POLIZE kw=vetements price=78000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: VETEMENT ヴェトモン ビッグロゴ 刺繍 ダブルアーキ kw=vetements price=19609
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン ベトモン VETEMENTS Inside Ou kw=vetements price=29900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン VETEMENTS 長袖Tシャツ ロゴ刺繍 レイ kw=vetements price=63800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  WF17DR4 スカルレイヤードドレストップス kw=vetements price=159820
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: VETEMENTS (ヴェトモン) Couture Logo kw=vetements price=41399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: VETEMENTS LIMITED EDITION kw=vetements price=158000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  SS16TP17 レタリング刺繍オーバーサイズ kw=vetements price=188860
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UA65LS320G インサイドアウトシャーク kw=vetements price=46980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE52SH140N バックプリント長袖シャツ kw=vetements price=34880
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27ZU250B バイカークロ kw=vetements price=173480
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27HD205B COFプリン kw=vetements price=198120
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UA66CW600BB オーバルロゴクロップド kw=vetements price=61500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  24AW  UA65HD300B VETEME kw=vetements price=78000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  16SS  SS16TP17 レタリング刺繍オ kw=vetements price=188860
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: TATA ヴェトモン デニム トーキングアバウトジアブストラ kw=vetements price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  25AW  UH76HD350B BLACK  kw=vetements price=86800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: VETEMENTS ヴェトモン プラネット ナンバリングTシ kw=vetements price=37800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  25AW  UH76HD300B POLIZE kw=vetements price=78000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: グラフィックプリント ヴェトモン風Tシャツ オーバーサイズ kw=vetements price=5900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン エル Tシャツ kw=vetements price=38024
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27HD193B バイカークロ kw=vetements price=124200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  SS16TP14 アームロゴプリント長袖カット kw=vetements price=61500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  25AW  UCF76HD100B COF L kw=vetements price=100000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  26AW  MH27LS243B グラフィック kw=vetements price=124200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  25AW  UH76HD350B BLACK  kw=vetements price=86800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE54HD540B ウォッシュド加工プルオー kw=vetements price=89090
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  25AW  UCF76LS250I ICEWH kw=vetements price=86800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UA53HD420B フロントロゴワッペンパー kw=vetements price=82320
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE54KN140B ロゴエンブロイダリーニッ kw=vetements price=55450
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  17AW  WAH18TR13 メタルロゴプリ kw=vetements price=96290
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン  UE64SH140B ネームタグプリント長袖シ kw=vetements price=41660
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: アンダーカバー×GUコラボスタジャン　XLサイズ kw=undercover price=4980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 美品HYSTERIC GLAMOUR レオパード柄 キルティ kw=hysteric glamour price=35000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
