@@ -1,26 +1,4 @@
     vs 2034814464 -> False
-    vs 934301278 -> False
-item: US古着　vetements 70sシャツ　リメイク　 カバ kw=vetements price=2199
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【新品未使用】GU×アンダーカバー コラボクルーソックス 2 kw=undercover price=500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: M リーバイス アンダーカバー トラッカージャケット タイプ kw=undercover price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: チュニックシャツ　GU UNDERCOVER コラボ　L kw=undercover price=3300
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 新品】GU×UNDERCOVERジップポケットパンツ Lサイ kw=undercover price=3680
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ok
 item: SueUNDERCOVER アンダーカバー ビーニー ネイビ kw=undercover price=2980
@@ -1994,6 +1972,28 @@ item: HYSTERIC GLAMOUR 長袖カットソー ホワイト kw=hysteric glamour pr
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 【大人気】HYSTERIC GLAMOUR スウェット FR kw=hysteric glamour price=7480
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-14 16:01:12 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER 14SS JESUS AND MARY kw=undercover price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: アンダーカバー　HELL×HEAVENネックレス シルバー kw=undercover price=9500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: lgb クロスパッチフレアスキニー kw=lgb price=75000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=7500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
