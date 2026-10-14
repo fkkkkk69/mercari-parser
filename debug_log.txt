@@ -1,30 +1,3 @@
-    vs 934301278 -> False
-item: ヘリン着用 hystericglamour 刺繍 キャップ  kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【美品】HYSTERIC GLAMOUR・キムタク・ヒステリ kw=hysteric glamour price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー　GUITAR GIRLメッシュキャップ kw=hysteric glamour price=14980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【即日発送】HYSTERIC GLAMOUR メッシュキャッ kw=hysteric glamour price=8800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR チェックシャツ ウエスタン kw=hysteric glamour price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 高級 HYSTERIC GLAMOUR × WIND AND kw=hysteric glamour price=58000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Hysterics スカル総柄 ストレートデニム kw=hysteric glamour price=13000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
@@ -1998,3 +1971,30 @@ item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-10-14 17:16:06 UTC ===
+new items: 5, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ヴェトモン  UAH20TR726 フロントロゴプリントスウ kw=vetements price=17430
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER モヘアカーディガン kw=undercover price=70000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 希少　UNDERCOVER WAHNFRIEDEN ジャケッ kw=undercover price=12600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: A■ L.G.B. ルグランブルー レディース デニムミニス kw=lgb price=1100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR スキニーパンツ kw=hysteric glamour price=2200
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
