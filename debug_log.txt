@@ -1,40 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NIKE UNDERCOVER DUNK HIGH UBA kw=undercover price=9999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: gu undercover デニムカバーオール M 未使用に kw=undercover price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: undercover テディベア スウェットトレーナー アー kw=undercover price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【美品】GU × UNDERCOVER ダブルフェイスショー kw=undercover price=1999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: アンダーカバー　ダウンジャケット kw=undercover price=100000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: アンダーカバー undercover バックパック リュック kw=undercover price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 未使用級✨GU×UNDERCOVER ダブルライダース 2w kw=undercover price=7200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: み*き様 HYSTERIC GLAMOUR Tシャツ ブラッ kw=hysteric glamour price=7000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 96
 item: HYSTERIC GLAMOUR メッシュレイヤードTシャツ kw=hysteric glamour price=3333
     vs 1444559584 -> False
@@ -1995,6 +1958,43 @@ item: HYSTERIC GLAMOUR デニムジャケット Love kw=hysteric glamour price=1
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR シャツ y2k 平成 レオ kw=hysteric glamour price=9500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-10-14 07:46:12 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Supreme x Undercover Tシャツ グレー  kw=undercover price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU×UNDERCOVER 猫柄　総柄 ニットスカート kw=undercover price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 新品 GU UNDERCOVER ハイカットスニーカー ブラ kw=undercover price=4299
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER アンダーカバー 23AW ネルシャツ  kw=undercover price=67800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【人気】ヒステリックグラマー CORDURA サコッシュ シ kw=hysteric glamour price=7999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR Speedster メッシ kw=hysteric glamour price=13900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR スネーク柄 長袖Tシャツ  kw=hysteric glamour price=11111
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
