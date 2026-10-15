@@ -1,57 +1,3 @@
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  SS20SH285 ゴシックロゴ刺繍長袖シャツ kw=vetements price=45420
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  UE51TR830B リミテッドエディションカ kw=vetements price=26380
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  Biker Cross Waffle L/S  kw=vetements price=82320
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  UAH21SH043 バックロゴデニム長袖シャ kw=vetements price=55210
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  26AW  MH27ZU222B レタリングジ kw=vetements price=185800
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン ステフ 반팧 kw=vetements price=26368
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  21SS  UE51TR310B HOODIE kw=vetements price=82320
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  UE54JS100W フラッグロゴプリント長袖 kw=vetements price=48440
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  26AW  MH27ZU262B エンブロイダ kw=vetements price=173480
-    vs 1444559584 -> False
-    vs 2034814464 -> True
-    notify result: ok
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヴェトモン  UE63TR385B ブレーンパワープリント長 kw=vetements price=30770
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: ヴェトモン  MH17TP26 SEXUAL FANTASI kw=vetements price=51820
     vs 1444559584 -> False
@@ -1993,6 +1939,60 @@ item: HYSTERIC GLAMOUR コーデュロイジャケット ス kw=hysteric glamour
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 【送料無料】ヒステリックグラマー HYSTERICGLAMO kw=hysteric glamour price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-15 08:16:22 UTC ===
+new items: 9, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: n(n) BY NUMBER (N)INE チェックネルシャ kw=number (n)ine price=22800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: WTAPS × UNDERCOVER コラボ GIG HOO kw=undercover price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: undercover 26AW ゴブランブルゾン　4 松田龍 kw=undercover price=90000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: GU アンダーカバー ミリタリー　ユーティリティ　ジャケット kw=undercover price=3180
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: lgbルグランブルーL.G.B. tシャツカットソーグラデー kw=lgb price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR CHAOS デニムパンツ　 kw=hysteric glamour price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー DEVIL WOMAN ヒスガール 長 kw=hysteric glamour price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 90s ヒステリックグラマー ヒスガール 透かし柄 長袖カッ kw=hysteric glamour price=15800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【送料無料】ヒステリックグラマー HYSTERICGLAMO kw=hysteric glamour price=2000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
