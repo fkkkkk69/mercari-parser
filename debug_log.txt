@@ -1,45 +1,5 @@
     vs 2034814464 -> False
     vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR 装飾バックル ベルト kw=hysteric glamour price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ★値下げ★HYSTERIC GLAMOUR レオパード柄 バ kw=hysteric glamour price=8888
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR 総柄 ショルダーバッグ kw=hysteric glamour price=1600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-17 01:01:20 UTC ===
-new items: 9, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 新品 NUMBER NINE ナンバーナイン ボディバッグ kw=number (n)ine price=2000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【NUMBER (N)INE ×STUDIOUS】ダメージ加 kw=number (n)ine price=10000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 未使用！UNDERCOVER アンダーカバー リップポーチ kw=undercover price=3900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ok
 item: UNDERCOVER ロゴ スクエアリング シルバー kw=undercover price=8800
@@ -1998,3 +1958,43 @@ item: ★大人気デザイン★ hysteric glamour ミリタ kw=hysteric glamour
     vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
+=== run at 2026-10-17 09:31:26 UTC ===
+new items: 6, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Fire-King Heritage ナンバーナイン　 マグ kw=number (n)ine price=10000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: UNDERCOVER UNDERCOVERISM 猫モチーフ kw=undercover price=4000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ✅GU×UNDERCOVER ジャケットMA1ブルゾン XL kw=undercover price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: アンダーカバー デニムジャケット XL ブラックGジャンシュ kw=undercover price=30990
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: L.G.B.　ルグランブルー　SARROUEL CAGO サ kw=lgb price=26291
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR 総柄トートバッグ kw=hysteric glamour price=4700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
