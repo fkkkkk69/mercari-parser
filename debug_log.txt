@@ -1,54 +1,3 @@
-    notify result: ok
-item: HYSTERIC GLAMOUR × Supreme 総柄  kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR 本革コインケース ヒスガー kw=hysteric glamour price=8999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【美品】ヒステリックグラマー コーデュラ サコッシュ ブラッ kw=hysteric glamour price=11500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-17 03:46:20 UTC ===
-new items: 9, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER(N)INE 06SS ガンズ期の90’s 元ネ kw=number (n)ine price=28900
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 04ss ナンバーナインバルーンニット　キャップ kw=number (n)ine price=23333
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 美品VETEMENTSヴェトモンHELLO my name  kw=vetements price=35000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER × GU ミッキーマウス ビッググラフ kw=undercover price=980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVER 19SS BIGジップパーカーDEAD kw=undercover price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NIKE GYAKUSOU undercover キャップ kw=undercover price=5900
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
@@ -1994,6 +1943,57 @@ item: 【美品】M ヒステリックグラマーHYSTERIC GLAMO kw=hysteric gla
     vs 8074463575 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR Andy Warhol T kw=hysteric glamour price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-17 12:46:22 UTC ===
+new items: 8, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: n(n) BY NUMBER (N)INE チェスターコート kw=number (n)ine price=10000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: GU × UNDERCOVER Tシャツ レッド L グラフ kw=undercover price=999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU×UNDERCOVER Kosmik Noise Tシャ kw=undercover price=1100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 美品！GU UNDERCOVER コラボ半袖Tシャツ　メンズ kw=undercover price=1700
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ミリタリージャケット kw=hysteric glamour price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【美品】S ヒステリックグラマー HYSTERIC GLAM kw=hysteric glamour price=22222
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR HYS SYMBOL シャ kw=hysteric glamour price=5600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 00s Hysteric Glamour ギミック ミリタリ kw=hysteric glamour price=9800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
