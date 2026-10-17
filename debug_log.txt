@@ -1,19 +1,3 @@
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR HYSTERIC NOIS kw=hysteric glamour price=6800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: メッシュキャップ -979 kw=hysteric glamour price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=11000
-    vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
@@ -1994,6 +1978,22 @@ item: ヒステリックグラマー　メッシュキャップ　スピード�
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 初期タグHYSTERIC GLAMOUR スウェット ピンク kw=hysteric glamour price=13980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-17 18:31:22 UTC ===
+new items: 2, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: archive hoodie jacket 00s v系 l kw=lgb price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ストライプ セットアップ　 kw=hysteric glamour price=50000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
