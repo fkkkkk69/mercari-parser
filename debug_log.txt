@@ -1,30 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-17 09:46:24 UTC ===
-new items: 4, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: VETEMENTS ヴェトモン 22SS INSIDE OU kw=vetements price=20000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 美品　ヴェトモン ネルシャツ チェック アナーキー オーバー kw=vetements price=41000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER 20SS We Make Noise  kw=undercover price=7400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
 item: アンダーカバー 初期 アナーキーシャツ PEEL&LIFT  kw=undercover price=16900
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1967,33 @@ item: GU×UNDERCOVER チェック柄 カーゴパンツ M kw=undercover price=20
     vs 934301278 -> True
     notify result: ok
 item: HYSTERIC GLAMOUR スウェットパンツ グレーM kw=hysteric glamour price=45000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-17 23:01:18 UTC ===
+new items: 4, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: VETEMENTS パーカー kw=vetements price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: GU×UNDERCOVER オズの魔法使い Tシャツ　Mサイ kw=undercover price=900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: LGB パーカー ファー付き ショート丈 ホワイト　美品　サ kw=lgb price=125000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ミリタリージャケット フー kw=hysteric glamour price=18500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
