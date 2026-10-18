@@ -1,14 +1,3 @@
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-18 09:16:21 UTC ===
-new items: 8, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン ウエスタンシャツ 2 コットンツイルシャツ kw=number (n)ine price=7000
-    vs 1444559584 -> True
-    notify result: ok
     vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
@@ -1998,3 +1987,14 @@ item: HYSTERIC GLAMOUR Tシャツ HGMA ホワイ kw=hysteric glamour price=9800
     vs 934301278 -> False
 === run at 2026-10-18 21:46:26 UTC ===
 no new items
+=== run at 2026-10-18 22:01:20 UTC ===
+new items: 1, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: LGB archive rare ロンT 00s kw=lgb price=41000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
