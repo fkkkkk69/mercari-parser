@@ -1,36 +1,3 @@
-=== run at 2026-10-19 10:16:23 UTC ===
-new items: 7, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE ナンバーナイン ハートトライバル kw=number (n)ine price=46200
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 08SS Number (N)ine BIRDS期 ドレープ kw=number (n)ine price=25000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: VETEMENTS TOTAL FUCKING DARKNE kw=vetements price=90000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ジョニオ氏「これ、この冬着ます」ニット サイズ2 新品 kw=undercover price=59800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC ANGEL ショート丈Tシャツ kw=hysteric glamour price=17999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: メッシュキャップ Black -738 kw=hysteric glamour price=6700
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1993,6 +1960,39 @@ item: 美品✨UNDERCOVER MA-1 25AW ブラック kw=undercover price=55000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: UNDERCOVER クッキー柄 長袖カットソー レース切替 kw=undercover price=14800
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-19 15:16:35 UTC ===
+new items: 4, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: タイム期 numbernine 01ss ブルーメタリック  kw=number nine price=128000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Hysteric Glamour ヒステリックグラマー 中綿 kw=hysteric glamour price=19999
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン 17AWバックオーバーサイズヘビーメタルスカルプ kw=vetements price=59000
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: N.HOOLYWOOD Undercover 長袖シャツ 3 kw=undercover price=12000
     vs 1273305010 -> False
     vs 1444559584 -> False
     vs 2034814464 -> False
