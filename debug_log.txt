@@ -1,40 +1,3 @@
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: YZY ゴーシャ　ラブチンスキー　ナイロン　ジップパーカー　 kw=gosha rubchinskiy price=16000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: gosha rubchinskiy 2018ss ソックス  kw=gosha rubchinskiy price=2780
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: YEEZY x GOSHA RUBCHINSKIY YZY  kw=gosha rubchinskiy price=7800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ゴーシャ ラブチンスキー × リーバイス パッチワークデニム kw=gosha rubchinskiy price=16000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: SILAS chain stitch logo Parker kw=gosha rubchinskiy price=7000
-    vs 1273305010 -> True
-    notify result: ok
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
@@ -1993,6 +1956,43 @@ item: アンダーカバー ジップ装飾T UC1B4813 メンズ3 白 kw=undercov
     vs 934301278 -> True
     notify result: ok
 item: LGB ルグランブルー BEDROCK Ｔシャツ kw=lgb price=44000
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-19 18:46:33 UTC ===
+new items: 4, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 最安値　NUMBER (N)INE DENIM カーゴパンツ kw=number nine price=3999
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: number nine ジャージ size2 skull t kw=number nine price=52000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ハイカットスニーカー 27 kw=hysteric glamour price=3100
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: VETEMENTS ナイロン アノラックジャケット ホワイト kw=vetements price=89500
     vs 1273305010 -> False
     vs 1444559584 -> False
     vs 2034814464 -> False
