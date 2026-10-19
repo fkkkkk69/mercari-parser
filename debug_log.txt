@@ -1,89 +1,3 @@
-item: UNDERCOVER THE CONVENI Tシャツ kw=undercover price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: GU ジーユー×UNDERCOVER フレアスカート S kw=undercover price=1200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: NUMBER(N)INE ナンバーナイン redisun期  kw=number nine price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER(N)INE 06AW NOIR期 アーガイル  kw=number nine price=37900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER (N)INE タンクトップ ネイビー kw=number nine price=6500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: デュエマ　偽りの王 ナンバーナイン　歓喜の歌 4枚　VR　ホ kw=number nine price=444
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ナンバーナイン NNJ-F913 チェック リバーシブル ダ kw=number nine price=59500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 00s Number (n)ine padded vest  kw=number nine price=15900
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン ラバーソール　ブーツ 初期　ダメージ加工　マ kw=number nine price=15440
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER(N)INE 06ss ガンズ期 スタッズ スウ kw=number nine price=259900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン 02SS クロス Tシャツ 3 モダンエイジ kw=number nine price=44400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER NINE / ナンバーナイン​ | 2007A kw=number nine price=20130
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER (N)INE ナンバーナイン スカルキーホルダ kw=number nine price=10000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER(N)INE ナンバーナイン スカル タイム期  kw=number nine price=23500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: アーカイブ　ナンバーナイン Yesterday Tシャツ kw=number nine price=17800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER(N)INE 泰八郎謹製 ハート涙 総柄 メガネ kw=number nine price=59800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: ナンバーナイン ×ゴッドセレクショントリプルエックス GOD kw=number nine price=16190
     vs 1444559584 -> False
@@ -1993,6 +1907,92 @@ item: 【美品】VETEMENTS SECURITE ロゴ刺繍 キャ kw=vetements price=300
     vs 8074463575 -> False
     vs 934301278 -> False
 item: john undercover モッズコート kw=undercover price=30000
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-19 11:01:36 UTC ===
+new items: 11, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Hysteric Glamour キャップ kw=hysteric glamour price=4000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ※穴などダメージ有り※ HYSTERIC GLAMOUR カ kw=hysteric glamour price=6000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR Tシャツ ホワイト kw=hysteric glamour price=5999
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR レースアップチビT ロンT kw=hysteric glamour price=11000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー ヒス モンスタートラック サーマル ジ kw=hysteric glamour price=19800
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Tシャツ ホワイト kw=hysteric glamour price=6999
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【Y2K】ヒステリックグラマー 迷彩 ヒスガール ポロワンピ kw=hysteric glamour price=6400
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【デニムウエスタンシャツ】ヒステリックグラマー ヒスガール  kw=hysteric glamour price=17000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: VETEMENTS Levi's コラボ デニムパンツ kw=vetements price=115000
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: アンダーカバー　ビル・エヴァンスT kw=undercover price=18000
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: LGB S-WOLF ゴールドペイントフレアデニム スカル裏 kw=lgb price=50000
     vs 1273305010 -> False
     vs 1444559584 -> False
     vs 2034814464 -> False
