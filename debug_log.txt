@@ -1,26 +1,3 @@
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー　フルジップ　スウェット　HYSTERI kw=hysteric glamour price=11111
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR クラッチバッグ kw=hysteric glamour price=6800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ロゴ タンクトップ ブラッ kw=hysteric glamour price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR デニムシャツ ウエスタン kw=hysteric glamour price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 === run at 2026-10-18 10:16:22 UTC ===
 new items: 13, subscribers: 4
@@ -1993,6 +1970,29 @@ item: VETEMENTS tfd パーカー　sサイズ kw=vetements price=12000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: PROPERTY OF HYSTERIC Tシャツ kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-19 00:46:23 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU × undercover　ジーユー　アンダーカバー　ス kw=undercover price=4900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR パーカー kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Tシャツ ホワイト XL kw=hysteric glamour price=6825
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
