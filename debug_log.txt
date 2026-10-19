@@ -1,25 +1,5 @@
     vs 2034814464 -> False
     vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【人気】UNDERCOVERISM　フロッキープリントカーデ kw=undercover price=29800
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ★リサイクルマート★割引交渉受付中！様 リクエスト 2点 ま kw=undercover price=6500
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 美品 UNDERCOVER Twin Peaks Crew  kw=undercover price=58000
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: Y2K ミリタリージャケット　archive lgb goa kw=lgb price=6600
     vs 1273305010 -> False
@@ -1993,6 +1973,26 @@ item: レア新品 adidas RAF SIMONS kw=raf simons price=40000
 item: HYSTERIC GLAMOUR チェック 半袖シャツ kw=hysteric glamour price=4500
     vs 1273305010 -> True
     notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-19 20:01:32 UTC ===
+new items: 2, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: VETEMENTS カジュアルシャツ レディース 【古着】【 kw=vetements price=30800
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ジーユー×アンダーカバー デニム コンバーチブル ワイド カ kw=undercover price=3980
+    vs 1273305010 -> False
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
