@@ -1,25 +1,3 @@
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 新品 GU UNDERCOVER ミッキー MA-1 ブルゾ kw=undercover price=3900
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVER 24AW ウール混ラグランブルゾン kw=undercover price=39800
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 極美品 GU アンダーカバー コラボ MA-1 フライトジャ kw=undercover price=7900
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
     notify result: ok
 item: LGB デニムパンツ V系　archive kw=lgb price=39999
     vs 1273305010 -> False
@@ -1992,6 +1970,28 @@ item: HYSTERIC GLAMOUR Tシャツ　メンズレディース kw=hysteric glamour
     vs 934301278 -> True
     notify result: ok
 item: Maison Margiela Crewneck Sweat kw=maison martin margiela price=25800
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-20 19:46:39 UTC ===
+new items: 2, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER NINE 缶バッジ セット POWER TO  kw=number nine price=1580
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR パーカー ブラック kw=hysteric glamour price=10999
     vs 1273305010 -> True
     notify result: ok
     vs 1444559584 -> False
