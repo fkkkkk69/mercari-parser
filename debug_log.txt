@@ -1,25 +1,5 @@
     vs 8074463575 -> False
     vs 934301278 -> False
-item: 【超希少】L.G.B. スカルクロス ジップアップパーカー  kw=lgb price=60000
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-20 12:01:39 UTC ===
-new items: 30, subscribers: 5
-  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 希少 205W39NYC Raf Simons Andy W kw=raf simons price=19800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: gosha rubchinskiy adidas サッカーシ kw=gosha rubchinskiy price=18900
     vs 1273305010 -> True
     notify result: ok
@@ -1993,6 +1973,26 @@ item: 【名作 希少2XO】ゴーシャラブチンスキー アディダス �
     vs 8074463575 -> False
     vs 934301278 -> False
 item: UNDERCOVER A CLOCKWORK ORANGE  kw=undercover price=9100
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-20 17:16:38 UTC ===
+new items: 2, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: L Gosha Rubchinskiy ハリントンジャケット kw=gosha rubchinskiy price=64562
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 美品 アンダーカバー ライダース 黒 サイズ1 ダブル レザ kw=undercover price=46000
     vs 1273305010 -> False
     vs 1444559584 -> False
     vs 2034814464 -> False
