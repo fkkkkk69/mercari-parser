@@ -1,27 +1,6 @@
     vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
-item: 【新品】Maison Margiela BINGO ロゴ半袖 kw=maison martin margiela price=30000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Maison Margiela 10 ストライプ ニット kw=maison martin margiela price=11800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 1998 A/W Maison Martin Margiel kw=maison martin margiela price=24300
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: マルジェラ　ショルダーバッグ　Maison Margiela kw=maison martin margiela price=21000
     vs 1273305010 -> True
     notify result: ok
@@ -1998,3 +1977,24 @@ item: GU アンダーカバー UG オーバーサイズジャケット 黒色  k
     notify result: ok
 === run at 2026-10-21 20:53:08 UTC ===
 no new items
+=== run at 2026-10-21 21:01:36 UTC ===
+new items: 2, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 幾何学模様 ブラウン ハーフジップ　ヒステリックグラマー kw=hysteric glamour price=2000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER 11ss ボンテージパンツ　mummy kw=undercover price=50000
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
