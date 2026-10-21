@@ -1,51 +1,3 @@
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: VETEMENTS アナーキーロゴ パーカー kw=vetements price=38000
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-20 23:01:41 UTC ===
-new items: 6, subscribers: 5
-  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: Number (N)ine 04SS ドリーム期 Tシャツ kw=number nine price=20000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマーDM 1021Ｄ kw=hysteric glamour price=800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ビーニー stussy ヒステリックグラマー supreme kw=hysteric glamour price=2000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 2014ss コレクション アーカイブ MartinMarg kw=maison martin margiela price=28000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: メゾンマルジェラ　ディストレスト デニムジャケット 48 kw=maison martin margiela price=125000
-    vs 1273305010 -> True
     notify result: ok
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1993,6 +1945,54 @@ item: オープンカラーシャツ GU × UNDERCOVER ネイビ kw=undercover pr
     vs 934301278 -> True
     notify result: ok
 item: L.G.B. AMAZONICA setup 00s arc kw=lgb price=70000
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-21 06:31:35 UTC ===
+new items: 6, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Hysteric Glamour RADIO kw=hysteric glamour price=28500
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: MAISON MARGIELA メゾンマルジェラ 二つ折り財 kw=maison martin margiela price=28000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【美品】Maison Margiela マルジェラカードケー kw=maison martin margiela price=33333
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 美品 L マルジェラ 21ss エイズ Tシャツ カットソー kw=maison martin margiela price=16800
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: タグ付き　MM6メゾンマルジェラ ジャパニーズトライアングル kw=maison martin margiela price=23000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: SUPREME × UNDERCOVER GIZ柄 ジップア kw=undercover price=23000
     vs 1273305010 -> False
     vs 1444559584 -> False
     vs 2034814464 -> False
