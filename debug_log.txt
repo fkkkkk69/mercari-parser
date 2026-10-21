@@ -1,61 +1,3 @@
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: LGB カットソー 00s archive kw=lgb price=29000
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-20 19:31:38 UTC ===
-new items: 3, subscribers: 5
-  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 【公式完売品】HYSTERIC GLAMOUR Tシャツ X kw=hysteric glamour price=11000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR Tシャツ　メンズレディース kw=hysteric glamour price=8000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: Maison Margiela Crewneck Sweat kw=maison martin margiela price=25800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-20 19:46:39 UTC ===
-new items: 2, subscribers: 5
-  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER NINE 缶バッジ セット POWER TO  kw=number nine price=1580
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR パーカー ブラック kw=hysteric glamour price=10999
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
 === run at 2026-10-20 20:01:41 UTC ===
@@ -1994,6 +1936,64 @@ item: UNDERCOVER 22AW スポットPSYCHO ロンT kw=undercover price=13000
     vs 934301278 -> False
 item: LGB/PARKA/MID BLK ♀0 kw=lgb price=185000
     vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-21 05:16:36 UTC ===
+new items: 7, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: raf simons 21ss marble turtle  kw=raf simons price=38000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Gosha Rubchinskiy サスペンダー ブルー kw=gosha rubchinskiy price=12000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ラグランカットソー kw=hysteric glamour price=7000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: Hysteric Glamour ミリタリーシャツ kw=hysteric glamour price=8000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー音符デニム lazydoll着用 kw=hysteric glamour price=32000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Maison Margiela 切り替えしTシャツ レッド　 kw=maison martin margiela price=9000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: MM6 Maison Margiela クラッチバッグ パテ kw=maison martin margiela price=8900
+    vs 1273305010 -> True
+    notify result: ok
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
