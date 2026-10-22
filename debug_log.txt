@@ -1,45 +1,3 @@
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: YZY x Gosha Rubchinskiy WB-01ウ kw=gosha rubchinskiy price=9800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: gosha rubchinskiy adidas ソックス  kw=gosha rubchinskiy price=2980
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【L】ナンバーナイン　ブラック　ロング丈　ワンピース　サイズ kw=number nine price=5800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 新品未使用 N(N) number nine PRINTED kw=number nine price=8800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR メッシュニット Tシャツ kw=hysteric glamour price=5000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR Courtney Love kw=hysteric glamour price=4800
-    vs 1273305010 -> True
-    notify result: ok
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
@@ -1994,6 +1952,48 @@ item: Undercoverism 22AW キルティング切替ニット kw=undercover price=1
     vs 934301278 -> False
 item: 美品♦︎Sue UNDERCOVER フリルシャツドッキング kw=undercover price=9800
     vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-22 01:01:38 UTC ===
+new items: 5, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: HYSTERICS ヒスガール エンボス 半袖　黒 Y2K kw=hysteric glamour price=10000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: マルジェラ　二つ折り財布 kw=maison martin margiela price=21000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Maison Martin Margiela エイズT kw=maison martin margiela price=5000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: MM6 Maison Margiela パイソン柄 バックパ kw=maison martin margiela price=7000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 2009aw Martin margiela High ne kw=maison martin margiela price=44000
+    vs 1273305010 -> True
+    notify result: ok
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
