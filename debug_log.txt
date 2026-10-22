@@ -1,66 +1,3 @@
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: MAISON MARGIELA ブルー スリット ジーンズ  kw=maison martin margiela price=40000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【元値8万円】Maison Margiela 二つ折り財布  kw=maison martin margiela price=45000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 新品 MM6 Maison Margiela ブラック キャ kw=maison martin margiela price=14800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: MM6 Maison Margiela 二つ折り財布　ホワイ kw=maison martin margiela price=8600
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: MM6 Maison Margiela レザージャケット ブ kw=maison martin margiela price=80000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン NUMBER (N)INE ガーメントバッグ kw=number (n)ine price=5500
-    vs 1273305010 -> False
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER キャップ Future is the  kw=undercover price=7350
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVERISM キャップ 帽子 アンダーカバー  kw=undercover price=14000
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-22 06:46:37 UTC ===
-new items: 12, subscribers: 5
-  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
   sub 8074463575: brands=[], price=None-None, active=True
   sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
 item: NUMBER (N)INE オープンカラー　長袖シャツ ブラ kw=number nine price=9800
@@ -1994,6 +1931,69 @@ item: Supreme x Number (N)ine フランネルシ kw=number nine price=48000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: Y2K❤️00s HYSTERIC GLAMOUR 激レア  kw=hysteric glamour price=17900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-22 13:16:27 UTC ===
+new items: 11, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER PSYCHO ロングスリーブTシャツ　 kw=undercover price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: sacai undercover ロングコート kw=undercover price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: UNDERCOVER 有刺鉄線 スウェット グレー 2 新品 kw=undercover price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ドライワッフルT(5分袖) UNDERCOVER GU kw=undercover price=1300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER ワイヤーニット セーター グレー 2 kw=undercover price=33000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Tシャツ Lサイズ kw=hysteric glamour price=5800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR★パーカー kw=hysteric glamour price=13800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR speedster メッシ kw=hysteric glamour price=11500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ダブルジップ ノースリーブ kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ジップアップパーカー グレ kw=hysteric glamour price=29500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【新品タグ付】HYSTERICGLAMOUR デニム ピック kw=hysteric glamour price=58000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
