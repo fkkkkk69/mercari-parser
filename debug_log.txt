@@ -1,79 +1,3 @@
-    notify result: ok
-item: HYSTERIC GLAMOUR ヴィクセンガール　キーホル kw=hysteric glamour price=3700
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: パーカー ブラック ヒステリック Y2K kw=hysteric glamour price=9999
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【未使用】キャップ #68 kw=hysteric glamour price=13999
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 90s hysteric glamor tシャツ　シングルス kw=hysteric glamour price=8500
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERICS ローリングストーンズ ハイドパーク Tシ kw=hysteric glamour price=9800
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ブラック テーラードジャケ kw=hysteric glamour price=17999
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ✨美品✨ Maison Margiela スウェット 黒 L kw=maison martin margiela price=42700
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: maison margiela デニム パンツ kw=maison martin margiela price=80000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: メゾンマルジェラ×リーボックジグ 3D ストーム US10. kw=maison martin margiela price=4000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Maison Margiela カーディガン ライトブルー  kw=maison martin margiela price=70000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Maison Margiela タビブーツ tabi 3cm kw=maison martin margiela price=90000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
@@ -1994,6 +1918,82 @@ item: HYSTERIC GLAMOUR ピック型 ネックレス kw=hysteric glamour price=85
     vs 8074463575 -> False
     vs 934301278 -> False
 item: Hysteric Glamour ヒスガールジップアップパー kw=hysteric glamour price=16800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-22 12:46:20 UTC ===
+new items: 13, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: KEN CARSON MERCH HOODIE opium kw=vetements price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: GU×UNDERCOVER 白雪姫 MA-1 ジャケット M kw=undercover price=3000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: undercover 02AW 魔女期 ベルクロワッペンジッ kw=undercover price=72000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: UNDERCOVER × NEW ERA 9FIFTY キャ kw=undercover price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: undercoverism ウールセーター kw=undercover price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ヒステリックグラマーTシャ kw=hysteric glamour price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR Tシャツ ヒスガール kw=hysteric glamour price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【匿名配送】キャップ PINK #2525 kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【未使用】キャップ#63 kw=hysteric glamour price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ビーニー stussy ヒステリックグラマー supreme kw=hysteric glamour price=1350
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ハーフジップ 襟付き スウ kw=hysteric glamour price=15800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【美品】ヒステリックグラマー Y2K ロンT ヒスガール ス kw=hysteric glamour price=12900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 希少supremeHYSTERIC GLAMOUR ジップパ kw=hysteric glamour price=23333
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
