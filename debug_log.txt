@@ -1,104 +1,3 @@
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン 2005ss ナイト期 skull tree kw=number nine price=17000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: LOSER/ナンバーナイン 限定版 kw=number nine price=5000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR 総柄 ジップアップパーカー kw=hysteric glamour price=9999
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ヒスガール デビルズナイト kw=hysteric glamour price=19980
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Hysteric Glamour スカル ストロベリー 長袖 kw=hysteric glamour price=6900
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー　長袖Tシャツ kw=hysteric glamour price=12000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Maison Margiela ロゴリング シルバー925 kw=maison martin margiela price=23000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 99SS Martin Margiela 6 ノーカラージャ kw=maison martin margiela price=40000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 初期Martin Margiela⓪⑩◆アーティザナルチェッ kw=maison martin margiela price=115000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NIKE GYAKUSOU undercover スニーカー kw=undercover price=14000
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER ブルゾン ブラック L kw=undercover price=3500
-    vs 1273305010 -> False
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-22 02:46:51 UTC ===
-new items: 11, subscribers: 5
-  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 訳あり おまけ付き ナンバーナイン 03aw 04ss グラ kw=number nine price=33980
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: n(n) BY NUMBER (N)INE ネルシャツ kw=number nine price=4000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
     notify result: ok
 item: HYSTERIC GLAMOUR フード付きチェックシャツ kw=hysteric glamour price=4800
     vs 1273305010 -> True
@@ -1993,6 +1892,107 @@ item: メゾンマルジェラ バムバッグ ボディバッグ kw=maison mart
     vs 8074463575 -> False
     vs 934301278 -> False
 item: ディーゼルLONELYロンリー論理FR2ラブラットLGBラッ kw=lgb price=11800
+    vs 1273305010 -> False
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-22 08:34:55 UTC ===
+new items: 13, subscribers: 5
+  sub 1273305010: brands=['raf simons', 'gosha rubchinskiy', 'number nine', 'hysteric glamour', 'maison martin margiela'], price=None-None, active=True
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: RAF SIMONS パーカー メンズ 【古着】【中古】【送 kw=raf simons price=44000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ゴーシャラブチンスキー Gosha Rubchinskiy  kw=gosha rubchinskiy price=6980
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　スエット　M 美品　グレー kw=hysteric glamour price=7500
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ニット トートバッグ kw=hysteric glamour price=4300
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: HYSTERIC GLAMOUR ヒステリックグラマー Tシ kw=hysteric glamour price=13000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマーニットブラックメンズM kw=hysteric glamour price=6300
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー　マフラー　ほぼ新品 kw=hysteric glamour price=6000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: Maison Margiela STEREOTYPE Tシャ kw=maison martin margiela price=9900
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Maison Margiela ロングコート kw=maison martin margiela price=120000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Maison Margiela メゾンマルジェラ 二つ折り財 kw=maison martin margiela price=14000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ジェントルモンスター X マルジェラ MM117 ブラック kw=maison martin margiela price=26700
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Maison Margiela x GENTLEMONSTE kw=maison martin margiela price=72000
+    vs 1273305010 -> True
+    notify result: ok
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヴェトモン リーボック ソックスランナー kw=vetements price=18325
     vs 1273305010 -> False
     vs 1444559584 -> False
     vs 2034814464 -> False
