@@ -1,35 +1,3 @@
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン Handing ホワイトシャツ BRIXIA kw=number nine price=5000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: NUMBER (N)INE ナンバーナイン "06SS" T kw=number nine price=32000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン Handing スタッズ ブラックデニムパン kw=number nine price=5000
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: NUMBER （N）INE 04AW レザー切替スクールジャ kw=number nine price=31999
-    vs 1273305010 -> True
-    notify result: ok
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR ロンt ピンク kw=hysteric glamour price=5000
     vs 1273305010 -> True
@@ -1994,6 +1962,38 @@ item: HYSTERIC GLAMOUR ロンＴ kw=hysteric glamour price=7900
     vs 934301278 -> True
     notify result: ok
 item: ヒステリックグラマー SPEEDSTER メッシュキャップ  kw=hysteric glamour price=9900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-22 17:01:25 UTC ===
+new items: 5, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['vetements'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: n(n)bynumber(n)ine ランチボアジャケット　 kw=number (n)ine price=8600
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 完売サイズ3★14thaddiction★シープスキンコンビ kw=lgb price=69800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 希少・激レアヒステリックグラマー パイソン柄スカート kw=hysteric glamour price=48000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　USED加工　ミッドライズ ストレート kw=hysteric glamour price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ミリタリーシャツ カーキ kw=hysteric glamour price=8800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
