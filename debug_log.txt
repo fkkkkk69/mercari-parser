@@ -1,25 +1,3 @@
-    vs 934301278 -> False
-=== run at 2026-10-23 00:46:33 UTC ===
-new items: 9, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['vetements'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE ドクロダメージスウェット　タイム kw=number (n)ine price=30000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 21AW VETEMENTS Gothic Logo Lon kw=vetements price=40000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: GUデニムジップアップパーカ×UNDERCOVER kw=undercover price=6500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ok
 item: UNDERCOVER アンダーカバー レコード転写プリントポ kw=undercover price=5600
@@ -1994,6 +1972,28 @@ item: Rick Owens リックオウエンス レザーウォレット 二 kw=rick o
     vs 8074463575 -> False
     vs 934301278 -> False
 item: RICK OWENS トートバッグ 白ロゴ DRKSHDW  kw=rick owens price=3999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-23 10:46:26 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ナンバーナイン 00AW ダイナライブパーカー69 REDI kw=number (n)ine price=80000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens DRKSHDW X Converse kw=rick owens price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 極美品 LGB FUTURE LOUD Tシャツ サイズ1 kw=lgb price=60000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
