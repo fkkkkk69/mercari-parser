@@ -1,90 +1,3 @@
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: Logitec M.2 NVMe SSDケース LGB-PN kw=lgb price=1800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR 半袖Tシャツ パープル kw=hysteric glamour price=9600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-23 05:46:24 UTC ===
-new items: 10, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン HIPSTER グランジ加工 職人デニム kw=number (n)ine price=100000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Bond No.9 ショップ袋 ショッパー kw=number nine price=500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ジーユー アンダーカバー デニム ツイスト パンツ XL U kw=undercover price=2999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVERISM 14AW ウール ダッフルコート kw=undercoverism price=49800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 鑑定済み　正規品 Rick Owens リックオウエンス　サ kw=rick owens price=95000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: リックオウエンス rick owens ジオバスケット風 kw=rick owens price=22222
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR リング 指輪 kw=hysteric glamour price=7200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: hysteric glamour スタッズデニム kw=hysteric glamour price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 【希少】HYSTERIC GLAMOUR 総柄　ジップアップ kw=hysteric glamour price=12900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ✨HYSTERIC GLAMOUR ヒステリックグラマー 長 kw=hysteric glamour price=24800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-23 06:01:26 UTC ===
-new items: 5, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 激レア　06AW ナンバーナイン ナポレオンジャケット NO kw=number (n)ine price=160000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: リックオウエンス　カーゴベラ kw=rick owens price=100000
     vs 1444559584 -> False
@@ -1994,6 +1907,93 @@ item: ヒステリックグラマー　スナップパンツ　デニムパン�
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 【完売品試着のみ】ヒステリックグラマー BORN TO LO kw=hysteric glamour price=55555
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-23 13:47:04 UTC ===
+new items: 15, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ギャップのある女子2人が百合な話。 kw=number nine price=2222
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ユーティリティブルゾン GU UNDERCOVER M kw=undercover price=3800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU x UNDERCOVER 半袖シャツ ネイビー Mサイ kw=undercover price=2400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 新品 GU×UNDERCOVER デニムカーゴパンツ kw=undercover price=12999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: UNDERCOVER moebius & plank パーカ kw=undercover price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: コーティングデニムrickowens waxed tyron kw=rick owens price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: rick owens drkshdw bolan boots kw=rick owens price=90000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens drkshdw 42 ラモーンズ　ハイ kw=rick owens price=70000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ニット帽 ビーニー kw=hysteric glamour price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Hysteric Glamour カメラガール ロングスリー kw=hysteric glamour price=5900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【未使用】キャップ#49 kw=hysteric glamour price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　総柄 Tシャツ FREEサイズ品番 0 kw=hysteric glamour price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ヒステリックグラマー　HGC UNTAMED YOUTH ブ kw=hysteric glamour price=25800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　 スウェット／トレーナー　 ヒスガール kw=hysteric glamour price=7600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: Supreme Hysteric Glamour ジップアッ kw=hysteric glamour price=85000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
