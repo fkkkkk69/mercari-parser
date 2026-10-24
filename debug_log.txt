@@ -1,53 +1,4 @@
     vs 934301278 -> False
-item: NUMBER(N)INE Tシャツ ネイビー kw=number nine price=7700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ナンバーナイン ROMP COMMUNICATE DESIG kw=number nine price=9110
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン エンブレムTシャツ スタンダード期 メンズ  kw=number nine price=23320
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン　Tシャツ　3　白　YOU KNOW RIGH kw=number nine price=8600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン バルーンニット グレー カート期 kw=number nine price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン NUMBER (N)INE パーカー kw=number nine price=26999
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ナンバーナイン NUMBER (N)INE Extra He kw=number nine price=13900
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER NINE カジュアルシャツ メンズ 【古着】【 kw=number nine price=10620
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: "NUMBER (N)INE" Vintage Satin  kw=number nine price=24980
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: TMT シャツジャケット　キムタク　HERO ナンバーナイン kw=number nine price=35000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1993,6 +1944,55 @@ item: HYSTERIC GLAMOUR genzai コラボ パー kw=hysteric glamour price=35000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR COURTNEY LOVE kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-24 07:01:26 UTC ===
+new items: 8, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU×UNDERCOVER 長袖シャツ ブラック L kw=undercover price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU×UNDERCOVER ブルゾン Sサイズ kw=undercover price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【着用数回】 Rick Owens ファンネルネック レザー kw=rick owens price=98000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: LGB ルグランブルー ファーフードパーカー 黒 サイズ3  kw=lgb price=99800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR GET STONED Tシ kw=hysteric glamour price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR 長袖　Tシャツ kw=hysteric glamour price=18900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR スタッズ レザーブレスレッ kw=hysteric glamour price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR スタッズ デニムパンツ 3 kw=hysteric glamour price=6999
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
