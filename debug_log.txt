@@ -1,52 +1,3 @@
-item: ヒステリックグラマー　スナップパンツ　デニムパンツ kw=hysteric glamour price=39000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【完売品試着のみ】ヒステリックグラマー BORN TO LO kw=hysteric glamour price=55555
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-23 13:47:04 UTC ===
-new items: 15, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ギャップのある女子2人が百合な話。 kw=number nine price=2222
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ユーティリティブルゾン GU UNDERCOVER M kw=undercover price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: GU x UNDERCOVER 半袖シャツ ネイビー Mサイ kw=undercover price=2400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: 新品 GU×UNDERCOVER デニムカーゴパンツ kw=undercover price=12999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER moebius & plank パーカ kw=undercover price=18000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: コーティングデニムrickowens waxed tyron kw=rick owens price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: rick owens drkshdw bolan boots kw=rick owens price=90000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1949,52 @@ item: ヒステリックグラマー　Hysterics ジャケット ブラッ kw=hy
     vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ok
+=== run at 2026-10-24 03:16:27 UTC ===
+new items: 8, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 【極美品】RE:Number (N)ine ナンバーナイン  kw=number (n)ine price=8000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: NUMBER(N)INE ナンバーナイン 05AW ハイスト kw=number (n)ine price=58267
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 新品　GU ハイカットスニーカー UNDERCOVER 25 kw=undercover price=3399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【新品未開封】UNDERCOVER BEAR　　メディコムト kw=undercover price=19800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 希少✨ヒステリックグラマー　シャギーニット　ピンク　ボーダー kw=hysteric glamour price=8900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー POP STRAWBERRY 総柄 ロ kw=hysteric glamour price=15800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 4339M【希少モデル】ヒステリックグラマー☆ヒスガール ト kw=hysteric glamour price=26000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR　ウールニット　前V　グラフ kw=hysteric glamour price=25980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
