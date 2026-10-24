@@ -1,63 +1,3 @@
-    vs 934301278 -> False
-item: Rick Owens DRKSHDW プッシャー　ロングパン kw=rick owens price=38000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: LGB ルグランブルー ニット帽子 kw=lgb price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【コラボ】ヒステリックグラマー × KISS スウェット ブ kw=hysteric glamour price=4980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: すずさま専用 kw=hysteric glamour price=6900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ラグラン スウェット kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー　レディースデニム kw=hysteric glamour price=500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR コートニーラブ Tシャツ  kw=hysteric glamour price=8480
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-23 11:31:30 UTC ===
-new items: 22, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン NUMBER(N)INE 03 カート期　総 kw=number (n)ine price=30000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER (N)INE JAM HOME MADE ハー kw=number (n)ine price=40000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
 item: UNDERCOVER アンダーカバー パーカー　アーカイブ kw=undercover price=62000
@@ -1994,6 +1934,66 @@ item: HYSTERIC GLAMOUR 長袖カットソー ベージュ  kw=hysteric glamour p
     vs 8074463575 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR ダウンジャケット　ヒス　美 kw=hysteric glamour price=8600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-24 00:01:25 UTC ===
+new items: 10, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE ナンバーナイン ニットキャップ  kw=number (n)ine price=18900
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 新品サイズ4(XL相当) アンダーカバー UNDERCOVE kw=undercover price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【廃盤】GU×UNDERCOVER カーゴパンツ ハーフパン kw=undercover price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU UNDERCOVERジップポケットシャツ S【値下しま kw=undercover price=4500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER マウンテンブルゾン ミリタリージャケッ kw=undercover price=19800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【新品】GU×アンダーカバー カバーオールジャケット ブルー kw=undercover price=5980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: Rick Owens AW10 GLEAM期 ネックウォーマ kw=rick owens price=22000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens DRKSHDW ローブガウン kw=rick owens price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: WIND AND SEA HYSTERIC GLAMOUR  kw=hysteric glamour price=29500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー 腕時計 バングルウォッチ 牛革 シルバ kw=hysteric glamour price=9999
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
