@@ -1,46 +1,3 @@
-item: Rick Owens Mega Laced Cargo Tr kw=rick owens price=200000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Rick Owens ブラック ワイドレッグパンツ kw=rick owens price=90000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: THE ROLLING STONES 総柄カーディガン ブラ kw=hysteric glamour price=7000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒステリックグラマー DEVIL WOMAN ヒスガール 長 kw=hysteric glamour price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ベア総柄 ポーチ チャーム kw=hysteric glamour price=6000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: HYSTERIC GLAMOUR ヒステリックグラマー　ベア kw=hysteric glamour price=12800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-=== run at 2026-10-24 03:46:27 UTC ===
-new items: 11, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE Tシャツ kw=number (n)ine price=9000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: NUMBER(N)INE　USA製　ミッキー　トレーナー　レ kw=number (n)ine price=30000
     vs 1444559584 -> True
@@ -1994,6 +1951,49 @@ item: HYSTERIC GLAMOUR ニット セーター kw=hysteric glamour price=20000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR ハイカットスニーカー ブラ kw=hysteric glamour price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-24 11:16:25 UTC ===
+new items: 7, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ナンバーナイン　ボーダーTシャツ kw=number (n)ine price=6000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: GU×アンダーカバー 長袖シャツ ホワイト ロゴシャツ 白  kw=undercover price=2680
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: UNDERCOVER ジップポケットスウェットパーカー　サイ kw=undercover price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: UNDERCOVER ジャケット サンダーボーン 2001年 kw=undercover price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 2015AW アンダーカバー ダメージ加工ニット カシミアブ kw=undercover price=16800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: L.G.B ルグランブルー s-wolf デニムパンツ スト kw=lgb price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=8500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
