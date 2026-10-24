@@ -1,14 +1,3 @@
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: nm-1467) UNDERCOVER Tシャツ 23ss  kw=undercover price=6500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: NIKE × UNDERCOVER ナイキ アンダーカバー  kw=undercover price=2980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ok
 item: リックオウエンス 似 kw=rick owens price=6800
@@ -1998,3 +1987,14 @@ item: 『希少』Hysteric Glamour ラグランTシャツ  kw=hysteric glamour p
     notify result: ok
 === run at 2026-10-24 22:01:42 UTC ===
 no new items
+=== run at 2026-10-24 22:16:36 UTC ===
+new items: 1, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: DOUBLE CARGO JUMBO BELAS sbw W kw=rick owens price=199999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
