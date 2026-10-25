@@ -1,37 +1,3 @@
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: n(n) ナンバーナイン パンツ NNP-F910 サイズ2 kw=number (n)ine price=4800
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Number (N)ine ラグランカットソー kw=number (n)ine price=21000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: archive ナポレオンコート number(n)ine  kw=number (n)ine price=7777
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER Dorothy Hendricks T kw=undercover price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER、ダウンベスト、ブラック、フード収納、サ kw=undercover price=17500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ジーユー 【M】 ドライワッフルTTシャツ　5分袖 UNDE kw=undercover price=2980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ok
 item: RICK OWENS リックオウエンス風 ジオバスケット kw=rick owens price=15000
@@ -1994,6 +1960,40 @@ item: HYSTERIC GLAMOUR スウェット ラグラン グレ kw=hysteric glamour p
     vs 934301278 -> True
     notify result: ok
 item: HYSTERIC GLAMOUR 厚手 ガール ジップ スウ kw=hysteric glamour price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-25 04:31:31 UTC ===
+new items: 5, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE DENIM ボーダー長袖カットソ kw=number (n)ine price=3000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【スウェット】アンダーカバー×ＧＵ（メンズ/ユーズド品） kw=undercover price=2000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: 【UNDERCOVER】アンダーカバー ピンズ（スカルモチー kw=undercover price=5900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: ADAMAS KRONOS似 コーティングフレアデニム kw=rick owens price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: L.G.B. ルグランブルー ワッフル フレアパンツ kw=lgb price=32000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
