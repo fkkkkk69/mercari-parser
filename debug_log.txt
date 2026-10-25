@@ -1,25 +1,3 @@
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE パーカー ブラック kw=number (n)ine price=2500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 米津玄師 LOSER ナンバーナイン CD kw=number (n)ine price=3000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: NUMBER (N)INE ウールチェックボタンジャケット  kw=number (n)ine price=49800
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: 【幻級/03AW カート期】ナンバーナイン ハートエンブレム kw=number nine price=45000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1993,6 +1971,28 @@ item: 【状態良好】ヒステリックス 刺繍ロゴ H金具 スカジャ�
     vs 8074463575 -> False
     vs 934301278 -> False
 item: Sis様専用　HYSTERIC GLAMOUR メッシュキャ kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+=== run at 2026-10-25 00:01:23 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Rick Owens 26seasonメガバンパー kw=rick owens price=55000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: LGB BONO ジャケット ボノ archive kw=lgb price=79800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ★HYSTERIC GLAMOUR♡裏ボアライダース♡モッズ kw=hysteric glamour price=8000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
