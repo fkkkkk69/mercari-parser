@@ -1,37 +1,4 @@
     vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【美品】ヒステリックグラマー WOMAN ON SKULL  kw=hysteric glamour price=8888
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー似　メッシュキャップ　y2k ホワイト　 kw=hysteric glamour price=1500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-25 13:01:33 UTC ===
-new items: 10, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン　フェンダーパーカー　赤黒 宮下期ハイスト期  kw=number (n)ine price=58000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER Uロゴ スウェット ブラック サイズ2 kw=undercover price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER キルティングサコッシュ ブラック kw=undercover price=2980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ok
 item: UNDERCOVERISM カーディガン ブラック kw=undercoverism price=14900
@@ -1994,6 +1961,39 @@ item: HYSTERIC GLAMOUR カーキ ジャケット kw=hysteric glamour price=3000
     vs 934301278 -> True
     notify result: ok
 item: 4370M【美品】ヒステリックグラマー☆ヒスガール スタジア kw=hysteric glamour price=45000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-26 03:16:28 UTC ===
+new items: 5, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ギャップのある女子2人が百合な話。 書泉特典付き kw=number nine price=899
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: GU × UNDERCOVER ミリタリージャケット ブラッ kw=undercover price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ok
+item: アンダーカバー UNDERCOVERISM 2011AW フ kw=undercoverism price=29800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens ハイカットスニーカー RAMONES  kw=rick owens price=49999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: RickOwens Converse TURBOWPN 27 kw=rick owens price=40000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
