@@ -1,48 +1,3 @@
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR KINKY デニムパンツ  kw=hysteric glamour price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR 巾着 ショルダーバッグ kw=hysteric glamour price=9800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ★HYSTERIC GLAMOUR缶バッジ　ピンバッジ kw=hysteric glamour price=1200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-=== run at 2026-10-27 01:16:33 UTC ===
-new items: 10, subscribers: 4
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 8074463575: brands=[], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: Nike エアフォース1×UNDERCOVER GORE-T kw=undercover price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER ユーティリティジャケット ブラッ kw=undercover price=3800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: ヒートパデッドコンバーチブルコート UNDERCOVER M kw=undercover price=2980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ok
-item: UNDERCOVER ウールパンツ サイズ3 ブラック jo kw=undercover price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: GU× UNDERCOVER ブロードチェックシャツ　長袖　 kw=undercover price=1999
     vs 1444559584 -> False
@@ -1998,3 +1953,48 @@ item: HYSTERIC GLAMOUR 半袖Tシャツ ホワイト kw=hysteric glamour price=9
     vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
+=== run at 2026-10-27 10:01:28 UTC ===
+new items: 7, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: number(n)ine skull track jacke kw=number (n)ine price=45000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: NIKE ×SACAI× UNDERCOVER LD WAF kw=undercover price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: GU✖︎UNDERCOVERコラボジョガーパンツ kw=undercover price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: undercover アンダーカバー5分袖パーカー　超希少サ kw=undercover price=35999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: リックオウエンス風カーゴパンツ kw=rick owens price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ヒステリック キーホルダー kw=hysteric glamour price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: Hysteric Glamour ギターピック ネックレス kw=hysteric glamour price=7999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
