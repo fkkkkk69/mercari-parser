@@ -1,25 +1,3 @@
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: UNDERCOVER ニューエラ　クマ刺繍 グレー キャップ kw=undercover price=7000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: FROM JAPAN01専用 kw=undercover price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: RICK OWENS DRKSHDW EASY CREATC kw=rick owens price=70000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 【未使用】 DRKSHDW (ダークシャドウ) キャップ L kw=rick owens price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: Rick Owens タートルネック ニット セーター kw=rick owens price=59000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1972,28 @@ item: L.G.B. APACHE CROSS Tシャツ サイズ1 kw=lgb price=20000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: HYSTERIC WOMAN CAT 七分袖Tシャツ kw=hysteric glamour price=12399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-27 17:31:28 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 03aw Number （N）ine suède panel kw=number (n)ine price=65000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Kuru Play for zip Hoodie deada kw=rick owens price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: hysteric glamour ナポレオンジャケット　ar kw=hysteric glamour price=20000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
