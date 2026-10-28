@@ -1,20 +1,4 @@
     vs 934301278 -> False
-item: UNDERCOVER UNKN フーディ BLACK 4 kw=undercover price=22000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UnderCoverism 総柄 ネクタイ シルク kw=undercoverism price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: UNDERCOVER ホワイト スウェット kw=undercoverism price=25500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: rick owens DRKSHDW Detroit cut kw=rick owens price=88888
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1978,22 @@ item: 【Archive】NUMBER (N)INE ほつれ加工スト kw=number nine price=1500
     vs 8074463575 -> False
     vs 934301278 -> False
 item: undercover　魔女期クロスニット帽 kw=undercoverism price=82000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-10-28 17:01:30 UTC ===
+new items: 2, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: rick owens geobasket mega bump kw=rick owens price=62000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens DRKSHDW BOLAN BOOTC kw=rick owens price=90000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
