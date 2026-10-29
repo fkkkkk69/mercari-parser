@@ -1,27 +1,6 @@
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
-    vs 934301278 -> False
-item: ソニックユース　ヒステリックグラマー 長袖Tシャツ　ロンT　 kw=hysteric glamour price=6800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 【未使用】メッシュキャップ -329 kw=hysteric glamour price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR メッシュキャップ kw=hysteric glamour price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー★スカルシアーハイソックス kw=hysteric glamour price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: HYSTERIC GLAMOUR　ジップアップパーカー　ギタ kw=hysteric glamour price=19800
@@ -1998,3 +1977,24 @@ item: HYSTERIC GLAMOUR カモフラージュ 迷彩メッシ kw=hysteric glamour
     vs 8074463575 -> False
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-10-29 15:16:25 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Rick Owens x Champion バケットハット kw=rick owens price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens ラモーンズ low 41 kw=rick owens price=65000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR トートバッグ kw=hysteric glamour price=11111
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
