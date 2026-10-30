@@ -1,26 +1,3 @@
-item: リックオウエンス メンズ ボトムス ハーフパンツ・ショーツ  kw=rick owens price=206800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: リックオウエンス メンズ シューズ スニーカー プラットフォ kw=rick owens price=339800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 41 / RICK OWENS リックオウエンス デニム ラ kw=rick owens price=128923
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: リックオウエンス メンズ シューズ スニーカー RICK O kw=rick owens price=210800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: リックオウエンス メンズ シューズ スニーカー Rick O kw=rick owens price=272800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 《L.G.B.》フード付き シワ加工 長袖シャツ ブラック kw=lgb price=38999
@@ -1993,6 +1970,29 @@ item: ヒステリックグラマー　キーホルダー　ヒスミニ kw=hyst
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: HYSTERIC GLAMOUR ポロシャツ 0242CH0 kw=hysteric glamour price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-10-30 05:31:26 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU UNDERCOVER フェイクレザー パデットブルゾン kw=undercover price=5999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: L.G.B MAYA HSV AAYM skull Tシャツ kw=lgb price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR × Supreme Sti kw=hysteric glamour price=1350
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
