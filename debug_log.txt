@@ -1,53 +1,3 @@
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 初期　UNIQLO × UNDERCOVER 七分袖カットソ kw=undercover price=3500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: UNDER COVER A Clockwork Orange kw=undercover price=20900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: rick owens　DRKSHDW IT45 値下げ交渉⭕ kw=rick owens price=105000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Rick Owens LARGE MESSENGER kw=rick owens price=128000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Rick Owens メガレースmegatractor 44 kw=rick owens price=155000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 鬼レア！rick owens SCORPIO期　ノーカラー　 kw=rick owens price=188000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: RICK OWENS レザー ロングブーツ ブラック　36. kw=rick owens price=70000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: リックオウエンス Rick Owens DRAWSTRING kw=rick owens price=60900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: リックオウエンス Rick Owens イタリア製 21SS kw=rick owens price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: ダークシャドウ バイ リックオウエンス メンズ アウター パ kw=rick owens price=114800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 40 RICK OWENS アブストラクト ロウ スニーカー kw=rick owens price=47924
@@ -1993,6 +1943,56 @@ item: HYSTERIC GLAMOUR ショルダーバッグ kw=hysteric glamour price=12000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: HYSTERIC joey histeric ナップサック kw=hysteric glamour price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-10-30 04:46:26 UTC ===
+new items: 8, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ジャンク品 NUMBER (N)INE ナンバーナイン サン kw=number (n)ine price=1000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【美品】GU×UNDERCOVER スウェTシャツ 黒 M  kw=undercover price=2500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: UNDERCOVER MEN'S/バッチ刺繍パイルLSTEE kw=undercover price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Eve Under Cover グッズ　ダブルラババン kw=undercover price=999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 希少 L.G.B. クロスパッチ バイカーパンツ 29 kw=lgb price=84800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: ★希少★ヒステリックグラマー　バナナガール　長袖カットソー　 kw=hysteric glamour price=14800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ジャケット kw=hysteric glamour price=14000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR 2way ショルダーバッグ kw=hysteric glamour price=5829
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
