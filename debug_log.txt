@@ -1,14 +1,3 @@
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER ストレートデニムパンツ Lサイズ kw=undercover price=2200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: undercover 03ss scab 瘡蓋ポーチ サコッ kw=undercover price=49980
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1983,17 @@ item: Rick Owens 20fw BAUHAUS JOGGER kw=rick owens price=68000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: asapmode 15oz Raw Selvedge Boo kw=rick owens price=23000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-11-05 17:01:25 UTC ===
+new items: 1, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: HYSTERIC GLAMOUR GUITAR GIRL ネ kw=hysteric glamour price=8222
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
