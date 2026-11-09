@@ -1,51 +1,3 @@
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GU UNDERCOVER ジップポケットチェックシャツ L kw=undercover price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: UNDERCOVER THIRD EYE ロゴ オーバーサイ kw=undercover price=39800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: GU UNDERCOVER ライダースジャケット ブラック  kw=undercover price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: DOROTHY HENDRICKS UNDERCOVER G kw=undercover price=20000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: デニム　ブラックRick Owens bolan 似 brr kw=rick owens price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Rick owens gareth pugh Julius  kw=rick owens price=55000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: rick owens drkshdw AIRCUT kw=rick owens price=100000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Rick Owens DRKSHDW 43 kw=rick owens price=75000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Rick Owens リックオウエンス 18AW コットン  kw=rick owens price=14500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: HYSTERIC GLAMOUR Tシャツ kw=hysteric glamour price=3000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1946,54 @@ item: 【希少】hysteric glamor studs leat kw=hysteric glamour price=35000
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 3928U【豪華一面】ヒステリックグラマー☆ヒスガール ビッ kw=hysteric glamour price=41100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-11-09 06:01:26 UTC ===
+new items: 8, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: i*k様 05AW NUMBER (N)INE スカルフェザ kw=number (n)ine price=5200
+    vs 1444559584 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 109
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: UNDERCOVER アンダーカバー MAD スウェット kw=undercover price=32000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 完売品 GU UNDERCOVER カバーオール コーデュロ kw=undercover price=6666
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: UNDERCOVER STARWARS SITH Tシャツ　 kw=undercover price=13500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: リックオーエンス風　メガバンパージオバスケット40 kw=rick owens price=22000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens DRKSHDW Abstract Ju kw=rick owens price=94000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 【追加確認画像】Rick Owens 22AW OUTERS kw=rick owens price=999999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR 長袖 ボーダー カットソー kw=hysteric glamour price=9900
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
