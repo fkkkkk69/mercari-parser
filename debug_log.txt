@@ -1,17 +1,6 @@
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: リックオウエンス ダークシャドウ クリーチカーゴパンツ kw=rick owens price=49800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 希少Rick Owens BOLAN BOOTCUT パンツ kw=rick owens price=89999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
     vs 934301278 -> False
 item: コムドットやまと着用HYSTERIC GLAMOUR KIN kw=hysteric glamour price=18500
     vs 1444559584 -> False
@@ -1998,3 +1987,14 @@ item: Hysteric Glamour リップストップ バックパッ kw=hysteric glamour
     vs 934301278 -> False
 === run at 2026-11-10 19:01:25 UTC ===
 no new items
+=== run at 2026-11-10 19:16:25 UTC ===
+new items: 1, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: L.G.B. Napoleon jacket cavalry kw=lgb price=72000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
