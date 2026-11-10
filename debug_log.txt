@@ -1,24 +1,3 @@
-item: UNDERCOVER Suspiria コインケース　財布　 kw=undercover price=9800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Rick Owens bolan banana kw=rick owens price=90000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Lgb archive 00s opium longslee kw=lgb price=6500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: gimmick leather bono jacketジャケ kw=lgb price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: 【新品タグ付】Hysteric Glamour WHISKY kw=hysteric glamour price=6500
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1973,27 @@ item: ヒステリックグラマー　RSM加工デニム　30 kw=hysteric glamo
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 【美品】【2023SS】P.A.M. × HYSTERIC  kw=hysteric glamour price=11800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-11-10 04:31:27 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER 20SS シンディシャーマン モッズコ kw=undercover price=74800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: L.G.B. ルグランブルー デニム　説明文必読！ kw=lgb price=33000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: 希少XL Hysteric Glamour パーカー スカル kw=hysteric glamour price=37800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
