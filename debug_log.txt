@@ -1,26 +1,4 @@
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: UNDERCOVER（アンダーカバー） 変形ソール レザース kw=undercover price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: Panasonic ダウンシーリング LGB 51655LE kw=lgb price=7000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: TORNADO MART スーツ/ロエン5351ユリウスシェ kw=lgb price=42000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: オーバーサイズ パーカー グレー ヒステリックグラマー Y2 kw=hysteric glamour price=7200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: ガールプリント パーカー HYSTERIC GLAMOUR好 kw=hysteric glamour price=11500
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1994,6 +1972,28 @@ item: Rick Owens × MONCLER ビーニー ブラウン kw=rick owens price=39999
     vs 8074463575 -> False
     vs 934301278 -> False
 item: 並行輸入 bolan bootcut 28 kw=rick owens price=17000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+=== run at 2026-11-11 17:01:26 UTC ===
+new items: 3, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE トライバル柄 ジップパーカー kw=number (n)ine price=70000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: JohnUNDERCOVER ベロアスカジャン サイズ2 kw=undercover price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: Rick Owens DIETRICH DRAWSTRING kw=rick owens price=85000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 8074463575 -> False
