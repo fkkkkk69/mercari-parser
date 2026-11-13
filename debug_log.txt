@@ -1,20 +1,4 @@
     vs 934301278 -> False
-item: HYSTERIC GLAMOUR Tシャツ カーキS kw=hysteric glamour price=5100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: HYSTERIC GLAMOUR パーカー ブラック kw=hysteric glamour price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR HG刺繍 ショートトラック kw=hysteric glamour price=33333
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: ヒステリックグラマーミリタリーシャツ ワンピース 長袖 ロン kw=hysteric glamour price=5800
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1982,19 @@ item: Rick Owens シャツ　サイズ50 kw=rick owens price=80000
     vs 934301278 -> False
 === run at 2026-11-13 20:01:29 UTC ===
 no new items
+=== run at 2026-11-13 20:16:22 UTC ===
+new items: 2, subscribers: 4
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 8074463575: brands=[], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: DISARK ZIPPER DESIGN JACKET 完売 kw=rick owens price=26000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR キャップ ブラック y2k kw=hysteric glamour price=9250
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 8074463575 -> False
+    vs 934301278 -> False
