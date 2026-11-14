@@ -1,50 +1,3 @@
-item: 美品　GU×UNDERCOVER コラボ パーカー グレー  kw=undercover price=3200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GU undercover リバーシブルMA-1 フライトジ kw=undercover price=7500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: UNDERCOVER メンズ ストレートデニム guru刺繍 kw=undercover price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER アンダーカバー PVC切り替え サイズ kw=undercoverism price=39800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVERISM ニット・セーター メンズ 【古着 kw=undercoverism price=19620
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 当日発送可能!!Rick Owens風 厚底スニーカー38 kw=rick owens price=6700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー　レディースメッシュキャップ　evil kw=hysteric glamour price=7850
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: HYSTERIC GLAMOUR ボーダーTシャツ S kw=hysteric glamour price=4350
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: HYSTERIC GLAMOUR　ブルゾンパーカー　ジャージ kw=hysteric glamour price=8900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-11-14 06:01:22 UTC ===
-new items: 26, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: number(n)ine ナンバーナイン GIVE期 カシミ kw=number (n)ine price=9800
-    vs 1444559584 -> True
     notify result: ok
     vs 2034814464 -> False
     vs 934301278 -> False
@@ -1995,6 +1948,53 @@ item: Rick Owens FLARED MEGA TRACTOR kw=rick owens price=171900
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 【完売品】HYSTERIC GLAMOUR レザーチョーカー kw=hysteric glamour price=9999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-14 14:46:23 UTC ===
+new items: 10, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU×UNDERCOVER コラボ ケーブルニットカーディガ kw=undercover price=3580
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: UNDERCOVER JUN TAKAHASHI チェック柄 kw=undercover price=7300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: MINNA HITOTSU ハイカットシューズ kw=rick owens price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: MINNA HITOTSUスタッズハイカットシューズ kw=rick owens price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: k-two studios double-zip hoodi kw=rick owens price=27000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Rick Owens 41.0 純正　リックオウエンス シュ kw=rick owens price=2600
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Rick Owens DRKSHDW HEXA RAMONE kw=rick owens price=82000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 希少 HYSTERIC GLAMOUR PAM コラボ ラグ kw=hysteric glamour price=14800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【超希少モデル】ヒステリックグラマー ビクセンガール 即完売 kw=hysteric glamour price=16000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　ウォレットチェーン　シルバー　箱付き kw=hysteric glamour price=11111
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
