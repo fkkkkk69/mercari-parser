@@ -1,36 +1,4 @@
     vs 934301278 -> False
-item: ナンバーナイン NUMBER (N)INE グランジデニムパ kw=number (n)ine price=50000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: UNDERCOVER The North Face SOUK kw=undercover price=12999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER ブラック スウェット XL 中古 kw=undercover price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: リックオウエンスハイカットスニーカー ブラック ホワイト kw=rick owens price=30000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: 確実正規品 Rick Owens Geobasketハイ カ kw=rick owens price=120000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
-item: LGB OPIUM y2k grunge long T kw=lgb price=19599
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 8074463575 -> False
-    vs 934301278 -> False
 item: 【新品未開封タグ付】　ヒステリックグラマー　STAR Tシャ kw=hysteric glamour price=13480
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1995,6 +1963,38 @@ item: ★ヒステリックグラマー★SEE NO EVIL Tシャツ　X kw=hysteric
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: デニムジャケット Gジャン ダメージ加工　ヒステリックグラマ kw=hysteric glamour price=8480
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-14 03:31:30 UTC ===
+new items: 6, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE デニムジャケット Gジャン kw=number (n)ine price=6000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Rick Owens DRKSHDW MEMPHIS スキニ kw=rick owens price=88000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ローリングストーンズ L.G.B コラボ ニットカーディガン kw=lgb price=6230
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: L.G.B. グラデーション タンクトップ サイズ1 LGB kw=lgb price=300
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: HYSTERIC GLAMOUR スタジャン 袖レザー kw=hysteric glamour price=100000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 90s Hysterlc glamour Hロゴ ニット セ kw=hysteric glamour price=23800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
