@@ -1,27 +1,3 @@
-item: 試着のみ　UNDERCOVER　17aw ジップパンツ　ジョ kw=undercover price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: タグ付　未使用　GU UNDERCOVER スウェット L  kw=undercover price=2990
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 完売 美品★GU×UNDERCOVER ドライワッフルT 5 kw=undercover price=980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GYAKUSOU NIKE × UNDERCOVER コラボ kw=undercover price=3999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 【未使用】キャップ#45 kw=hysteric glamour price=8500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ラメ 長袖カットソー kw=hysteric glamour price=15500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
@@ -1995,6 +1971,30 @@ item: RICK OWENS タートルネック カットソー kw=rick owens price=38000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR メッシュキャップ kw=hysteric glamour price=9500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-14 22:46:24 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Number(N)ine ジップパーカー kw=number (n)ine price=29500
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【週末限定価格】08 AW NUMBER(N)INE ナンバ kw=number nine price=32800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ナンバーナイン NUMBER (N)INE FACEコラボコ kw=number nine price=5750
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 26aw UNDERCOVER ✖️ UNDERGIRL ピ kw=undercover price=12800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
