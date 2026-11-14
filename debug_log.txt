@@ -1,12 +1,3 @@
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER(N)INE by Takahiro Miyas kw=number (n)ine price=24500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NUMBER (N)INE 07aw リブレザー ブルゾン  kw=number (n)ine price=249800
     vs 1444559584 -> True
     notify result: ok
     vs 2034814464 -> False
@@ -1998,3 +1989,12 @@ item: 色味◎90s00s HYSTERIC GLAMOUR スウェ kw=hysteric glamour price=12000
     vs 934301278 -> False
 === run at 2026-11-14 22:01:24 UTC ===
 no new items
+=== run at 2026-11-14 22:16:27 UTC ===
+new items: 1, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 美品 UNDERCOVER ネックレス シルバー925 ボー kw=undercover price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
