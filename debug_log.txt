@@ -1,26 +1,3 @@
-item: 00s undercover アンダーカバー チェックパンツ kw=undercover price=15800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NIKE × UNDERCOVER スニーカー kw=undercover price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER／アンダーカバー　ラウンドファスナー　長 kw=undercover price=8000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GU アンダーカバー パデットキルトブルゾン ブラック kw=undercover price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Thee HYSTERIC GLAMOUR XXX デニムパ kw=hysteric glamour price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー フルジップ パーカー y2k 90s  kw=hysteric glamour price=9000
-    vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR スウェット トレーナー kw=hysteric glamour price=12000
@@ -1994,6 +1971,29 @@ item: ヒステリックグラマー　ペイント　スリム　デニム kw=h
     vs 2034814464 -> False
     vs 934301278 -> False
 item: ヒステリックグラマーバッチ1127 HYSブラック kw=hysteric glamour price=699
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-11-14 18:46:24 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER アンダーカバー　Tシャツ ブラック kw=undercover price=4400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: RICK OWENS MEGA BUMPER SNEAKS  kw=rick owens price=210000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 希少 L.G.B. サハラベスト kw=lgb price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ヒステリックグラマー　Tシ kw=hysteric glamour price=6550
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
