@@ -1,17 +1,4 @@
     vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: UNDERCOVER 64デニム Lサイズ/オリジナル/bu kw=undercover price=100000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER the shepherd セットアップ kw=undercover price=53800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: undercoverism アンダーカバーイズム ZOZO白 kw=undercoverism price=14500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: Rick Owens リックオウエンスGETH RUNNER kw=rick owens price=80000
     vs 1444559584 -> False
@@ -1995,6 +1982,19 @@ item: 未使用 HYSTERIC GLAMOUR ヒステリックグラマ kw=hysteric glamour
     vs 2034814464 -> False
     vs 934301278 -> False
 item: hysteric gramour ジップアップジャケット f kw=hysteric glamour price=19500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-15 18:46:23 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 希少Hysteric Glamour 90s長袖カットソー kw=hysteric glamour price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: fi19 HYSTERIC GLAMOUR ロゴプリント ワ kw=hysteric glamour price=17800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
