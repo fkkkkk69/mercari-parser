@@ -1,21 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-11-15 10:31:21 UTC ===
-new items: 11, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン/07SS宮下期フードドッキングオンブレチェッ kw=number (n)ine price=15800
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU チュニックシャツ UNDERCOVER 2WAY L kw=undercover price=4000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GU UNDERCOVER ブルーシャツ silent no kw=undercover price=2200
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
@@ -1994,6 +1976,24 @@ item: ⑫2目〜50%OFF pledge プレッジ　スヌーピー　ロ kw=number (n)
     vs 2034814464 -> False
     vs 934301278 -> False
 item: GU undercover スタジャン　ブラック kw=undercover price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-11-15 23:31:24 UTC ===
+new items: 3, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NIKE x UNDERCOVER Moc Flow Bla kw=undercover price=12000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 新品 Rick Owens RAMONES 41 ガムソール kw=rick owens price=139000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR トートバッグ 総柄 kw=hysteric glamour price=1500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
