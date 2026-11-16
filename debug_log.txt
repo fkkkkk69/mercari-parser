@@ -1,68 +1,5 @@
     vs 1444559584 -> False
     vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR 長袖Tシャツ ブラック kw=hysteric glamour price=7700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 希少　ヒステリックグラマー　ニットカーディガン　アンゴラ混　 kw=hysteric glamour price=12500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ソックス ブルー kw=hysteric glamour price=2700
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: HYSTERIC GLAMOUR キャップ kw=hysteric glamour price=17777
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Supreme HYSTERIC GLAMOUR Crewn kw=hysteric glamour price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-11-16 05:46:23 UTC ===
-new items: 12, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: NUMBER (N)INE エルボーパッチ パーカー フーデ kw=number (n)ine price=4800
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: numbe(n)ine 弾痕　スカルパーカー 訳あり kw=number (n)ine price=38000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナイン ボア ランチコート ジャケット アーカイブ  kw=number nine price=28400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 希少　UNDERCOVER トートバッグ kw=undercover price=7590
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GU UNDERCOVER KOSMIK NOISE スウェ kw=undercover price=1900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: (希少)UNDERCOVER 05AW ARTS&CRAFT kw=undercover price=40000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR デニムオーバーオール つな kw=hysteric glamour price=9000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【90s】ヒステリックグラマー 白 Tシャツ　Sサイズ kw=hysteric glamour price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: Hysterics パーカー スカル ストロベリー kw=hysteric glamour price=19800
@@ -1995,6 +1932,69 @@ item: HYSTERIC GLAMOUR L.A.BABE Tシャツ kw=hysteric glamour price=7999
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: HYSTERIC GLAMOUR ドンキー襟 ニットジャケッ kw=hysteric glamour price=12800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-16 13:31:29 UTC ===
+new items: 13, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER(N)INE Tシャツ kw=number (n)ine price=40000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ナンバーナイン05AWレザー レースアップブーツ kw=number (n)ine price=39000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER アンダーカバー U刺繍 シャツ 長袖  kw=undercover price=7220
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 試着のみ UNDERCOVER モヘアニット セーター サイ kw=undercover price=34800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 21ss "rick owens" cashmere lib kw=rick owens price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 箱付き定価16万 ‼️Rick Owens JUMBOLAC kw=rick owens price=99999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Rick Owens × Dr. Martens STEEL kw=rick owens price=72000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Panasonic シーリングライト LGB 51569WC kw=lgb price=4900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: HYSTERIC GLAMOUR Tシャツ ホワイト kw=hysteric glamour price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: イチカハ様専用HYSTERIC GLAMOUR ミニTシャツ kw=hysteric glamour price=9900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ビーニー stussy ヒステリックグラマー supreme kw=hysteric glamour price=1750
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: ヒステリックグラマー ヒスガール 両面プリント 薄手ジップパ kw=hysteric glamour price=13980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー ブルゾン ジャケット ビック ック サ kw=hysteric glamour price=45492
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
