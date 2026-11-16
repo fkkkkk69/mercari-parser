@@ -1,43 +1,3 @@
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU×アンダーカバー 長袖シャツ ホワイト XL kw=undercover price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 【希少新品】GU × UNDERCOVER ヘビーウエイトス kw=undercover price=5500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GU × UNDERCOVER チノフレアパンツ ブラック  kw=undercover price=3000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 26AW★ GU × UNDERCOVER ジーユー × ア kw=undercover price=3390
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: Rick Owens drkshdw 41.5 ラモーンズ　 kw=rick owens price=55000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: rick owens drkshdw kw=rick owens price=87000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ブラック コーティング フレアデニム パンツ kw=rick owens price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR シャンブレーシャツ　レディ kw=hysteric glamour price=8800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: ヒステリックグラマー POP STRAWBERRY イチゴ柄 kw=hysteric glamour price=15800
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1995,6 +1955,46 @@ item: UNDERCOVER モッズコート ブラック kw=undercover price=33000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 【レア】【入手困難】ヒステリックグラマー　MA-1 フライト kw=hysteric glamour price=33000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-16 04:01:23 UTC ===
+new items: 8, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ナンバーナイン　スニーカー kw=number (n)ine price=3000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: undercover 16ss waxed hagi sca kw=undercover price=343333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVERISM 12AW archive 無地  kw=undercoverism price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: rick owens drkshdw 21ss gimp 旧 kw=rick owens price=30000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 新品未使用　Rick Owens rib ls 42 ロンt kw=rick owens price=38000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ヒステリックグラマー ロゴ kw=hysteric glamour price=7980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: Supreme HYSTERIC GLAMOUR ジップアッ kw=hysteric glamour price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR パーカー ブラック LAR kw=hysteric glamour price=22999
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
