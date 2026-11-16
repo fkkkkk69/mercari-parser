@@ -1,33 +1,3 @@
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 希少　NUMBER (N)INE 05ss ナイトクローラー kw=number (n)ine price=65000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: アンダーカバー ほつれ コーチジャケット ブラック 復刻 3 kw=undercover price=52000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ✨新品未使用品✨ジーユー アンダーカバー コラボ ロングダウ kw=undercover price=6980
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: RickOwensジャンボレース kw=rick owens price=35000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens Drkshdw MOUNTAIN HO kw=rick owens price=52500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: リックオウエンス風厚底ブーツ　メンズ　レディース kw=rick owens price=8299
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: ヒステリックグラマー　ベルト kw=hysteric glamour price=3000
     vs 1444559584 -> False
@@ -1998,3 +1968,33 @@ item: ヒステリックグラマー Speedster メッシュキャップ  kw=hyst
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-11-16 16:16:31 UTC ===
+new items: 6, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Rick Owens リックオウエンス　pods フルレング kw=rick owens price=24444
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: jent louis MA-1 グレー kw=rick owens price=18000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ライダースジャケット 本革 羊革 ブラック XL kw=rick owens price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【新品未使用】HYSTERIC GLAMOUR ヒステリック kw=hysteric glamour price=7500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: ヒステリックグラマー　ヒスガール　総柄 ジップアップパーカー kw=hysteric glamour price=11900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー ナイロンジャケット 両面ビックロ入り  kw=hysteric glamour price=51500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
