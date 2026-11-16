@@ -1,21 +1,3 @@
-item: UNDERCOVER フランケンシュタイン Tシャツ ホワイ kw=undercover price=500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: Rick Owens GIMP VEST ハラコ ギンプベス kw=rick owens price=380000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【Rick Owens】MEGA BUMPER SNEAKS kw=rick owens price=230000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: rick owens drkshdw spiral zip  kw=rick owens price=515000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックス モヘヤ混タートルニット ヒステリックグラマー kw=hysteric glamour price=7500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> True
@@ -1995,6 +1977,24 @@ item: 希少ヤクウール素材 リックオウエンス フルジップ パ�
     vs 2034814464 -> False
     vs 934301278 -> False
 item: Rick Owens Geobasket 風 スニーカー　黒 kw=rick owens price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-16 19:01:25 UTC ===
+new items: 3, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER アンダーカバー U刺繍 シャツ 長袖  kw=undercover price=7220
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 新品 UNDERCOVERISM(アンダーカバイズム)ノース kw=undercoverism price=19000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=8500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
