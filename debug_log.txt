@@ -1,63 +1,3 @@
-new items: 6, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 00s Wool Napoleon Coat　archive kw=number (n)ine price=9990
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: SP 07AW ナンバーナイン ラムレザーヨーク ダウンベス kw=number nine price=50000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER アンダーカバー U刺繍 シャツ 長袖  kw=undercover price=7220
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: Rick Owens ゲオバスケット 正規 kw=rick owens price=88000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Asapmode 15oz Raw Selvedge Boo kw=rick owens price=26666
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: goar archive Black Croco Sサイズ kw=rick owens price=44444
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-11-15 17:01:21 UTC ===
-new items: 2, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ヒステリックグラマー×プレイボーイ　スウェット kw=hysteric glamour price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: ★美品★希少★ ヒステリックグラマー　ヒスガール　長袖カット kw=hysteric glamour price=14500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-11-15 17:16:24 UTC ===
-new items: 7, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: UNDERCOVER × FRAGMENT × ALPHA  kw=undercover price=67000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER Used Wash Denim Jac kw=undercoverism price=88000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens mollino jacket レザー　 kw=rick owens price=180000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: CIVARIZE zip gimmick denim arc kw=lgb price=22000
     vs 1444559584 -> False
@@ -1995,6 +1935,66 @@ item: HYSTERIC GLAMOUR 長袖Tシャツ kw=hysteric glamour price=15000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 【雰囲気抜群❗️】00's HYSTERIC GLAMOUR kw=hysteric glamour price=13800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-16 09:31:33 UTC ===
+new items: 12, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 希少品✨ナンバー　Number パーカー　ジャージ　トラック kw=number (n)ine price=4500
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: アンダカバー　ナンバーナイン　雑誌付録　缶バッジ kw=number (n)ine price=5000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU×UNDERCOVER MA-1 ブルゾン カーキ kw=undercover price=8888
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: GU×UNDERCOVER ジップアップMA-1ブルゾン ブ kw=undercover price=3999
+    vs 1444559584 -> False
+    vs 2034814464 -> True
+    notify result: ok
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: CINDY SHERMAN スウェット kw=undercover price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR Tシャツ L kw=hysteric glamour price=4800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=8500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR 長袖Tシャツ kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 難あり　HYSTERIC GLAMOUR ヒステリックグラマ kw=hysteric glamour price=3999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 【極美品☆ドラゴン刺繍☆XLサイズ】ヒステリックグラマー ニ kw=hysteric glamour price=29000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 激レアHYSTERIC GLAMOUR MINI ガラスプレ kw=hysteric glamour price=3333
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: HYSTERIC GLAMOUR ニットスエット　M kw=hysteric glamour price=10000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
