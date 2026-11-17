@@ -1,40 +1,4 @@
     vs 934301278 -> False
-item: 未使用Rick Owens 09 ランウェイ 超ロングスパッ kw=rick owens price=29000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 新品別注　Rick Owens ビルケンシュトック　アリゾナ kw=rick owens price=48800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Sexxdevil スタッズレザーパンツ　opium y2k kw=rick owens price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens 20awノースリーブカットソー kw=rick owens price=26000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: MIJKO Bolan Banana ボランバナナ ジップフ kw=rick owens price=2500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens DRKSHDW チョークホワイト kw=rick owens price=23500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 新品未使用タグ付き　Rick Owens カプリパンツ　クロ kw=rick owens price=24000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 新品未使用タグ付き　Rick Owens✖️BIRKENST kw=rick owens price=29999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: "rick owens"drawstring karloff kw=rick owens price=31000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: lgb パーカー　セット kw=lgb price=650000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1995,6 +1959,42 @@ new items: 1, subscribers: 3
   sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
   sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
 item: ヒステリックグラマー ヒスガール 短丈 ナイロンジャケット  kw=hysteric glamour price=18980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-17 00:16:38 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU×UNDERCOVER トラックジャケット サイズL　カ kw=undercover price=3999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: タグ付 GU×アンダーカバー コンバーチブルパデッドブルゾン kw=undercover price=7990
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: UNDERCOVER 希少　チェ・ゲバラ ステンカラーコート kw=undercoverism price=54800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 早い者勝ち　希少　Rick Owens ピンク　size42 kw=rick owens price=50000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ピアス 片耳用 S925  kw=hysteric glamour price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: ヒステリックグラマー　厚手　パンダ刺繍　オーバーサイズ　チェ kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: REVENGE X STORM HYSTERIC GLAMO kw=hysteric glamour price=15000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
