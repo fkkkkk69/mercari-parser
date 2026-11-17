@@ -1,12 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 正規品 美品 Rick Owens ネックウォーマー kw=rick owens price=17000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens リックオウエンス ダウンジャケット kw=rick owens price=80000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: 未使用Rick Owens 09 ランウェイ 超ロングスパッ kw=rick owens price=29000
     vs 1444559584 -> False
@@ -1995,6 +1986,15 @@ item: 【新品】ヒステリックグラマー SEE NO EVIL スタッ kw=hyster
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 90年代　レア物　 ヒステリックグラマー スウェット ニット kw=hysteric glamour price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-17 00:01:27 UTC ===
+new items: 1, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ヒステリックグラマー ヒスガール 短丈 ナイロンジャケット  kw=hysteric glamour price=18980
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
