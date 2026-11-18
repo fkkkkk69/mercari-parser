@@ -1,24 +1,3 @@
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 2001s/s UNDERCOVER　KAWS アンダーカバ kw=undercover price=19800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER ジャガード猫柄 ニット セットア kw=undercover price=5200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: GU×UNDERCOVER ハイウエストチェックパンツ kw=undercover price=2000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 正規店購入品！リックオウエンス 7分丈カットソー 裏起毛 ホ kw=rick owens price=33000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: remake！ルグランブルー クラッシュ加工 Tシャツ kw=lgb price=3300
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1977,24 @@ item: 【HYSTERIC GLAMOUR】beauty salon kw=hysteric glamour price=3988
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ERROR: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+=== run at 2026-11-18 15:16:32 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Rick Owens DRKSHDW Detroit Cut kw=rick owens price=158000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: barakスカルロングカットソー　LGB if six wa kw=lgb price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 初期L.G.B. ボクサースウェット メンズ1 新品タグ付き kw=lgb price=37000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　サークルガール刺繍　ニット帽　ビーニー kw=hysteric glamour price=13000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
