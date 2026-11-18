@@ -1,40 +1,3 @@
-    vs 934301278 -> False
-item: 【中古】 ナンバー・ナイン あの夜の相手は誰? 全2巻 完結 kw=number nine price=1580
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: NUMBER NINE (Japanese ver.) /  kw=number nine price=9698
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NUMBER NINE コート（その他） メンズ 【古着】【 kw=number nine price=50900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NUMBER NINE (Japanese ver.) /  kw=number nine price=16506
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヴィンテージ ナンバーナイン デニムライン NUMBER(N kw=number nine price=11197
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナイン NUMBER(N)INE ナイト期 05ss kw=number nine price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナイン　穴空きエンブレムパーカー　2　グレー　スタン kw=number nine price=37400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NUMBER (N)INE 03 カート期 パジャマ セット kw=number nine price=65500
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナイン　2005s ブラックデニムハーフパンツ　ハー kw=number nine price=17980
-    vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 【美品】アンダーカバー PSYCHO オーバーサイズ スウェ kw=undercover price=18800
@@ -1998,3 +1961,40 @@ item: 【レア】HYSTERIC GLAMOUR ロゴ スタッズ ベ kw=hysteric glamour p
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-11-18 03:16:24 UTC ===
+new items: 7, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ボンド ナンバーナイン マディソン アベニュー オードパルフ kw=number (n)ine price=8500
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER ノースリーブパーカー kw=undercover price=10000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ドッグタグ ネックレス kw=hysteric glamour price=9000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ピックチャーム ネックレス kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 可愛いくまちゃん⭐︎HYSTERICトレーナー kw=hysteric glamour price=5500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: HYSTERIC GLAMOUR ピックチャーム ブレスレッ kw=hysteric glamour price=8000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: ヒステリックグラマー　DART TRACKTシャツ　Lサイズ kw=hysteric glamour price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
