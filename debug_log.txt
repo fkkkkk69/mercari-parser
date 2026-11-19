@@ -1,21 +1,4 @@
     vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: HYSTERIC GLAMOUR SEE NO EVIL ポ kw=hysteric glamour price=9999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR 総柄ジップアップジャケット kw=hysteric glamour price=9999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR HYSTERIC NOIS kw=hysteric glamour price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー✨トートバッグ✨ヒスガール✨キルティング kw=hysteric glamour price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR デニムジャケット 赤裏地  kw=hysteric glamour price=10000
     vs 1444559584 -> False
@@ -1995,6 +1978,23 @@ item: ヒステリックグラマー EVIL COLLEGE ポーチ kw=hysteric glamour 
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: HYSTERIC GLAMOUR パーカー Sサイズ 女性着 kw=hysteric glamour price=11100
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-19 01:16:25 UTC ===
+new items: 3, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 鈴木亜美　厚底 スニーカー ブラック ホワイト kw=rick owens price=28000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 4518M【美品】ヒステリックグラマー☆ヒスガール SMOK kw=hysteric glamour price=35000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 即決値下げ可 90's ヒステリックグラマー マフラー kw=hysteric glamour price=13800
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
