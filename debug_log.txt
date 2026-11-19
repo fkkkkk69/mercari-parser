@@ -1,25 +1,3 @@
-    vs 934301278 -> False
-item: Rick Owens レザーカーゴパンツ kw=rick owens price=350000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: L.G.B. DRAGON TRIP zip foodie kw=lgb price=72000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: hysteric glamour Wind and sea  kw=hysteric glamour price=15000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【希少】HYSTERIC GLAMOUR Cannabis  kw=hysteric glamour price=12800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Hysterics 長袖ポロシャツ ボーダー ラメ kw=hysteric glamour price=30000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: hysteric glamour ヒステリック　ロンT Ｌ kw=hysteric glamour price=15000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
@@ -1995,6 +1973,28 @@ item: HYSTERIC GLAMOUR STAR WOMAN ビー kw=hysteric glamour price=33000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 極美品 HYSTERIC GLAMOUR コーデュロイ ボア kw=hysteric glamour price=19999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-19 03:16:28 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: HYSTERIC GLAMOUR ダイスプリントカットソー kw=hysteric glamour price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: バナナ柄　ヒステリックグラマーニット kw=hysteric glamour price=9800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　SEE NO EVIL スタッズメッシ kw=hysteric glamour price=18800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ヒステリックグラマー　SEE NO EVIL スタッズメッシ kw=hysteric glamour price=17000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
