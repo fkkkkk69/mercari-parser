@@ -1,17 +1,3 @@
-item: NUMBER (N)INE テーラードジャケット ネイビー kw=number (n)ine price=13000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: GU×UNDERCOVER ボアジャケット ブラウン M kw=undercover price=4100
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: archive under cover チェッカー　シャツ kw=undercover price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: NIKE UNDERCOVER 2019 AIR MAX 7 kw=undercover price=15000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1984,17 @@ item: HYSTERIC GLAMOUR メッシュキャップ Hyst kw=hysteric glamour price=6
     vs 2034814464 -> False
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+=== run at 2026-11-19 02:16:24 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: L471 NUMBER (N)INE ナンバーナイン ハイス kw=number (n)ine price=35000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【HYSTERIC GLAMOUR 】美品　スウェット kw=hysteric glamour price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
