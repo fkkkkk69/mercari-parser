@@ -1,29 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマーキャップ kw=hysteric glamour price=10000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR Tシャツ ホワイト M kw=hysteric glamour price=6200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 総柄スウェットトップス◆ヒステリックグラマー kw=hysteric glamour price=5000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 美品 ✨️ Hysterics ヒステリック デニムジャケッ kw=hysteric glamour price=3398
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: 希少　新品未使用　HYSTERIC GLAMOUR ステッカ kw=hysteric glamour price=26000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: HYSTERIC GLAMOUR ショートパンツ y2kグラ kw=hysteric glamour price=8720
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1995,6 +1969,32 @@ item: Rick Owens Geobasket 39 ジオバス 確 kw=rick owens price=65000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR カモ柄 スリムデニム 30 kw=hysteric glamour price=14800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-20 03:46:23 UTC ===
+new items: 5, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: NUMBER (N)INE ショルダー バッグ ベージュ レ kw=number (n)ine price=8600
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【レア】UNDERCOVERオリーブ ダウンジャケットエクス kw=undercover price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 新品UNDERCOVER CindySherman スウェッ kw=undercover price=25000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVERISM カシミヤ混 ダッフルコート 黒  kw=undercoverism price=27800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 4507M【美品】ヒステリックグラマー☆ヒスガール スモーキ kw=hysteric glamour price=28000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
