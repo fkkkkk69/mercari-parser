@@ -1,27 +1,4 @@
     vs 934301278 -> False
-item: HYSTERIC GLAMOUR DOUBLE SPEED  kw=hysteric glamour price=11400
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【新品未使用】HYSTERIC GLAMOUR ヒステリック kw=hysteric glamour price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOURヒステリックグラマードッグタ kw=hysteric glamour price=6500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-=== run at 2026-11-21 06:16:27 UTC ===
-new items: 12, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: Number [n]ine ジョージ期 ラビットファー ボン kw=number (n)ine price=118000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: swag boa black blouson kw=number (n)ine price=9000
     vs 1444559584 -> True
     notify result: ok
@@ -1998,3 +1975,26 @@ item: HYSTERIC GLAMOUR WOMAN BANANA  kw=hysteric glamour price=12000
     vs 934301278 -> False
 === run at 2026-11-21 17:16:24 UTC ===
 no new items
+=== run at 2026-11-21 17:31:25 UTC ===
+new items: 4, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: UNDERCOVER JUN TAKAHASHI Tシャツ  kw=undercover price=3400
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: Rick owens archive leather jac kw=rick owens price=230000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ADIDAS X RICK OWENS SPRINGBLAD kw=rick owens price=99000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ピック ネックレス kw=hysteric glamour price=6800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
