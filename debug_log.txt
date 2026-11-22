@@ -1,44 +1,4 @@
     vs 934301278 -> False
-item: number nine tシャツ　本人期 kw=number nine price=45000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NUMBER(N)INE 06AW NOIR期 アーガイル  kw=number nine price=32900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 新品 UNDERCOVER Lost Cloud スウェット kw=undercover price=36590
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER scab期 スキニーデニム ブラック  kw=undercover price=34900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owensパンツ RU20F3390-WE kw=rick owens price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens23SS BOLAN BOOTCUT kw=rick owens price=60000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 新品タグ付 RickOwens Champion ジャンボウ kw=rick owens price=79800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens カジュアルシャツ メンズ 【古着】【中 kw=rick owens price=41670
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: リックオウエンスリリーズ レディース トップス ワンピース  kw=rick owens price=63800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: RICK OWENS (リックオウエンス) メンズ ジャケッ kw=rick owens price=251900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
 item: 未使用/RICK OWENS リックオウエンス 正規品 ブル kw=rick owens price=98455
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1995,6 +1955,46 @@ item: Hysterics 牛革 シングルライダース　ヒステリックグ kw=hy
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERICGLAMOUR #HG LOGO TYPE  kw=hysteric glamour price=15800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-22 06:46:29 UTC ===
+new items: 8, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: 未使用新品GUUNDERCOVER2WAYオーバーサイズモッ kw=undercover price=6900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: GATEAU FESTA HARADA 空き缶のみ UNDE kw=undercover price=1000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 【新品未使用】Rick Owens キャップ owens c kw=rick owens price=29999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: リックオウエンス風 カーゴベラ パンツ kw=rick owens price=5000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 00s archive LGB S-WOLF damage  kw=lgb price=39999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOURジャカード セーター美品 kw=hysteric glamour price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR キーホルダー YOU PA kw=hysteric glamour price=3500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: HYSTERIC GLAMOUR メッシュキャップ 帽子 kw=hysteric glamour price=9500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
