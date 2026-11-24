@@ -1,16 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: NIKE undercover GYAKUSOU ナイキ　ア kw=undercover price=14000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens 2025SS TOUR ALICE S kw=rick owens price=159999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens BOLAN BOOTCUT ブラック  kw=rick owens price=95000
-    vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
 item: Gゲージ LGB レーマン 信号灯付き車止め　 No.103 kw=lgb price=4800
@@ -1995,6 +1982,19 @@ item: ヒステリックグラマー刺繍入りカーディガン kw=hysteric g
     vs 934301278 -> True
     notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: HYSTERIC GLAMOUR ジップアップパーカー kw=hysteric glamour price=20000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-24 07:16:26 UTC ===
+new items: 2, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: LGB ラクーン style ジップパーカー kw=lgb price=28500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【希少】ヒステリックグラマー CUTS コーチジャケット 黒 kw=hysteric glamour price=12000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
