@@ -1,13 +1,3 @@
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナイン メッシュニット archive 04aw kw=number (n)ine price=50000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 美品RICK OWENSリックオウエンス　ダウンジャケット  kw=rick owens price=89000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: 美品RICK OWENSリックオウエンス Gimp ダウンベ kw=rick owens price=98000
     vs 1444559584 -> False
@@ -1998,3 +1988,13 @@ item: Supreme x ヒステリックグラマー Mohair Zi kw=hysteric glamour pri
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
+=== run at 2026-11-24 22:16:24 UTC ===
+new items: 1, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: HYSTERIC GLAMOUR MONOGRAM柄ジャカー kw=hysteric glamour price=6399
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
