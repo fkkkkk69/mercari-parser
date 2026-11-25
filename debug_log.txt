@@ -1,47 +1,3 @@
-    vs 934301278 -> False
-item: RICK OWENS DRKSHDWハイカットスニーカー kw=rick owens price=70000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: asapmode Raw Selvedge Loose Fi kw=rick owens price=11000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: junkiichikawa着用　Rick Owens 23S kw=rick owens price=120000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 希少　HYSTERIC GLAMOUR Tシャツ Mサイズ kw=hysteric glamour price=13000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 【希少L】ヒステリックグラマー ナイロンコーチジャケット 黒 kw=hysteric glamour price=12000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-11-24 10:31:28 UTC ===
-new items: 13, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: ナンバーナイン NUMBER (N)INE スタジャン ジャ kw=number (n)ine price=58000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Number (N)ine 06SS ミラークロス ネックレ kw=number (n)ine price=52000
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ナンバーナイン　2007s レーヨンウエスタンシャツ　サイズ kw=number (n)ine price=18980
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: vintage number nine knit cardi kw=number (n)ine price=26600
-    vs 1444559584 -> True
-    notify result: ok
     vs 2034814464 -> False
     vs 934301278 -> False
 item: 希少　美品　リーバイス　Lefty Jean レフティジーン kw=number (n)ine price=12000
@@ -1995,6 +1951,50 @@ item: 確認用 kw=hysteric glamour price=100000
     vs 2034814464 -> False
     vs 934301278 -> False
 item: ヒステリックグラマー/HYSTERIC GLAMOUR ジャ kw=hysteric glamour price=15555
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-25 03:16:26 UTC ===
+new items: 9, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: ナンバーナイン 美品 希少サイズ アーカイブ 04AW 本人 kw=number (n)ine price=125550
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: NUMBER (NINE) 直営店限定 デニムパンツ ブラッ kw=number (n)ine price=34800
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER JUN TAKAHASHI パーカー kw=undercover price=8800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER × Champion スウェット黒S  kw=undercover price=11000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: WTAPS M3 アンダーカバー エリオットタータン ピール kw=undercover price=24000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: レア/廃番【ジーユー×アンダーカバー】限定コラボ MA-1  kw=undercover price=18980
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 140 ユニクロ　アンダーカバー　レオパード柄　スウェット kw=undercover price=450
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 美品 Rick Owens SECURITY POCKET  kw=rick owens price=38000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Rick Owens Little Joe HUSTLER  kw=rick owens price=350000
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
