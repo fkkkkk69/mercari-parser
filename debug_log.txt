@@ -1,44 +1,3 @@
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: _15328426様専用。他の方はご購入しないでください。ヒ kw=hysteric glamour price=13800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: がらかぶ様 リクエスト 2点 まとめ商品 kw=hysteric glamour price=28000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-=== run at 2026-11-24 09:16:29 UTC ===
-new items: 11, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: MARLBORO x NUMBER (N)INE Tシャツ  kw=number (n)ine price=3300
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: MARLBORO x NUMBER (N)INE スターTシ kw=number (n)ine price=3900
-    vs 1444559584 -> True
-    notify result: ok
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER 23ss pinkfloyd テーラー kw=undercover price=40000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: UNDERCOVER レザー切替 ライダースジャケット kw=undercover price=49900
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Rick Owens ラモーンズ 2023 スニーカー 42 kw=rick owens price=90000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 最終価格‼️RickOwens BEATLE BOZOTRA kw=rick owens price=85600
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR KILLER 長袖Tシャツ kw=hysteric glamour price=4200
     vs 1444559584 -> False
@@ -1995,6 +1954,47 @@ item: LGB ルグランブルー SHIRT-G チェック ノースリー kw=lgb pric
     vs 2034814464 -> False
     vs 934301278 -> False
 item: ヒステリックグラマー VINYL JUNKIE メッシュキャ kw=hysteric glamour price=13500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-25 01:46:33 UTC ===
+new items: 8, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU x UNDERCOVER ダブルフェイスショーツ　ブラ kw=undercover price=750
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 【タグ付き新品】GU UNDERCOVER Disney 白 kw=undercover price=900
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: FRACTION 元 Rick Owens 26SS 美品  kw=rick owens price=37000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: LGB ルグランブルー REST PLACE クロス パッチ kw=lgb price=38000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: ARCHIVEバタフライプリント 半袖Tシャツ グレー kw=lgb price=1500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: LGB ルグランブルー CARDI/STD ドレープ ロング kw=lgb price=22000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR スウェット 70 カスタム kw=hysteric glamour price=6000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: ＨＹＳＴＥＲIＣ　ＧＬＡＭＯＵＲ　ヒステリックグラマー　ロン kw=hysteric glamour price=9500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
