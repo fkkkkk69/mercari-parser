@@ -1,13 +1,3 @@
-=== run at 2026-11-25 08:01:26 UTC ===
-new items: 14, subscribers: 3
-  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
-  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
-  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
-item: 【美品】ジーユー×アンダーカバー/24SS/2WAYダブルラ kw=undercover price=6800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
 item: Rick Owens RAMONES レザー ハイカット 4 kw=rick owens price=90000
     vs 1444559584 -> False
     vs 2034814464 -> False
@@ -1998,3 +1988,13 @@ item: 【極希少】日の丸タグ　ヒステリックグラマー　スタ�
     vs 934301278 -> False
 === run at 2026-11-25 19:46:32 UTC ===
 no new items
+=== run at 2026-11-25 20:01:26 UTC ===
+new items: 1, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: GU UNDERCOVER ケーブルニットカーディガン ブラ kw=undercover price=1999
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
