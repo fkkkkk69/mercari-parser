@@ -1,55 +1,3 @@
-item: GU トラックジャケット UNDERCOVER ブラック S kw=undercover price=4499
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> True
-    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
-item: RICK OWENS DRKSHDW CREATCH CAR kw=rick owens price=44500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: RickOwens drkshdw カーゴベラ TW kw=rick owens price=88000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: 入手困難！グラデーションパーカー☆LGB☆KMRII☆14t kw=lgb price=32000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: L.G.B. ルグランブルーパーカー kw=lgb price=23000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: LGB ルグランブルー ドラゴンタンクトップ パープル kw=lgb price=25000
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: LGB ルグランブルー BACK CROSS ロンT 長袖カ kw=lgb price=39999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: Hysteric Glamour Cap kw=hysteric glamour price=9800
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR/ヒステリックグラマー バケ kw=hysteric glamour price=9999
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR ニット帽 ビーニー kw=hysteric glamour price=8888
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR カーディガン kw=hysteric glamour price=9500
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: HYSTERIC GLAMOUR MEN GUITAR GI kw=hysteric glamour price=13200
-    vs 1444559584 -> False
-    vs 2034814464 -> False
-    vs 934301278 -> False
-item: ヒステリックグラマー 中綿 キルティング デニムジャケット  kw=hysteric glamour price=11480
-    vs 1444559584 -> False
-    vs 2034814464 -> False
     vs 934301278 -> False
 item: ヒステリックグラマー　バケットハット　メンズM ポーラテック kw=hysteric glamour price=12000
     vs 1444559584 -> False
@@ -1995,6 +1943,58 @@ item: HYSTERIC GLAMOUR 日本製 つなぎ オールイン kw=hysteric glamour p
     vs 2034814464 -> False
     vs 934301278 -> False
 item: HYSTERIC GLAMOUR★SEE NOEVILデビル kw=hysteric glamour price=28800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+=== run at 2026-11-28 02:46:26 UTC ===
+new items: 11, subscribers: 3
+  sub 1444559584: brands=['number (n)ine'], price=10-10000000000000, active=True
+  sub 2034814464: brands=['number nine', 'undercover', 'undercoverism', 'rick owens'], price=None-None, active=True
+  sub 934301278: brands=['undercover', 'lgb', 'number nine', 'hysteric glamour'], price=None-None, active=True
+item: Number 21 スニーカー風　本革スェード kw=number (n)ine price=5000
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: marlboro × number (n)ine コラボTシ kw=number (n)ine price=9999
+    vs 1444559584 -> True
+    notify result: ok
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: UNDERCOVER◆変形◆ドッキング◆スウェット◆アンダー kw=undercover price=15800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: sacai × UNDERCOVER トレーナーブラック　X kw=undercover price=15000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Rick Owens Geobasket Mega Bump kw=rick owens price=125000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: LGB ルグランブルー モモンガ kw=lgb price=14800
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: Hysteric Glamour デニムスカート　ロゴ kw=hysteric glamour price=5555
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> True
+    notify result: ERROR: A request to the Telegram API was unsuccessful. Error code: 403. Description: Forbidden: bot was blocked by the user
+item: 【完売品】HYSTERIC GLAMOUR メッシュキャップ kw=hysteric glamour price=19500
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: HYSTERIC GLAMOUR ミリタリージャケット　M6 kw=hysteric glamour price=49000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 【HYSTERIC GLAMOUR X WDS】RANCH  kw=hysteric glamour price=65000
+    vs 1444559584 -> False
+    vs 2034814464 -> False
+    vs 934301278 -> False
+item: 00s HYSTERIC GLAMOUR ナイロン アノラッ kw=hysteric glamour price=9500
     vs 1444559584 -> False
     vs 2034814464 -> False
     vs 934301278 -> False
